@@ -1,0 +1,1166 @@
+{
+ "id": 4,
+ "title": "Picture this",
+ "topic": "Photography and the stories behind images",
+ "color": "#8b3dff",
+ "vocab": [
+  {
+   "name": "Photography",
+   "words": [
+    [
+     "angle",
+     "noun",
+     "the position from which you look at or photograph something",
+     "ángulo",
+     "Try taking the photo from a low *angle*."
+    ],
+    [
+     "close-up",
+     "noun",
+     "a photo taken very near the subject",
+     "primer plano",
+     "This *close-up* shows the details of the flower."
+    ],
+    [
+     "contrast",
+     "noun",
+     "a clear difference between light and dark or colours",
+     "contraste",
+     "Black and white photos often have strong *contrast*."
+    ],
+    [
+     "depth",
+     "noun",
+     "the feeling of distance in a picture",
+     "profundidad",
+     "The trees in front give the photo more *depth*."
+    ],
+    [
+     "effective",
+     "adj",
+     "producing the result you want",
+     "eficaz, efectivo/a",
+     "Simple images are often the most *effective*."
+    ],
+    [
+     "flash",
+     "noun",
+     "a bright light on a camera used in the dark",
+     "flash",
+     "Turn off the *flash* in the museum."
+    ],
+    [
+     "frame",
+     "noun / verb",
+     "the edges of a picture; to arrange the edges",
+     "encuadre / encuadrar",
+     "*Frame* your subject in the centre of the picture."
+    ],
+    [
+     "highlight",
+     "verb",
+     "to make something easy to notice",
+     "resaltar, destacar",
+     "The sunlight *highlights* her face."
+    ],
+    [
+     "impact",
+     "noun",
+     "a strong effect on people",
+     "impacto",
+     "That photo had a huge *impact* on the public."
+    ],
+    [
+     "point at",
+     "phrasal verb",
+     "to aim something towards a person or thing",
+     "apuntar a, señalar",
+     "*Point* the camera *at* the bird and wait."
+    ],
+    [
+     "set up",
+     "phrasal verb",
+     "to prepare equipment so it's ready to use",
+     "montar, preparar",
+     "It took ten minutes to *set up* the tripod."
+    ],
+    [
+     "shoot",
+     "verb",
+     "to take photos or film",
+     "fotografiar, rodar",
+     "They *shot* the video on the beach."
+    ],
+    [
+     "shot",
+     "noun",
+     "a photo, or a part of a film",
+     "toma, foto",
+     "That's the best *shot* of the whole trip."
+    ],
+    [
+     "subject",
+     "noun",
+     "the person or thing in a photo",
+     "sujeto, motivo",
+     "The *subject* of the portrait is her grandmother."
+    ],
+    [
+     "viewer",
+     "noun",
+     "a person who looks at an image or watches something",
+     "espectador/a",
+     "The photo makes the *viewer* feel sad."
+    ]
+   ]
+  },
+  {
+   "name": "Prepositional phrases",
+   "words": [
+    [
+     "at first",
+     "phrase",
+     "at the beginning",
+     "al principio",
+     "*At first* I didn't like the photo, but now I love it."
+    ],
+    [
+     "by chance",
+     "phrase",
+     "without planning it",
+     "por casualidad",
+     "He took the famous picture *by chance*."
+    ],
+    [
+     "by far",
+     "phrase",
+     "by a big amount (with superlatives)",
+     "con diferencia",
+     "This is *by far* the best photo in the exhibition."
+    ],
+    [
+     "in a hurry",
+     "phrase",
+     "doing something quickly because you have little time",
+     "con prisa",
+     "I took the shot *in a hurry* and it was blurry."
+    ],
+    [
+     "in contrast",
+     "phrase",
+     "used to show a difference",
+     "en cambio, por el contrario",
+     "The city is noisy. *In contrast*, the village is peaceful."
+    ],
+    [
+     "in fact",
+     "phrase",
+     "used to give more true information",
+     "de hecho",
+     "It looks real. *In fact*, it's a painting."
+    ],
+    [
+     "in focus / out of focus",
+     "phrase",
+     "clear / not clear in a photo",
+     "enfocado / desenfocado",
+     "The background is *out of focus*."
+    ],
+    [
+     "in general",
+     "phrase",
+     "usually, in most situations",
+     "en general",
+     "*In general*, natural light is better."
+    ],
+    [
+     "out of the ordinary",
+     "phrase",
+     "unusual, different",
+     "fuera de lo común",
+     "Look for subjects that are *out of the ordinary*."
+    ]
+   ]
+  },
+  {
+   "name": "Extra: Adjective suffixes",
+   "extra": true,
+   "words": [
+    [
+     "cheerful",
+     "adj",
+     "happy and positive",
+     "alegre",
+     "It's a bright, *cheerful* picture."
+    ],
+    [
+     "cultural",
+     "adj",
+     "related to art, music, traditions",
+     "cultural",
+     "The city has a rich *cultural* life."
+    ],
+    [
+     "enjoyable",
+     "adj",
+     "that you enjoy",
+     "agradable, divertido/a",
+     "The workshop was really *enjoyable*."
+    ],
+    [
+     "hopeless",
+     "adj",
+     "very bad at something; without hope",
+     "inútil, desesperado/a",
+     "I'm *hopeless* at taking selfies."
+    ],
+    [
+     "impressive",
+     "adj",
+     "that makes you admire it",
+     "impresionante",
+     "The exhibition was *impressive*."
+    ],
+    [
+     "natural",
+     "adj",
+     "not made by people; normal",
+     "natural",
+     "I prefer *natural* light."
+    ],
+    [
+     "pleasant",
+     "adj",
+     "nice, enjoyable",
+     "agradable",
+     "We had a *pleasant* walk."
+    ],
+    [
+     "political",
+     "adj",
+     "related to government and power",
+     "político/a",
+     "Some photos carry a *political* message."
+    ],
+    [
+     "powerful",
+     "adj",
+     "having a strong effect",
+     "potente, poderoso/a",
+     "It's a very *powerful* image."
+    ],
+    [
+     "useless",
+     "adj",
+     "not useful at all",
+     "inútil",
+     "This old camera is *useless*."
+    ],
+    [
+     "valuable",
+     "adj",
+     "worth a lot of money or very useful",
+     "valioso/a",
+     "The original print is very *valuable*."
+    ]
+   ]
+  }
+ ],
+ "grammar": [
+  {
+   "id": "deduction",
+   "title": "Modals of deduction",
+   "short": "must, might, could, can't – present and past",
+   "slides": [
+    {
+     "k": "title",
+     "h": "Modals of deduction",
+     "sub": "Picture this: the story behind the photo",
+     "hook": "Look at a famous photo. Where might it have been taken? How must the subject have felt?"
+    },
+    {
+     "k": "table",
+     "h": "How sure are you?",
+     "cols": [
+      "Certainty",
+      "Present",
+      "Past"
+     ],
+     "rows": [
+      [
+       "~100% yes",
+       "must + verb",
+       "must have + past participle"
+      ],
+      [
+       "Maybe (50%)",
+       "might / may / could + verb",
+       "might / may / could have + past participle"
+      ],
+      [
+       "~100% no",
+       "can't / couldn't + verb",
+       "can't / couldn't have + past participle"
+      ]
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Present deduction",
+     "p": [
+      "We use these modals to guess about a photo or a situation now, based on the evidence we can see."
+     ],
+     "ex": [
+      "She's carrying a tripod. She **must be** a photographer.",
+      "The subject is smiling. He **might be** looking at his family.",
+      "That **can't be** a real photo – the contrast is impossible!"
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Continuous form",
+     "p": [
+      "For actions in progress now: modal + be + verb-ing."
+     ],
+     "ex": [
+      "They **must be shooting** a close-up – look at the camera angle.",
+      "The photographer **could be pointing** the camera at the bird."
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Past deduction",
+     "p": [
+      "To guess about the past: modal + have + past participle."
+     ],
+     "ex": [
+      "The photographer **must have waited** hours for that shot.",
+      "This picture **might have been** taken by chance.",
+      "He **can't have used** a flash – the photo is so dark."
+     ]
+    },
+    {
+     "k": "context",
+     "h": "Grammar in context",
+     "kind": "Article · Famous photos",
+     "title": "What happened before the shot?",
+     "text": [
+      "In this black-and-white photo, eleven workers are eating lunch on a steel beam high above New York. They **must have been** very brave – or very used to heights!",
+      "Some experts think the shot **might have been** planned by the photographer to promote the new skyscraper. The men **can't have been** completely relaxed, but they look calm.",
+      "The viewer **must feel** the impact of the empty space below them. In fact, that is why the photo is so powerful."
+     ]
+    },
+    {
+     "k": "mistakes",
+     "h": "Watch out!",
+     "items": [
+      [
+       "He mustn't be the photographer – he hasn't got a camera.",
+       "He can't be the photographer – he hasn't got a camera.",
+       "For negative deduction, use can't, not mustn't."
+      ],
+      [
+       "She must took the shot from a helicopter.",
+       "She must have taken the shot from a helicopter.",
+       "Past deduction: modal + have + past participle."
+      ],
+      [
+       "The photo could have be edited.",
+       "The photo could have been edited.",
+       "Use the past participle 'been'."
+      ]
+     ]
+    },
+    {
+     "k": "check",
+     "q": "The whole photo is out of focus. The photographer ___ moved the camera.",
+     "o": [
+      "must have",
+      "can't have",
+      "must"
+     ],
+     "a": 0,
+     "e": "Strong evidence about the past → must have + participle."
+    },
+    {
+     "k": "check",
+     "q": "That ___ the original photo. The original is in a museum in Paris!",
+     "o": [
+      "must be",
+      "might be",
+      "can't be"
+     ],
+     "a": 2,
+     "e": "It's impossible → can't be."
+    },
+    {
+     "k": "sum",
+     "h": "Remember",
+     "p": [
+      "must = I'm sure it's true.",
+      "might / may / could = it's possible.",
+      "can't / couldn't = I'm sure it's not true.",
+      "Past: modal + have + past participle."
+     ]
+    }
+   ],
+   "ex": {
+    "basic": [
+     {
+      "q": "He has a lot of cameras. He ___ love photography.",
+      "o": [
+       "must",
+       "can't",
+       "mustn't"
+      ],
+      "a": 0
+     },
+     {
+      "q": "She isn't answering. She ___ be busy.",
+      "o": [
+       "might",
+       "can't",
+       "has"
+      ],
+      "a": 0
+     },
+     {
+      "q": "That ___ be Tom. He's on holiday in Peru.",
+      "o": [
+       "can't",
+       "must",
+       "might"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Look at the snow. It ___ be very cold there.",
+      "a": [
+       "must"
+      ]
+     },
+     {
+      "q": "I'm not sure where she is. She ___ be in the darkroom.",
+      "o": [
+       "could",
+       "must",
+       "can't"
+      ],
+      "a": 0
+     },
+     {
+      "q": "This photo ___ be very old – it's in black and white.",
+      "o": [
+       "might",
+       "can't",
+       "mustn't"
+      ],
+      "a": 0
+     },
+     {
+      "r": "they must be on holiday in that photo"
+     },
+     {
+      "q": "He looks very happy. He ___ have won the prize.",
+      "o": [
+       "must",
+       "can't",
+       "mustn't"
+      ],
+      "a": 0
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "The ground is wet. It ___ (rain) last night.",
+      "a": [
+       "must have rained"
+      ]
+     },
+     {
+      "q": "She ___ (not / take) this photo. She doesn't have a camera.",
+      "a": [
+       "can't have taken",
+       "couldn't have taken"
+      ]
+     },
+     {
+      "q": "I can't find my phone. I ___ (leave) it at school. (possibility)",
+      "a": [
+       "might have left",
+       "may have left",
+       "could have left"
+      ]
+     },
+     {
+      "q": "They're laughing a lot. They ___ (have) a great time. (present continuous)",
+      "a": [
+       "must be having"
+      ]
+     },
+     {
+      "q": "The photo is blurry. He ___ moved the camera.",
+      "o": [
+       "must have",
+       "can't have",
+       "must"
+      ],
+      "a": 0
+     },
+     {
+      "q": "That ___ been easy to photograph – the lion was running!",
+      "o": [
+       "can't have",
+       "must have",
+       "might"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Where's Laura? – I'm not sure. She ___ (go) home early.",
+      "a": [
+       "might have gone",
+       "may have gone",
+       "could have gone"
+      ]
+     },
+     {
+      "r": "the photographer must have climbed the mountain"
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Rewrite: 'I'm sure he used a filter.' → He ___ a filter.",
+      "a": [
+       "must have used"
+      ]
+     },
+     {
+      "q": "Rewrite: 'It's impossible that she saw us.' → She ___ us.",
+      "a": [
+       "can't have seen",
+       "couldn't have seen"
+      ]
+     },
+     {
+      "q": "Rewrite: 'Perhaps the photo was taken in Paris.' → The photo ___ in Paris.",
+      "a": [
+       "might have been taken",
+       "may have been taken",
+       "could have been taken"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'He mustn't be the owner – he's too young.'",
+      "a": [
+       "He can't be the owner – he's too young.",
+       "He can't be the owner - he's too young."
+      ]
+     },
+     {
+      "q": "Rewrite: 'I'm sure they are working on the exhibition now.' → They ___ on the exhibition.",
+      "a": [
+       "must be working"
+      ]
+     },
+     {
+      "q": "Choose the best option: 'She knew all the answers. She ___ studied a lot.'",
+      "o": [
+       "must have",
+       "might be",
+       "can't have"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Which sentence is the LEAST certain?",
+      "o": [
+       "It must have been a mistake.",
+       "It could have been a mistake.",
+       "It can't have been a mistake."
+      ],
+      "a": 1
+     },
+     {
+      "r": "the picture can't have been taken by a professional"
+     }
+    ]
+   },
+   "ws": {
+    "basic": [
+     {
+      "q": "She's wearing a uniform. She ___ be a nurse.",
+      "o": [
+       "must",
+       "can't",
+       "mustn't"
+      ],
+      "a": 0
+     },
+     {
+      "q": "He ___ be at home. The lights are off.",
+      "o": [
+       "can't",
+       "must",
+       "has"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Maybe they're at the beach. → They ___ be at the beach.",
+      "a": [
+       "might"
+      ]
+     },
+     {
+      "q": "This ___ be her first photo. It's amazing!",
+      "o": [
+       "can't",
+       "must",
+       "mustn't"
+      ],
+      "a": 0
+     },
+     {
+      "q": "It ___ be expensive. It's a professional camera.",
+      "o": [
+       "must",
+       "can't",
+       "doesn't"
+      ],
+      "a": 0
+     },
+     {
+      "r": "that might be the photographer's daughter"
+     },
+     {
+      "w": "Look at a photo of your choice. Write three sentences with must, might and can't."
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "He looks tired. He ___ (work) all night.",
+      "a": [
+       "must have worked / must have been working"
+      ]
+     },
+     {
+      "q": "She ___ (not / see) the message. She hasn't replied.",
+      "a": [
+       "can't have seen / might not have seen"
+      ]
+     },
+     {
+      "q": "The window is broken. Somebody ___ (throw) a ball.",
+      "a": [
+       "must have thrown / might have thrown"
+      ]
+     },
+     {
+      "q": "They ___ been at the party – I didn't see them.",
+      "o": [
+       "can't have",
+       "must have",
+       "must"
+      ],
+      "a": 0
+     },
+     {
+      "q": "I'm not sure who took it. It ___ been Marcos.",
+      "o": [
+       "could have",
+       "must",
+       "can't"
+      ],
+      "a": 0
+     },
+     {
+      "r": "the photo must have been taken from a helicopter"
+     },
+     {
+      "w": "Write a short mystery (60–80 words) about a strange photo you found in your attic. Use past modals of deduction."
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Rewrite: 'It's possible that the light was artificial.' → The light ___ .",
+      "a": [
+       "might/may/could have been artificial"
+      ]
+     },
+     {
+      "q": "Rewrite: 'I'm sure that isn't the original.' → That ___ the original.",
+      "a": [
+       "can't be"
+      ]
+     },
+     {
+      "q": "Rewrite: 'I'm certain she was waiting for hours.' → She ___ for hours.",
+      "a": [
+       "must have been waiting"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'They might have took a taxi.'",
+      "a": [
+       "They might have taken a taxi."
+      ]
+     },
+     {
+      "q": "Which modal shows that something was NOT possible?",
+      "o": [
+       "couldn't have",
+       "might have",
+       "must have"
+      ],
+      "a": 0
+     },
+     {
+      "r": "the soldiers in the photo must have been exhausted"
+     },
+     {
+      "w": "Choose a famous historical photograph. Write an opinion paragraph (100 words) speculating about what happened before and after it was taken."
+     }
+    ]
+   }
+  },
+  {
+   "id": "gerinf",
+   "title": "Verbs + -ing / to infinitive",
+   "short": "enjoy taking, decide to take, remember / stop / try",
+   "slides": [
+    {
+     "k": "title",
+     "h": "-ing or to infinitive?",
+     "sub": "Picture this: learning to take better photos",
+     "hook": "Do you enjoy taking photos? What would you like to learn to photograph?"
+    },
+    {
+     "k": "table",
+     "h": "Verbs + -ing",
+     "cols": [
+      "Verb",
+      "Example"
+     ],
+     "rows": [
+      [
+       "enjoy, like, love, hate, don't mind",
+       "I enjoy taking close-ups of flowers."
+      ],
+      [
+       "avoid, finish, keep, imagine, miss",
+       "Avoid using the flash in museums."
+      ],
+      [
+       "suggest, recommend, can't stand",
+       "She suggested changing the angle."
+      ]
+     ],
+     "note": "Also use -ing after prepositions: I'm interested in learning photography."
+    },
+    {
+     "k": "table",
+     "h": "Verbs + to infinitive",
+     "cols": [
+      "Verb",
+      "Example"
+     ],
+     "rows": [
+      [
+       "want, would like, hope, plan, decide",
+       "She decided to shoot in black and white."
+      ],
+      [
+       "agree, refuse, promise, offer, learn",
+       "He refused to delete the photo."
+      ],
+      [
+       "manage, need, seem, expect, afford",
+       "We managed to find the perfect angle."
+      ]
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Verbs that change meaning",
+     "p": [
+      "Some verbs can take both forms but the meaning changes."
+     ],
+     "ex": [
+      "I **remember taking** this shot by chance. (a memory)",
+      "**Remember to set up** the tripod! (don't forget)",
+      "She **stopped taking** photos. (she doesn't do it any more)",
+      "She **stopped to take** a photo of the sunset. (in order to)",
+      "**Try changing** the angle. (an experiment)",
+      "I **tried to keep** the subject in focus, but it moved. (an effort)"
+     ]
+    },
+    {
+     "k": "context",
+     "h": "Grammar in context",
+     "kind": "Tips · Photography club",
+     "title": "Five tips for better photos",
+     "text": [
+      "1. **Avoid using** the flash – natural light is more pleasant.",
+      "2. **Try getting** closer to your subject. A close-up can have a big impact.",
+      "3. **Don't forget to check** the frame before you shoot.",
+      "4. **Keep practising** every day. Many great shots happen by chance!",
+      "5. **Remember to look** for things out of the ordinary. The viewer **will enjoy discovering** them."
+     ]
+    },
+    {
+     "k": "mistakes",
+     "h": "Watch out!",
+     "items": [
+      [
+       "I enjoy to take photos.",
+       "I enjoy taking photos.",
+       "enjoy + -ing."
+      ],
+      [
+       "She decided entering the competition.",
+       "She decided to enter the competition.",
+       "decide + to infinitive."
+      ],
+      [
+       "I'm good at edit photos.",
+       "I'm good at editing photos.",
+       "After a preposition, use -ing."
+      ]
+     ]
+    },
+    {
+     "k": "check",
+     "q": "I can't afford ___ a new lens.",
+     "o": [
+      "buying",
+      "to buy",
+      "buy"
+     ],
+     "a": 1,
+     "e": "afford + to infinitive."
+    },
+    {
+     "k": "check",
+     "q": "We stopped ___ a photo of the sunset.",
+     "o": [
+      "to take",
+      "taking",
+      "take"
+     ],
+     "a": 0,
+     "e": "We stopped in order to take a photo."
+    },
+    {
+     "k": "sum",
+     "h": "Remember",
+     "p": [
+      "-ing after enjoy, avoid, finish, keep, mind, suggest and prepositions.",
+      "to + verb after want, decide, hope, plan, manage, refuse, promise.",
+      "remember / forget / stop / try change meaning."
+     ]
+    }
+   ],
+   "ex": {
+    "basic": [
+     {
+      "q": "I enjoy ___ photos.",
+      "o": [
+       "taking",
+       "to take",
+       "take"
+      ],
+      "a": 0
+     },
+     {
+      "q": "She wants ___ a photographer.",
+      "o": [
+       "to be",
+       "being",
+       "be"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Do you mind ___ (wait) a moment?",
+      "a": [
+       "waiting"
+      ]
+     },
+     {
+      "q": "We hope ___ (visit) the exhibition.",
+      "a": [
+       "to visit"
+      ]
+     },
+     {
+      "q": "He finished ___ (edit) the video.",
+      "a": [
+       "editing"
+      ]
+     },
+     {
+      "q": "I'm interested in ___ about photography.",
+      "o": [
+       "learning",
+       "to learn",
+       "learn"
+      ],
+      "a": 0
+     },
+     {
+      "r": "she decided to buy a new camera"
+     },
+     {
+      "q": "They promised ___ (send) us the photos.",
+      "a": [
+       "to send"
+      ]
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "Avoid ___ (use) the flash in museums.",
+      "a": [
+       "using"
+      ]
+     },
+     {
+      "q": "We managed ___ (get) tickets for the exhibition.",
+      "a": [
+       "to get"
+      ]
+     },
+     {
+      "q": "My teacher suggested ___ (shoot) in black and white.",
+      "a": [
+       "shooting"
+      ]
+     },
+     {
+      "q": "I remember ___ my first camera. It was red.",
+      "o": [
+       "getting",
+       "to get",
+       "get"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Don't forget ___ the lens cap!",
+      "o": [
+       "to take off",
+       "taking off",
+       "take off"
+      ],
+      "a": 0
+     },
+     {
+      "q": "He refused ___ (delete) the embarrassing photo.",
+      "a": [
+       "to delete"
+      ]
+     },
+     {
+      "q": "Keep ___ (practise) and you'll get better.",
+      "a": [
+       "practising",
+       "practicing"
+      ]
+     },
+     {
+      "r": "i can't stand posing for photos"
+     }
+    ],
+    "advanced": [
+     {
+      "q": "'He stopped to talk to me' means:",
+      "o": [
+       "He stopped walking in order to talk.",
+       "He doesn't talk to me any more.",
+       "He talked and then stopped."
+      ],
+      "a": 0
+     },
+     {
+      "q": "Try ___ (change) the angle – it might look better.",
+      "a": [
+       "changing"
+      ]
+     },
+     {
+      "q": "I tried ___ (open) the file but it was damaged.",
+      "a": [
+       "to open"
+      ]
+     },
+     {
+      "q": "I'll never forget ___ (see) the northern lights.",
+      "a": [
+       "seeing"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'She's thinking about to start a photo blog.'",
+      "a": [
+       "She's thinking about starting a photo blog.",
+       "She's thinking about starting a photo blog"
+      ]
+     },
+     {
+      "q": "Choose the correct pair: 'I don't mind ___ but I refuse ___ in the photo.'",
+      "o": [
+       "helping / to appear",
+       "to help / appearing",
+       "help / appear"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Rewrite: 'Why don't we use a tripod?' → She suggested ___ a tripod.",
+      "a": [
+       "using"
+      ]
+     },
+     {
+      "r": "please remember to switch off your camera before the show"
+     }
+    ]
+   },
+   "ws": {
+    "basic": [
+     {
+      "q": "I love ___ (watch) films.",
+      "a": [
+       "watching"
+      ]
+     },
+     {
+      "q": "I'd like ___ (go) to the photo exhibition.",
+      "a": [
+       "to go"
+      ]
+     },
+     {
+      "q": "She hates ___ in photos.",
+      "o": [
+       "appearing",
+       "to appearing",
+       "appear"
+      ],
+      "a": 0
+     },
+     {
+      "q": "We need ___ batteries.",
+      "o": [
+       "to buy",
+       "buying",
+       "buy"
+      ],
+      "a": 0
+     },
+     {
+      "q": "I'm good at ___ pictures.",
+      "o": [
+       "drawing",
+       "to draw",
+       "draw"
+      ],
+      "a": 0
+     },
+     {
+      "r": "they agreed to meet at the gallery"
+     },
+     {
+      "w": "Write three things you enjoy doing and three things you want to do this year."
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "Imagine ___ (live) without photos of your childhood!",
+      "a": [
+       "living"
+      ]
+     },
+     {
+      "q": "He offered ___ (teach) me how to use the camera.",
+      "a": [
+       "to teach"
+      ]
+     },
+     {
+      "q": "Do you remember ___ (meet) her for the first time?",
+      "a": [
+       "meeting"
+      ]
+     },
+     {
+      "q": "Remember ___ the photos before Friday!",
+      "o": [
+       "to upload",
+       "uploading",
+       "upload"
+      ],
+      "a": 0
+     },
+     {
+      "q": "She seems ___ happy with the result.",
+      "o": [
+       "to be",
+       "being",
+       "be"
+      ],
+      "a": 0
+     },
+     {
+      "r": "i recommend taking photos early in the morning"
+     },
+     {
+      "w": "Write a list of six tips for taking great photos using verbs like try, avoid, remember, don't forget, keep."
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Explain the difference: 'I stopped eating' / 'I stopped to eat'.",
+      "a": [
+       "I don't eat any more / I stopped in order to eat"
+      ]
+     },
+     {
+      "q": "Rewrite: 'I didn't remember to charge the battery.' → I forgot ___ .",
+      "a": [
+       "to charge the battery"
+      ]
+     },
+     {
+      "q": "Rewrite: 'It's a good idea to shoot at sunset.' → I suggest ___ .",
+      "a": [
+       "shooting at sunset"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'I'm looking forward to see your photos.'",
+      "a": [
+       "I'm looking forward to seeing your photos."
+      ]
+     },
+     {
+      "q": "'Try turning it off and on again' means:",
+      "o": [
+       "experiment with this solution",
+       "make a big effort",
+       "stop doing it"
+      ],
+      "a": 0
+     },
+     {
+      "r": "he regrets not taking more photos of his grandparents"
+     },
+     {
+      "w": "Write a paragraph (100 words) about a photo you remember taking. Use at least six verbs + -ing / to infinitive."
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,1230 @@
+{
+ "id": 8,
+ "title": "Game on",
+ "topic": "Video games, stories and the ideas behind them",
+ "color": "#4b4bff",
+ "vocab": [
+  {
+   "name": "Gaming",
+   "words": [
+    [
+     "addictive",
+     "adj",
+     "so enjoyable that it's difficult to stop",
+     "adictivo/a",
+     "This puzzle game is really *addictive*."
+    ],
+    [
+     "challenge",
+     "noun",
+     "something difficult that tests your ability",
+     "reto, desafío",
+     "The last level is a real *challenge*."
+    ],
+    [
+     "competitor",
+     "noun",
+     "a person who takes part in a competition",
+     "competidor/a",
+     "There were 200 *competitors* in the tournament."
+    ],
+    [
+     "crash",
+     "verb",
+     "to stop working suddenly (computer or game)",
+     "colgarse, bloquearse",
+     "The game *crashed* just before I saved it!"
+    ],
+    [
+     "development",
+     "noun",
+     "the process of creating something new",
+     "desarrollo",
+     "The game was in *development* for five years."
+    ],
+    [
+     "educational",
+     "adj",
+     "that helps you learn",
+     "educativo/a",
+     "Some *educational* games teach maths."
+    ],
+    [
+     "entertaining",
+     "adj",
+     "fun and enjoyable",
+     "entretenido/a",
+     "The story mode is very *entertaining*."
+    ],
+    [
+     "escape",
+     "noun / verb",
+     "a way to forget about real life for a while",
+     "evasión / escapar",
+     "For me, gaming is an *escape* from stress."
+    ],
+    [
+     "expand someone's mind",
+     "phrase",
+     "to help someone think in new ways",
+     "abrir la mente",
+     "Strategy games can *expand your mind*."
+    ],
+    [
+     "gaming",
+     "noun",
+     "the activity of playing video games",
+     "los videojuegos (actividad)",
+     "*Gaming* is a huge industry."
+    ],
+    [
+     "hand-eye coordination",
+     "noun",
+     "the ability to use your eyes and hands together",
+     "coordinación ojo-mano",
+     "Action games improve *hand-eye coordination*."
+    ],
+    [
+     "influence",
+     "noun / verb",
+     "the power to change how people think or act",
+     "influencia / influir",
+     "Do games have a bad *influence* on young people?"
+    ],
+    [
+     "plot",
+     "noun",
+     "the story of a book, film or game",
+     "trama, argumento",
+     "The *plot* has a surprising ending."
+    ],
+    [
+     "social part",
+     "noun",
+     "the part of an activity where you interact with others",
+     "parte social",
+     "The *social part* of online games is important to me."
+    ],
+    [
+     "take risks",
+     "phrase",
+     "to do something that could be dangerous or fail",
+     "arriesgarse",
+     "In this game you have to *take risks* to win."
+    ]
+   ]
+  },
+  {
+   "name": "Abstract nouns",
+   "words": [
+    [
+     "beauty",
+     "noun",
+     "the quality of being beautiful",
+     "belleza",
+     "The *beauty* of the game's world is amazing."
+    ],
+    [
+     "growth",
+     "noun",
+     "the process of becoming bigger or better",
+     "crecimiento",
+     "The character's *growth* is the heart of the story."
+    ],
+    [
+     "happiness",
+     "noun",
+     "the feeling of being happy",
+     "felicidad",
+     "Winning brought him great *happiness*."
+    ],
+    [
+     "identity",
+     "noun",
+     "who or what a person is",
+     "identidad",
+     "The hero discovers his true *identity*."
+    ],
+    [
+     "joy",
+     "noun",
+     "a feeling of great happiness",
+     "alegría",
+     "She jumped with *joy* when she finished the level."
+    ],
+    [
+     "justice",
+     "noun",
+     "fair treatment for everyone",
+     "justicia",
+     "The main character fights for *justice*."
+    ],
+    [
+     "loss",
+     "noun",
+     "the fact of losing someone or something",
+     "pérdida",
+     "The game deals with the *loss* of a family member."
+    ],
+    [
+     "mystery",
+     "noun",
+     "something strange that people can't explain",
+     "misterio",
+     "Who stole the crown? It's a *mystery*."
+    ],
+    [
+     "reality",
+     "noun",
+     "what is real, not imaginary",
+     "realidad",
+     "Virtual *reality* games feel very real."
+    ],
+    [
+     "strength",
+     "noun",
+     "the quality of being strong",
+     "fuerza",
+     "You need *strength* to carry the sword."
+    ],
+    [
+     "truth",
+     "noun",
+     "the real facts about something",
+     "verdad",
+     "In the end, she tells him the *truth*."
+    ],
+    [
+     "victory",
+     "noun",
+     "success in a game, competition or war",
+     "victoria",
+     "The team celebrated their *victory*."
+    ]
+   ]
+  },
+  {
+   "name": "Extra: Idiomatic phrases",
+   "extra": true,
+   "words": [
+    [
+     "a piece of cake",
+     "idiom",
+     "very easy",
+     "pan comido",
+     "The first level was *a piece of cake*."
+    ],
+    [
+     "haven't got a clue",
+     "idiom",
+     "don't know anything about it",
+     "no tener ni idea",
+     "I *haven't got a clue* how to beat this boss."
+    ],
+    [
+     "in a nutshell",
+     "idiom",
+     "in a few words",
+     "en pocas palabras",
+     "*In a nutshell*, it's the best game of the year."
+    ],
+    [
+     "lose track (of time)",
+     "idiom",
+     "to not notice how much time has passed",
+     "perder la noción (del tiempo)",
+     "I always *lose track* of time when I play."
+    ],
+    [
+     "out of nowhere",
+     "idiom",
+     "suddenly and unexpectedly",
+     "de la nada",
+     "A dragon appeared *out of nowhere*."
+    ],
+    [
+     "over the moon",
+     "idiom",
+     "extremely happy",
+     "encantado/a, en una nube",
+     "I was *over the moon* when I won."
+    ],
+    [
+     "to be a pain",
+     "idiom",
+     "to be annoying",
+     "ser un rollo, ser un pesado",
+     "This level is *a pain*!"
+    ]
+   ]
+  }
+ ],
+ "grammar": [
+  {
+   "id": "determiners",
+   "title": "Determiners",
+   "short": "all, both, each, every, either, neither, none, no, whole",
+   "slides": [
+    {
+     "k": "title",
+     "h": "Determiners",
+     "sub": "Game on: every player, both teams, neither option",
+     "hook": "Do all your friends play video games? Are both of your parents competitive?"
+    },
+    {
+     "k": "table",
+     "h": "Talking about two things",
+     "cols": [
+      "Determiner",
+      "Meaning",
+      "Example"
+     ],
+     "rows": [
+      [
+       "both (of)",
+       "the two together (+ plural verb)",
+       "Both games are entertaining. / Both of them are entertaining."
+      ],
+      [
+       "either (of)",
+       "one or the other",
+       "You can choose either character."
+      ],
+      [
+       "neither (of)",
+       "not one and not the other",
+       "Neither competitor won. / Neither of us won."
+      ]
+     ]
+    },
+    {
+     "k": "table",
+     "h": "Talking about three or more",
+     "cols": [
+      "Determiner",
+      "Meaning",
+      "Example"
+     ],
+     "rows": [
+      [
+       "all (of)",
+       "the whole group (+ plural)",
+       "All the competitors start with three lives."
+      ],
+      [
+       "every",
+       "all, seen as a group (+ singular)",
+       "Every level is a new challenge."
+      ],
+      [
+       "each",
+       "every one, seen separately (+ singular)",
+       "Each player has a different identity."
+      ],
+      [
+       "no / none of",
+       "not any",
+       "There are no saves left. / None of my friends find it addictive."
+      ]
+     ]
+    },
+    {
+     "k": "text",
+     "h": "whole and all",
+     "p": [
+      "'the whole' + singular countable noun = all of something.",
+      "'all' + plural or uncountable nouns."
+     ],
+     "ex": [
+      "I played **the whole** game in one weekend – I lost track of time!",
+      "I've played **all** the games in the series.",
+      "We spent **all day** gaming. = **the whole day**"
+     ]
+    },
+    {
+     "k": "text",
+     "h": "of + pronouns",
+     "p": [
+      "Before pronouns (us, you, them) we must use 'of'.",
+      "Before 'the', 'my', 'these', 'of' is usual (but optional with all / both)."
+     ],
+     "ex": [
+      "**Both of us** were over the moon after our victory.",
+      "**Neither of them** knew the truth about the plot.",
+      "**Each of the** levels is harder than the last."
+     ]
+    },
+    {
+     "k": "context",
+     "h": "Grammar in context",
+     "kind": "Game review",
+     "title": "Shadow Quest: 9/10",
+     "text": [
+      "**Every** level is a challenge, and **each** character has a special strength. You can play with **either** the knight or the thief – **both** are fun!",
+      "**All** my friends love the plot, which is full of mystery. **None of** us expected the ending!",
+      "The only problem? The game crashed twice, and **neither** time could I save. In a nutshell: it's addictive, entertaining and great for hand-eye coordination."
+     ]
+    },
+    {
+     "k": "mistakes",
+     "h": "Watch out!",
+     "items": [
+      [
+       "Every players have a mission.",
+       "Every player has a mission.",
+       "every + singular noun + singular verb."
+      ],
+      [
+       "Both of they are good competitors.",
+       "Both of them are good competitors.",
+       "Use object pronouns after 'of'."
+      ],
+      [
+       "I didn't like neither game.",
+       "I liked neither game. / I didn't like either game.",
+       "Don't use two negatives."
+      ]
+     ]
+    },
+    {
+     "k": "check",
+     "q": "___ of my two brothers play online. They prefer football.",
+     "o": [
+      "Neither",
+      "Both",
+      "Either"
+     ],
+     "a": 0,
+     "e": "Not one and not the other → neither."
+    },
+    {
+     "k": "check",
+     "q": "___ competitor in the tournament gets a medal.",
+     "o": [
+      "All",
+      "Every",
+      "Both"
+     ],
+     "a": 1,
+     "e": "every + singular noun."
+    },
+    {
+     "k": "sum",
+     "h": "Remember",
+     "p": [
+      "Two things: both, either, neither.",
+      "Three or more: all, every, each, none.",
+      "every / each + singular noun.",
+      "of + pronoun: both of us, none of them."
+     ]
+    }
+   ],
+   "ex": {
+    "basic": [
+     {
+      "q": "___ my parents like playing chess. (the two)",
+      "o": [
+       "Both",
+       "Every",
+       "Each"
+      ],
+      "a": 0
+     },
+     {
+      "q": "___ level has a boss at the end.",
+      "o": [
+       "Every",
+       "All",
+       "Both"
+      ],
+      "a": 0
+     },
+     {
+      "q": "There are ___ lives left. Game over!",
+      "o": [
+       "no",
+       "none",
+       "neither"
+      ],
+      "a": 0
+     },
+     {
+      "q": "You can play with ___ hand – left or right.",
+      "o": [
+       "either",
+       "both",
+       "all"
+      ],
+      "a": 0
+     },
+     {
+      "q": "___ the players are ready.",
+      "o": [
+       "All",
+       "Every",
+       "Each"
+      ],
+      "a": 0
+     },
+     {
+      "q": "___ of my friends has got this game. Nobody has it.",
+      "a": [
+       "None"
+      ]
+     },
+     {
+      "r": "each player has three lives"
+     },
+     {
+      "q": "I played the ___ game in one day.",
+      "o": [
+       "whole",
+       "all",
+       "every"
+      ],
+      "a": 0
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "___ of the two games are expensive. (both are)",
+      "a": [
+       "Both"
+      ]
+     },
+     {
+      "q": "I tried two controllers, but ___ of them worked.",
+      "o": [
+       "neither",
+       "either",
+       "both"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Do you want pizza or pasta? – I don't mind. ___ is fine.",
+      "o": [
+       "Either",
+       "Neither",
+       "Both"
+      ],
+      "a": 0
+     },
+     {
+      "q": "___ of us knew the answer, so we lost the quiz.",
+      "o": [
+       "None",
+       "No",
+       "All"
+      ],
+      "a": 0
+     },
+     {
+      "q": "We spent the ___ weekend at the gaming festival.",
+      "a": [
+       "whole"
+      ]
+     },
+     {
+      "q": "___ competitor receives a medal, even the last one.",
+      "o": [
+       "Each",
+       "All",
+       "Both"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Correct: 'Every games have a plot.' → Every game ___ a plot.",
+      "a": [
+       "has"
+      ]
+     },
+     {
+      "r": "both of them were over the moon after their victory"
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Correct the mistake: 'Both of we play online.'",
+      "a": [
+       "Both of us play online.",
+       "Both of us play online"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'I don't like neither of these games.'",
+      "a": [
+       "I don't like either of these games.",
+       "I like neither of these games.",
+       "I don't like either of these games"
+      ]
+     },
+     {
+      "q": "Rewrite: 'Sam didn't win and Ana didn't win.' → ___ Sam nor Ana won.",
+      "a": [
+       "Neither"
+      ]
+     },
+     {
+      "q": "Rewrite: 'You can choose the red team or the blue team.' → You can choose ___ the red team or the blue team.",
+      "a": [
+       "either"
+      ]
+     },
+     {
+      "q": "Choose: '___ the people in my class has a different favourite game.'",
+      "o": [
+       "Each of",
+       "All of",
+       "Every of"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Rewrite: 'Not one of the levels is easy.' → ___ of the levels is easy.",
+      "a": [
+       "None"
+      ]
+     },
+     {
+      "q": "Choose: 'The ___ class went to the gaming museum.'",
+      "o": [
+       "whole",
+       "all",
+       "every"
+      ],
+      "a": 0
+     },
+     {
+      "r": "neither of the games crashed during the tournament"
+     }
+    ]
+   },
+   "ws": {
+    "basic": [
+     {
+      "q": "___ my sisters play the guitar. (the two)",
+      "o": [
+       "Both",
+       "All",
+       "Each"
+      ],
+      "a": 0
+     },
+     {
+      "q": "___ day I play for an hour.",
+      "o": [
+       "Every",
+       "All",
+       "Both"
+      ],
+      "a": 0
+     },
+     {
+      "q": "I have ___ money for a new game.",
+      "o": [
+       "no",
+       "none",
+       "neither"
+      ],
+      "a": 0
+     },
+     {
+      "q": "___ the students passed the test.",
+      "o": [
+       "All",
+       "Every",
+       "Either"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Tea or coffee? – ___ , thanks. I'll have water.",
+      "o": [
+       "Neither",
+       "Both",
+       "All"
+      ],
+      "a": 0
+     },
+     {
+      "r": "every character has a special power"
+     },
+     {
+      "w": "Write five sentences about your family or friends using both, neither, all, every and none."
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "___ of my parents can play video games. They both hate them.",
+      "a": [
+       "Neither"
+      ]
+     },
+     {
+      "q": "I watched the ___ series in a week.",
+      "a": [
+       "whole"
+      ]
+     },
+     {
+      "q": "There are two exits. You can use ___ of them.",
+      "o": [
+       "either",
+       "neither",
+       "all"
+      ],
+      "a": 0
+     },
+     {
+      "q": "___ of the questions was easy. They were all hard!",
+      "o": [
+       "None",
+       "No",
+       "Neither"
+      ],
+      "a": 0
+     },
+     {
+      "q": "___ team has five players.",
+      "o": [
+       "Each",
+       "All",
+       "Both of"
+      ],
+      "a": 0
+     },
+     {
+      "r": "all of us lost track of time"
+     },
+     {
+      "w": "Compare two video games, films or books. Write six sentences using both, neither, either and each."
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Rewrite: 'The two characters are brave.' → Both ___ .",
+      "a": [
+       "characters are brave / of the characters are brave"
+      ]
+     },
+     {
+      "q": "Rewrite: 'There isn't a single player who likes this level.' → None ___ .",
+      "a": [
+       "of the players likes / like this level"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'All student must bring a laptop.'",
+      "a": [
+       "All students must bring a laptop. / Every student must bring a laptop."
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'Neither of them don't know the truth.'",
+      "a": [
+       "Neither of them knows / know the truth."
+      ]
+     },
+     {
+      "q": "Choose: 'I spent ___ my savings on this console.'",
+      "o": [
+       "all",
+       "every",
+       "whole"
+      ],
+      "a": 0
+     },
+     {
+      "r": "either of the two endings is possible"
+     },
+     {
+      "w": "Write a review (100 words) of a game you love. Use at least six different determiners."
+     }
+    ]
+   }
+  },
+  {
+   "id": "relative",
+   "title": "Relative clauses",
+   "short": "Defining and non-defining: who, which, that, where, whose, when",
+   "slides": [
+    {
+     "k": "title",
+     "h": "Relative clauses",
+     "sub": "Game on: the hero who saved the kingdom",
+     "hook": "Describe your favourite game character without saying their name. Can your partner guess who it is?"
+    },
+    {
+     "k": "table",
+     "h": "Relative pronouns",
+     "cols": [
+      "Pronoun",
+      "For",
+      "Example"
+     ],
+     "rows": [
+      [
+       "who",
+       "people",
+       "The competitor who takes the most risks usually wins."
+      ],
+      [
+       "which",
+       "things, animals",
+       "The game which I bought is really addictive."
+      ],
+      [
+       "that",
+       "people or things (defining only)",
+       "It's the level that always crashes."
+      ],
+      [
+       "where",
+       "places",
+       "This is the castle where the mystery begins."
+      ],
+      [
+       "whose",
+       "possession",
+       "She's the hero whose identity is a secret."
+      ],
+      [
+       "when",
+       "times",
+       "I remember the day when I won my first victory."
+      ]
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Defining relative clauses",
+     "p": [
+      "They give essential information: which person or thing we mean. No commas.",
+      "We can omit who / which / that when it is the object of the clause."
+     ],
+     "ex": [
+      "The game **that** I played yesterday was really educational.",
+      "The game **(that)** I played yesterday was really educational.",
+      "The person **who** developed Minecraft is Swedish."
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Non-defining relative clauses",
+     "p": [
+      "They give extra information. We put them between commas. We can't use 'that' and we can't omit the pronoun."
+     ],
+     "ex": [
+      "Tetris, **which** was created in 1984, is still entertaining.",
+      "My cousin Lucía, **who** is a pro gamer, has amazing hand-eye coordination.",
+      "Japan, **where** many famous games were developed, is my dream trip."
+     ]
+    },
+    {
+     "k": "table",
+     "h": "Compare",
+     "cols": [
+      "Defining",
+      "Non-defining"
+     ],
+     "rows": [
+      [
+       "My brother who lives in Paris plays chess. (I have more than one brother)",
+       "My brother, who lives in Paris, plays chess. (I have only one brother)"
+      ],
+      [
+       "No commas",
+       "Commas"
+      ],
+      [
+       "that is OK",
+       "No that"
+      ]
+     ]
+    },
+    {
+     "k": "context",
+     "h": "Grammar in context",
+     "kind": "Storyboard · New game",
+     "title": "The Lost Kingdom",
+     "text": [
+      "Mira is a girl **who** lives in a world **where** the sun never rises. Her father, **whose** sword is magic, disappeared on the night **when** the darkness began.",
+      "Mira finds a map **which** shows the way to the Tower of Truth. The journey, **which** is full of danger, will test her strength.",
+      "The player **who** helps Mira must make choices **that** change the plot. Will she find justice – or loss?"
+     ]
+    },
+    {
+     "k": "mistakes",
+     "h": "Watch out!",
+     "items": [
+      [
+       "Zelda, that is my favourite game, is quite old.",
+       "Zelda, which is my favourite game, is quite old.",
+       "No 'that' in non-defining clauses."
+      ],
+      [
+       "The man which designed the plot is famous.",
+       "The man who designed the plot is famous.",
+       "Use who for people."
+      ],
+      [
+       "This is the level where I always lose there.",
+       "This is the level where I always lose.",
+       "Don't repeat the place."
+      ]
+     ]
+    },
+    {
+     "k": "check",
+     "q": "That's the gamer ___ videos have 10 million views.",
+     "o": [
+      "who",
+      "whose",
+      "which"
+     ],
+     "a": 1,
+     "e": "Possession → whose."
+    },
+    {
+     "k": "check",
+     "q": "Fortnite, ___ came out in 2017, is free to play.",
+     "o": [
+      "that",
+      "which",
+      "who"
+     ],
+     "a": 1,
+     "e": "Non-defining clause with commas → which (not that)."
+    },
+    {
+     "k": "sum",
+     "h": "Remember",
+     "p": [
+      "who = people, which = things, where = places, whose = possession, when = time.",
+      "Defining: essential info, no commas, 'that' is OK.",
+      "Non-defining: extra info, commas, no 'that'."
+     ]
+    }
+   ],
+   "ex": {
+    "basic": [
+     {
+      "q": "A gamer is a person ___ plays video games.",
+      "o": [
+       "who",
+       "which",
+       "where"
+      ],
+      "a": 0
+     },
+     {
+      "q": "This is the console ___ I got for my birthday.",
+      "o": [
+       "which",
+       "who",
+       "where"
+      ],
+      "a": 0
+     },
+     {
+      "q": "That's the shop ___ I bought my game.",
+      "o": [
+       "where",
+       "which",
+       "who"
+      ],
+      "a": 0
+     },
+     {
+      "q": "He's the boy ___ sister won the tournament.",
+      "o": [
+       "whose",
+       "who",
+       "which"
+      ],
+      "a": 0
+     },
+     {
+      "q": "I remember the day ___ I got my first phone.",
+      "o": [
+       "when",
+       "where",
+       "who"
+      ],
+      "a": 0
+     },
+     {
+      "q": "A controller is a thing ___ you use to play.",
+      "a": [
+       "that",
+       "which"
+      ]
+     },
+     {
+      "r": "this is the game that i told you about"
+     },
+     {
+      "q": "The girl ___ designed this level is only fifteen.",
+      "a": [
+       "who",
+       "that"
+      ]
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "Mario, ___ first appeared in 1981, is a plumber.",
+      "o": [
+       "who",
+       "that",
+       "whose"
+      ],
+      "a": 0
+     },
+     {
+      "q": "My laptop, ___ is very old, crashed again.",
+      "o": [
+       "which",
+       "that",
+       "who"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Join: 'This is my friend. Her dad works at Nintendo.' → This is my friend ___ dad works at Nintendo.",
+      "a": [
+       "whose"
+      ]
+     },
+     {
+      "q": "Join: 'That's the arcade. We met there.' → That's the arcade ___ we met.",
+      "a": [
+       "where"
+      ]
+     },
+     {
+      "q": "In which sentence can you omit the pronoun?",
+      "o": [
+       "The game that I bought is great.",
+       "The man who lives here is a coder.",
+       "Madrid, which is big, has many arcades."
+      ],
+      "a": 0
+     },
+     {
+      "q": "The game ___ won the award was made by a small team.",
+      "o": [
+       "that",
+       "who",
+       "where"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Minecraft, ___ was created in Sweden, is the best-selling game ever.",
+      "a": [
+       "which"
+      ]
+     },
+     {
+      "r": "the competitor who took the most risks won the victory"
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Join with a non-defining clause: 'Tokyo has amazing game shops. I visited it last year.' → Tokyo, ___ , has amazing game shops.",
+      "a": [
+       "which I visited last year"
+      ]
+     },
+     {
+      "q": "Join: 'The developer is famous. Her game sold 5 million copies.' → The developer ___ is famous.",
+      "a": [
+       "whose game sold 5 million copies"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'My best friend, that loves RPGs, is coming over.'",
+      "a": [
+       "My best friend, who loves RPGs, is coming over.",
+       "My best friend, who loves RPGs, is coming over"
+      ]
+     },
+     {
+      "q": "Which sentence means the speaker has only one sister?",
+      "o": [
+       "My sister who plays chess is twelve.",
+       "My sister, who plays chess, is twelve.",
+       "My sister that plays chess is twelve."
+      ],
+      "a": 1
+     },
+     {
+      "q": "Correct the mistake: 'This is the level where I always lose there.'",
+      "a": [
+       "This is the level where I always lose.",
+       "This is the level where I always lose"
+      ]
+     },
+     {
+      "q": "Add commas if needed: 'The game which I'm playing now is really entertaining.'",
+      "o": [
+       "No commas – it's defining.",
+       "The game, which I'm playing now, is really entertaining.",
+       "Commas after 'game' only."
+      ],
+      "a": 0
+     },
+     {
+      "q": "Join: '2020 was a strange year. Many people started gaming then.' → 2020, ___ , was a strange year.",
+      "a": [
+       "when many people started gaming"
+      ]
+     },
+     {
+      "r": "the plot which is full of mystery keeps you playing for hours"
+     }
+    ]
+   },
+   "ws": {
+    "basic": [
+     {
+      "q": "A teacher is a person ___ teaches.",
+      "o": [
+       "who",
+       "which",
+       "where"
+      ],
+      "a": 0
+     },
+     {
+      "q": "A library is a place ___ you can read books.",
+      "o": [
+       "where",
+       "who",
+       "which"
+      ],
+      "a": 0
+     },
+     {
+      "q": "This is the phone ___ I want.",
+      "o": [
+       "that",
+       "who",
+       "where"
+      ],
+      "a": 0
+     },
+     {
+      "q": "She's the singer ___ songs I love.",
+      "o": [
+       "whose",
+       "who",
+       "which"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Summer is the season ___ we go to the beach.",
+      "o": [
+       "when",
+       "where",
+       "which"
+      ],
+      "a": 0
+     },
+     {
+      "r": "a joystick is something which you use to play"
+     },
+     {
+      "w": "Write definitions for five gaming words (e.g. A competitor is a person who...)."
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "Join: 'I have a friend. He makes YouTube videos.'",
+      "a": [
+       "I have a friend who makes YouTube videos."
+      ]
+     },
+     {
+      "q": "Join: 'This is the park. We play Pokémon Go here.'",
+      "a": [
+       "This is the park where we play Pokémon Go."
+      ]
+     },
+     {
+      "q": "Pac-Man, ___ was released in 1980, is very famous.",
+      "a": [
+       "which"
+      ]
+     },
+     {
+      "q": "My uncle, ___ is a game developer, lives in Canada.",
+      "o": [
+       "who",
+       "that",
+       "which"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Is the pronoun necessary? 'The book (that) you lent me is great.'",
+      "o": [
+       "No, it can be omitted.",
+       "Yes, always.",
+       "It must be 'who'."
+      ],
+      "a": 0
+     },
+     {
+      "r": "the game that we played last night was really addictive"
+     },
+     {
+      "w": "Describe your favourite game or film character in six sentences using different relative pronouns."
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Join (non-defining): 'The Sims is a life simulation game. It was first released in 2000.'",
+      "a": [
+       "The Sims, which was first released in 2000, is a life simulation game."
+      ]
+     },
+     {
+      "q": "Join: 'That's the boy. His mum is my teacher.'",
+      "a": [
+       "That's the boy whose mum is my teacher."
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'Barcelona, that is my city, has a big gaming fair.'",
+      "a": [
+       "Barcelona, which is my city, has a big gaming fair."
+      ]
+     },
+     {
+      "q": "Explain the difference: 'The players who were tired stopped.' / 'The players, who were tired, stopped.'",
+      "a": [
+       "only some players stopped / all the players stopped"
+      ]
+     },
+     {
+      "q": "Join: 'I'll never forget 2023. I won my first tournament then.'",
+      "a": [
+       "I'll never forget 2023, when I won my first tournament."
+      ]
+     },
+     {
+      "r": "the character whose identity is a mystery appears out of nowhere"
+     },
+     {
+      "w": "Write the opening of a game storyboard (100 words). Introduce the world, the hero and the villain using defining and non-defining relative clauses."
+     }
+    ]
+   }
+  }
+ ]
+}

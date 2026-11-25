@@ -1,0 +1,1146 @@
+{
+ "id": 3,
+ "title": "Planet Earth",
+ "topic": "The environment, activism and making a difference",
+ "color": "#0a84ff",
+ "vocab": [
+  {
+   "name": "Fundraising collocations",
+   "words": [
+    [
+     "achieve a goal",
+     "collocation",
+     "to succeed in doing what you planned",
+     "alcanzar un objetivo",
+     "We *achieved our goal* of planting 100 trees."
+    ],
+    [
+     "donate money",
+     "collocation",
+     "to give money to help a cause",
+     "donar dinero",
+     "Thousands of people *donated money* to the charity."
+    ],
+    [
+     "find sponsors",
+     "collocation",
+     "to get people or companies to support you with money",
+     "encontrar patrocinadores",
+     "We need to *find sponsors* for the charity run."
+    ],
+    [
+     "give your time",
+     "collocation",
+     "to help without being paid",
+     "dedicar tu tiempo",
+     "Volunteers *give their time* to clean the beach."
+    ],
+    [
+     "hold an event",
+     "collocation",
+     "to organize a public activity",
+     "celebrar un evento",
+     "Our school will *hold an event* on Earth Day."
+    ],
+    [
+     "launch a campaign",
+     "collocation",
+     "to start a planned set of actions for a cause",
+     "lanzar una campaña",
+     "They *launched a campaign* against plastic bags."
+    ],
+    [
+     "make a difference",
+     "collocation",
+     "to have a positive effect",
+     "marcar la diferencia",
+     "Small actions can *make a difference*."
+    ],
+    [
+     "promote a cause",
+     "collocation",
+     "to help people know about and support an idea",
+     "promover una causa",
+     "Influencers can *promote a cause* to millions."
+    ],
+    [
+     "raise funds",
+     "collocation",
+     "to collect money for a purpose",
+     "recaudar fondos",
+     "We sold cakes to *raise funds* for the shelter."
+    ],
+    [
+     "reach a target",
+     "collocation",
+     "to get to the number or amount you wanted",
+     "alcanzar una meta",
+     "We *reached our target* of 500 euros!"
+    ],
+    [
+     "save the planet",
+     "collocation",
+     "to protect the Earth from damage",
+     "salvar el planeta",
+     "Everyone can help to *save the planet*."
+    ],
+    [
+     "sign a petition",
+     "collocation",
+     "to write your name on a document asking for change",
+     "firmar una petición",
+     "Over 2,000 students *signed the petition*."
+    ]
+   ]
+  },
+  {
+   "name": "Nature and the environment",
+   "words": [
+    [
+     "absorb",
+     "verb",
+     "to take in a liquid, gas or energy",
+     "absorber",
+     "Trees *absorb* carbon dioxide."
+    ],
+    [
+     "carbon footprint",
+     "noun",
+     "the amount of CO2 your activities produce",
+     "huella de carbono",
+     "Cycling reduces your *carbon footprint*."
+    ],
+    [
+     "climate change",
+     "noun",
+     "long-term changes in the Earth's weather and temperature",
+     "cambio climático",
+     "*Climate change* is melting the ice at the poles."
+    ],
+    [
+     "damage",
+     "noun / verb",
+     "harm that makes something worse",
+     "daño / dañar",
+     "Oil spills *damage* the ocean."
+    ],
+    [
+     "green",
+     "adj",
+     "good for the environment",
+     "ecológico/a, verde",
+     "Our school is becoming more *green*."
+    ],
+    [
+     "greenhouse gas",
+     "noun",
+     "a gas that traps heat in the atmosphere",
+     "gas de efecto invernadero",
+     "Methane is a powerful *greenhouse gas*."
+    ],
+    [
+     "habitat",
+     "noun",
+     "the natural home of an animal or plant",
+     "hábitat",
+     "The lynx is losing its *habitat*."
+    ],
+    [
+     "loss",
+     "noun",
+     "when you no longer have something",
+     "pérdida",
+     "The *loss* of forests is a serious problem."
+    ],
+    [
+     "reduce",
+     "verb",
+     "to make something smaller or less",
+     "reducir",
+     "We must *reduce* the amount of plastic we use."
+    ],
+    [
+     "species",
+     "noun",
+     "a group of animals or plants of the same type",
+     "especie",
+     "Many *species* are in danger of extinction."
+    ],
+    [
+     "suffer",
+     "verb",
+     "to experience pain or problems",
+     "sufrir",
+     "Coral reefs *suffer* when the sea gets warmer."
+    ],
+    [
+     "support",
+     "verb",
+     "to help or agree with someone or something",
+     "apoyar",
+     "I *support* the campaign to protect the river."
+    ],
+    [
+     "sustainable",
+     "adj",
+     "able to continue without harming the environment",
+     "sostenible",
+     "Bamboo is a *sustainable* material."
+    ],
+    [
+     "threaten",
+     "verb",
+     "to put something in danger",
+     "amenazar",
+     "Pollution *threatens* marine life."
+    ]
+   ]
+  },
+  {
+   "name": "Extra: Verbs related to change",
+   "extra": true,
+   "words": [
+    [
+     "ensure",
+     "verb",
+     "to make certain that something happens",
+     "asegurar, garantizar",
+     "Recycling bins *ensure* that less waste goes to landfill."
+    ],
+    [
+     "establish",
+     "verb",
+     "to start something that will last",
+     "establecer, fundar",
+     "She *established* a youth climate group."
+    ],
+    [
+     "inspire",
+     "verb",
+     "to give someone the wish to do something",
+     "inspirar",
+     "Greta Thunberg *inspired* millions of teens."
+    ],
+    [
+     "recreate",
+     "verb",
+     "to make something exist again",
+     "recrear",
+     "The project *recreated* a natural wetland."
+    ],
+    [
+     "transform",
+     "verb",
+     "to change something completely",
+     "transformar",
+     "They *transformed* the car park into a garden."
+    ]
+   ]
+  }
+ ],
+ "grammar": [
+  {
+   "id": "future",
+   "title": "Future tenses",
+   "short": "will, be going to, present simple and present continuous for the future",
+   "slides": [
+    {
+     "k": "title",
+     "h": "Talking about the future",
+     "sub": "Planet Earth: plans to make a difference",
+     "hook": "What is your school going to do for the environment this year? What do you think the planet will be like in 2050?"
+    },
+    {
+     "k": "table",
+     "h": "Four ways to talk about the future",
+     "cols": [
+      "Form",
+      "Use",
+      "Example"
+     ],
+     "rows": [
+      [
+       "will + verb",
+       "Predictions (opinion), instant decisions, promises, offers",
+       "I think climate change will threaten more species. / I'll sign the petition!"
+      ],
+      [
+       "be going to + verb",
+       "Plans and intentions; predictions with evidence",
+       "We're going to launch a campaign. / Look at the smoke! The forest is going to burn."
+      ],
+      [
+       "Present continuous",
+       "Fixed arrangements (time, place, people)",
+       "We're meeting our sponsors on Friday."
+      ],
+      [
+       "Present simple",
+       "Timetables and schedules",
+       "The climate march starts at 10 a.m."
+      ]
+     ]
+    },
+    {
+     "k": "text",
+     "h": "will",
+     "p": [
+      "Use 'will' when you decide something at the moment of speaking, for promises and offers, and for predictions based on opinion (I think, probably, I'm sure)."
+     ],
+     "ex": [
+      "You need volunteers? I**'ll give** my time on Saturday!",
+      "I promise I **won't use** plastic bags any more.",
+      "I think green energy **will be** cheaper in the future."
+     ]
+    },
+    {
+     "k": "text",
+     "h": "be going to",
+     "p": [
+      "Use 'be going to' for plans you've already decided, and for predictions based on what you can see now."
+     ],
+     "ex": [
+      "Our eco club **is going to raise** funds for the animal shelter.",
+      "We**'re going to reduce** our carbon footprint: no more car to school!",
+      "Look at the river! The factory **is going to damage** the habitat."
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Present tenses for the future",
+     "p": [
+      "Present continuous: arrangements already organized (in your diary).",
+      "Present simple: timetables, programmes, schedules."
+     ],
+     "ex": [
+      "We**'re holding** a fundraising event on Saturday.",
+      "The bus to the nature reserve **leaves** at 8:15 tomorrow."
+     ]
+    },
+    {
+     "k": "context",
+     "h": "Grammar in context",
+     "kind": "Group chat · Eco club",
+     "title": "Save the river!",
+     "text": [
+      "Marta: Big news! We**'re meeting** the mayor on Monday at 5. 🙌",
+      "Dani: Amazing. What **are** we **going to ask** for?",
+      "Marta: We**'re going to launch** a campaign to protect the river habitat. Many species are suffering.",
+      "Dani: I**'ll make** the posters! I think lots of people **will sign** the petition.",
+      "Marta: Perfect. The meeting **finishes** at 6, so we can hold an event after."
+     ]
+    },
+    {
+     "k": "mistakes",
+     "h": "Watch out!",
+     "items": [
+      [
+       "You need help? OK, I'm going to help you!",
+       "You need help? OK, I'll help you!",
+       "Decision at the moment of speaking → will."
+      ],
+      [
+       "I will meet the sponsors at 6. It's in my diary.",
+       "I'm meeting the sponsors at 6.",
+       "Fixed arrangement → present continuous."
+      ],
+      [
+       "When we will reach our target, we'll celebrate.",
+       "When we reach our target, we'll celebrate.",
+       "After when / as soon as / before, use the present simple."
+      ]
+     ]
+    },
+    {
+     "k": "check",
+     "q": "Look at those dark clouds over the forest! It ___ .",
+     "o": [
+      "will rain",
+      "is going to rain",
+      "rains"
+     ],
+     "a": 1,
+     "e": "Prediction with evidence → be going to."
+    },
+    {
+     "k": "check",
+     "q": "The bus to the climate march ___ at 8:30.",
+     "o": [
+      "leaves",
+      "is going to leave",
+      "will leaving"
+     ],
+     "a": 0,
+     "e": "Timetable → present simple."
+    },
+    {
+     "k": "sum",
+     "h": "Remember",
+     "p": [
+      "will → decisions now, promises, opinions about the future.",
+      "going to → plans and evidence.",
+      "present continuous → arrangements.",
+      "present simple → timetables."
+     ]
+    }
+   ],
+   "ex": {
+    "basic": [
+     {
+      "q": "I'm thirsty. – I ___ get you some water.",
+      "o": [
+       "will",
+       "am going to",
+       "am"
+      ],
+      "a": 0
+     },
+     {
+      "q": "We ___ (going to / plant) trees next weekend.",
+      "a": [
+       "are going to plant",
+       "'re going to plant"
+      ]
+     },
+     {
+      "q": "The film ___ at 9 p.m.",
+      "o": [
+       "starts",
+       "will starting",
+       "is start"
+      ],
+      "a": 0
+     },
+     {
+      "q": "I ___ (meet) my friends tonight. We've already decided where.",
+      "a": [
+       "am meeting",
+       "'m meeting"
+      ]
+     },
+     {
+      "q": "I think it ___ (be) sunny tomorrow.",
+      "a": [
+       "will be",
+       "'ll be"
+      ]
+     },
+     {
+      "q": "Careful! You ___ fall!",
+      "o": [
+       "are going to",
+       "will to",
+       "fall"
+      ],
+      "a": 0
+     },
+     {
+      "r": "we are going to sign the petition"
+     },
+     {
+      "q": "I promise I ___ (not / forget) to recycle.",
+      "a": [
+       "won't forget",
+       "will not forget"
+      ]
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "She ___ (fly) to Brussels on Monday – she has her ticket.",
+      "a": [
+       "is flying",
+       "'s flying"
+      ]
+     },
+     {
+      "q": "Scientists think temperatures ___ (rise) by 2°C.",
+      "a": [
+       "will rise"
+      ]
+     },
+     {
+      "q": "The bag is heavy. – Don't worry, I ___ carry it.",
+      "o": [
+       "'ll",
+       "'m going to",
+       "carry"
+      ],
+      "a": 0
+     },
+     {
+      "q": "What ___ you ___ (do) after school today? (plan)",
+      "a": [
+       "are / going to do"
+      ],
+      "h": "Write both parts separated by /"
+     },
+     {
+      "q": "The eco-fair ___ (open) at 10 and closes at 6.",
+      "a": [
+       "opens"
+      ]
+     },
+     {
+      "q": "When I ___ (finish) school, I'll study environmental science.",
+      "a": [
+       "finish"
+      ]
+     },
+     {
+      "q": "Look at those dark clouds. There ___ a storm.",
+      "o": [
+       "is going to be",
+       "will being",
+       "is being"
+      ],
+      "a": 0
+     },
+     {
+      "r": "we are holding a fundraising event on saturday"
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Choose the most natural option: 'We've booked the hall. We ___ the event on 5 June.'",
+      "o": [
+       "will hold",
+       "are holding",
+       "hold"
+      ],
+      "a": 1
+     },
+     {
+      "q": "I ___ (call) you as soon as I ___ (get) the results.",
+      "a": [
+       "will call / get",
+       "'ll call / get"
+      ],
+      "h": "Write both verbs separated by /"
+     },
+     {
+      "q": "Correct the mistake: 'If it will rain, we'll cancel the march.'",
+      "a": [
+       "If it rains, we'll cancel the march.",
+       "If it rains, we will cancel the march."
+      ]
+     },
+     {
+      "q": "Which sentence shows a prediction based on evidence?",
+      "o": [
+       "I think more people will cycle.",
+       "The river is rising fast. It's going to flood.",
+       "We're flooding on Sunday."
+      ],
+      "a": 1
+     },
+     {
+      "q": "The train ___ (arrive) at 11:40, so we ___ (meet) you at the station at 12. (timetable / arrangement)",
+      "a": [
+       "arrives / are meeting",
+       "arrives / 're meeting"
+      ],
+      "h": "Write both verbs separated by /"
+     },
+     {
+      "q": "A: I've forgotten my reusable bag. B: No problem. I ___ (lend) you mine.",
+      "a": [
+       "'ll lend",
+       "will lend"
+      ]
+     },
+     {
+      "q": "Probably most cars ___ (be) electric by 2040.",
+      "a": [
+       "will be"
+      ]
+     },
+     {
+      "r": "i don't think we will reach our target this year"
+     }
+    ]
+   },
+   "ws": {
+    "basic": [
+     {
+      "q": "I ___ (help) you with your project. I promise!",
+      "a": [
+       "will help"
+      ]
+     },
+     {
+      "q": "We ___ (going to / visit) the nature reserve tomorrow.",
+      "a": [
+       "are going to visit"
+      ]
+     },
+     {
+      "q": "The museum ___ at 10 a.m.",
+      "o": [
+       "opens",
+       "is opening going",
+       "will to open"
+      ],
+      "a": 0
+     },
+     {
+      "q": "I ___ my cousin tomorrow at 5.",
+      "o": [
+       "am meeting",
+       "meet will",
+       "meeting"
+      ],
+      "a": 0
+     },
+     {
+      "q": "There are no clouds. It ___ be a sunny day.",
+      "o": [
+       "is going to",
+       "goes",
+       "is"
+      ],
+      "a": 0
+     },
+     {
+      "r": "i will recycle all my plastic bottles"
+     },
+     {
+      "w": "Write three plans for next weekend using 'be going to'."
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "We ___ (have) a picnic on Sunday. Everybody's coming.",
+      "a": [
+       "are having"
+      ]
+     },
+     {
+      "q": "Our class ___ (launch) a campaign next term. We've decided.",
+      "a": [
+       "is going to launch"
+      ]
+     },
+     {
+      "q": "A: It's cold in here. B: I ___ (close) the window.",
+      "a": [
+       "'ll close / will close"
+      ]
+     },
+     {
+      "q": "The concert ___ at 8 and finishes at 11.",
+      "o": [
+       "starts",
+       "will start going",
+       "is starting at"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Before you ___ the room, turn off the lights.",
+      "o": [
+       "leave",
+       "will leave",
+       "are going to leave"
+      ],
+      "a": 0
+     },
+     {
+      "r": "do you think people will stop using cars"
+     },
+     {
+      "w": "Write five predictions about the environment in 2050 using will / won't and I think / I don't think."
+     }
+    ],
+    "advanced": [
+     {
+      "q": "I ___ (text) you when the train ___ (arrive).",
+      "a": [
+       "will text / arrives"
+      ]
+     },
+     {
+      "q": "Explain the difference: 'I'll go to the march' vs 'I'm going to the march'.",
+      "a": [
+       "decision now vs. plan/arrangement"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'I'm going to answer it!' (the doorbell rings now)",
+      "a": [
+       "I'll answer it!"
+      ]
+     },
+     {
+      "q": "The flight ___ (leave) at 6:05, so I ___ (get up) at 3!",
+      "a": [
+       "leaves / am going to get up / 'm getting up"
+      ]
+     },
+     {
+      "q": "Choose: 'They've signed the contract. They ___ the new park next year.'",
+      "o": [
+       "are building",
+       "will be build",
+       "build"
+      ],
+      "a": 0
+     },
+     {
+      "r": "as soon as we raise enough money we will buy the solar panels"
+     },
+     {
+      "w": "Write an email (100 words) to a friend inviting them to a green event. Include arrangements, a timetable, plans and a promise."
+     }
+    ]
+   }
+  },
+  {
+   "id": "futcont",
+   "title": "Future continuous",
+   "short": "Actions in progress at a time in the future",
+   "slides": [
+    {
+     "k": "title",
+     "h": "Future continuous",
+     "sub": "Planet Earth: where will you be in 2050?",
+     "hook": "What will you be doing this time next year? Will people be living in sustainable cities in 2050?"
+    },
+    {
+     "k": "table",
+     "h": "Form",
+     "cols": [
+      "",
+      "Form",
+      "Example"
+     ],
+     "rows": [
+      [
+       "+",
+       "will be + verb-ing",
+       "We will be using only green energy."
+      ],
+      [
+       "−",
+       "won't be + verb-ing",
+       "We won't be driving petrol cars."
+      ],
+      [
+       "?",
+       "Will + subject + be + verb-ing?",
+       "Will you be volunteering at the beach clean-up?"
+      ]
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Use 1: in progress at a future time",
+     "p": [
+      "We use the future continuous for an action that will be happening at a particular moment in the future."
+     ],
+     "ex": [
+      "At 10 a.m. tomorrow, we**'ll be marching** to save the planet.",
+      "This time next week I**'ll be planting** trees with the eco club.",
+      "In 2050, people **will be living** in green, sustainable cities."
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Use 2: polite questions about plans",
+     "p": [
+      "It's a polite way to ask about someone's plans, especially before asking for a favour."
+     ],
+     "ex": [
+      "**Will** you **be using** your bike tomorrow? I want to reduce my carbon footprint!",
+      "**Will** you **be coming** to the fundraising event?"
+     ]
+    },
+    {
+     "k": "table",
+     "h": "Future simple vs future continuous",
+     "cols": [
+      "will + verb",
+      "will be + verb-ing"
+     ],
+     "rows": [
+      [
+       "The event will start at 5. (a moment)",
+       "At 5:30 we'll be raising funds. (in progress)"
+      ],
+      [
+       "I'll donate money tonight.",
+       "Don't call at 8 – I'll be signing petitions online."
+      ]
+     ]
+    },
+    {
+     "k": "context",
+     "h": "Grammar in context",
+     "kind": "Letter to the future",
+     "title": "Dear me in 2050",
+     "text": [
+      "Dear future me, I hope you **will be living** in a city with clean air. I imagine that most people **will be cycling** to work and that factories **won't be producing** so much greenhouse gas.",
+      "Maybe you **will be working** as a scientist, helping endangered species to survive. Maybe you **will be teaching** children how to protect their habitat.",
+      "Whatever you **are doing**, I hope you are still making a difference!"
+     ]
+    },
+    {
+     "k": "mistakes",
+     "h": "Watch out!",
+     "items": [
+      [
+       "This time tomorrow I will signing petitions.",
+       "This time tomorrow I will be signing petitions.",
+       "Don't forget 'be'."
+      ],
+      [
+       "At 9 p.m. I'll be knowing if we reached our target.",
+       "At 9 p.m. I'll know if we reached our target.",
+       "State verbs don't usually use continuous forms."
+      ]
+     ]
+    },
+    {
+     "k": "check",
+     "q": "Don't phone me at 7. I ___ trees with the eco club.",
+     "o": [
+      "'ll plant",
+      "'ll be planting",
+      "plant"
+     ],
+     "a": 1,
+     "e": "In progress at that time → future continuous."
+    },
+    {
+     "k": "check",
+     "q": "___ you be using the car later? We need to take the donations to the shelter.",
+     "o": [
+      "Will",
+      "Are",
+      "Do"
+     ],
+     "a": 0,
+     "e": "Polite question about plans: Will you be + -ing?"
+    },
+    {
+     "k": "sum",
+     "h": "Remember",
+     "p": [
+      "will be + -ing = in progress at a future moment.",
+      "Time expressions: this time next week, at 8 tomorrow, in 2050, in ten years' time.",
+      "Will you be + -ing? = a polite question about plans."
+     ]
+    }
+   ],
+   "ex": {
+    "basic": [
+     {
+      "q": "This time tomorrow I ___ (fly) to London.",
+      "a": [
+       "will be flying",
+       "'ll be flying"
+      ]
+     },
+     {
+      "q": "At 8 p.m. we ___ dinner.",
+      "o": [
+       "will be having",
+       "will having",
+       "are have"
+      ],
+      "a": 0
+     },
+     {
+      "q": "In 2040, people ___ (not / drive) petrol cars.",
+      "a": [
+       "won't be driving",
+       "will not be driving"
+      ]
+     },
+     {
+      "q": "___ you be studying tonight?",
+      "o": [
+       "Will",
+       "Are",
+       "Do"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Next summer I'll ___ working at a campsite.",
+      "o": [
+       "be",
+       "being",
+       "to be"
+      ],
+      "a": 0
+     },
+     {
+      "r": "this time next week we will be camping"
+     },
+     {
+      "q": "At midnight they ___ (sleep).",
+      "a": [
+       "will be sleeping",
+       "'ll be sleeping"
+      ]
+     },
+     {
+      "q": "Will she be ___ to the meeting?",
+      "o": [
+       "coming",
+       "come",
+       "comes"
+      ],
+      "a": 0
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "In ten years' time, I ___ (live) in another country.",
+      "a": [
+       "will be living",
+       "'ll be living"
+      ]
+     },
+     {
+      "q": "Don't call at 6. We ___ (watch) the documentary.",
+      "a": [
+       "will be watching",
+       "'ll be watching"
+      ]
+     },
+     {
+      "q": "Choose: 'The clean-up ___ at 9.' (a moment)",
+      "o": [
+       "will start",
+       "will be starting at",
+       "is be starting"
+      ],
+      "a": 0
+     },
+     {
+      "q": "___ (you / use) your tablet this afternoon? Can I borrow it?",
+      "a": [
+       "Will you be using"
+      ]
+     },
+     {
+      "q": "By 2050 many species ___ (struggle) to survive.",
+      "a": [
+       "will be struggling"
+      ]
+     },
+     {
+      "q": "At 11 o'clock tomorrow, the students ___ an exam.",
+      "o": [
+       "will be doing",
+       "will be do",
+       "do"
+      ],
+      "a": 0
+     },
+     {
+      "q": "I ___ (not / work) this weekend, so I can help.",
+      "a": [
+       "won't be working",
+       "will not be working"
+      ]
+     },
+     {
+      "r": "what will you be doing at this time tomorrow"
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Correct the mistake: 'This time next year I will be knowing my exam results.'",
+      "a": [
+       "This time next year I will know my exam results.",
+       "This time next year I'll know my exam results."
+      ]
+     },
+     {
+      "q": "Which sentence is more polite?",
+      "o": [
+       "Will you come to my party?",
+       "Will you be coming to my party?",
+       "Do you come to my party?"
+      ],
+      "a": 1
+     },
+     {
+      "q": "Complete with the right form: 'When you arrive, I ___ (wait) for you at the entrance.'",
+      "a": [
+       "will be waiting",
+       "'ll be waiting"
+      ]
+     },
+     {
+      "q": "Future simple or continuous? 'I promise I ___ (recycle) more.'",
+      "a": [
+       "will recycle",
+       "'ll recycle"
+      ]
+     },
+     {
+      "q": "Rewrite: 'I'm going to start my shift at 2 and finish at 10.' → At 6, I ___ .",
+      "a": [
+       "will be working",
+       "'ll be working"
+      ]
+     },
+     {
+      "q": "In the future, robots ___ (do) most of the dangerous jobs.",
+      "a": [
+       "will be doing",
+       "will do"
+      ]
+     },
+     {
+      "q": "Choose: 'Hurry up! The march ___ in five minutes.'",
+      "o": [
+       "will be starting",
+       "will be start",
+       "starting"
+      ],
+      "a": 0
+     },
+     {
+      "r": "will you be going past the supermarket on your way home"
+     }
+    ]
+   },
+   "ws": {
+    "basic": [
+     {
+      "q": "At 10 a.m. tomorrow I ___ (sit) in class.",
+      "a": [
+       "will be sitting"
+      ]
+     },
+     {
+      "q": "Next week they ___ (travel) around Portugal.",
+      "a": [
+       "will be travelling"
+      ]
+     },
+     {
+      "q": "I ___ be playing football at 5.",
+      "o": [
+       "will",
+       "am",
+       "won't to"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Will you ___ using the car tonight?",
+      "o": [
+       "be",
+       "being",
+       "been"
+      ],
+      "a": 0
+     },
+     {
+      "q": "We won't ___ wearing uniforms next year.",
+      "o": [
+       "be",
+       "are",
+       "to"
+      ],
+      "a": 0
+     },
+     {
+      "r": "she will be studying biology next year"
+     },
+     {
+      "w": "Write three things you will be doing at different times tomorrow."
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "In 2050, we ___ (use) only renewable energy.",
+      "a": [
+       "will be using"
+      ]
+     },
+     {
+      "q": "Don't come at 4 – I ___ (have) my piano lesson.",
+      "a": [
+       "will be having"
+      ]
+     },
+     {
+      "q": "___ (you / go) to the shops later? I need some milk.",
+      "a": [
+       "Will you be going"
+      ]
+     },
+     {
+      "q": "When you get home, I ___ dinner.",
+      "o": [
+       "will be cooking",
+       "will cook at",
+       "cook"
+      ],
+      "a": 0
+     },
+     {
+      "q": "This time on Saturday we ___ in the mountains.",
+      "o": [
+       "'ll be hiking",
+       "'ll hiking",
+       "hike"
+      ],
+      "a": 0
+     },
+     {
+      "r": "in twenty years most people will be working from home"
+     },
+     {
+      "w": "Imagine your life in 2045. Write six sentences about what you will be doing."
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Future simple or continuous? 'Don't worry, I ___ (pay) you back tomorrow.'",
+      "a": [
+       "will pay"
+      ]
+     },
+     {
+      "q": "Future simple or continuous? 'At 3 p.m. we ___ (still / clean) the beach.'",
+      "a": [
+       "will still be cleaning"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'Will you be wanting a drink?'",
+      "a": [
+       "Will you want a drink? / Do you want a drink?"
+      ]
+     },
+     {
+      "q": "Make a polite question: you want to borrow your friend's camera tomorrow.",
+      "a": [
+       "Will you be using your camera tomorrow?"
+      ]
+     },
+     {
+      "q": "Rewrite: 'My plane leaves at 6 and lands at 9.' → At 7, I ___ .",
+      "a": [
+       "will be flying"
+      ]
+     },
+     {
+      "r": "scientists will be monitoring the glacier for the next ten years"
+     },
+     {
+      "w": "Write a letter (100 words) to yourself in 2040. Describe what you think you will be doing and how the planet will be."
+     }
+    ]
+   }
+  }
+ ]
+}

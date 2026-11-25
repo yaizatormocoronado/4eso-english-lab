@@ -1,0 +1,1143 @@
+{
+ "id": 7,
+ "title": "Future living",
+ "topic": "Technology, smart cities and the buildings of the future",
+ "color": "#00a3a3",
+ "vocab": [
+  {
+   "name": "Adjectives to describe technology",
+   "words": [
+    [
+     "adaptable",
+     "adj",
+     "able to change to suit different situations",
+     "adaptable",
+     "This *adaptable* furniture changes from a bed into a desk."
+    ],
+    [
+     "affordable",
+     "adj",
+     "cheap enough for most people to buy",
+     "asequible",
+     "Solar panels are more *affordable* than before."
+    ],
+    [
+     "energy-saving",
+     "adj",
+     "using less electricity",
+     "de bajo consumo",
+     "We have *energy-saving* light bulbs at home."
+    ],
+    [
+     "experimental",
+     "adj",
+     "new and still being tested",
+     "experimental",
+     "The flying taxi is still *experimental*."
+    ],
+    [
+     "high-tech",
+     "adj",
+     "using very modern technology",
+     "de alta tecnología",
+     "The new hospital is very *high-tech*."
+    ],
+    [
+     "innovative",
+     "adj",
+     "using new and original ideas",
+     "innovador/a",
+     "It's an *innovative* way to recycle water."
+    ],
+    [
+     "inspiring",
+     "adj",
+     "making you want to do something",
+     "inspirador/a",
+     "Her talk about green cities was *inspiring*."
+    ],
+    [
+     "smart",
+     "adj",
+     "connected to the internet and able to work automatically",
+     "inteligente",
+     "A *smart* fridge tells you when milk runs out."
+    ],
+    [
+     "solar-powered",
+     "adj",
+     "working with energy from the sun",
+     "que funciona con energía solar",
+     "We charged our phones with a *solar-powered* charger."
+    ],
+    [
+     "virtual",
+     "adj",
+     "created by computers, not physically real",
+     "virtual",
+     "We took a *virtual* tour of the museum."
+    ]
+   ]
+  },
+  {
+   "name": "Buildings and materials",
+   "words": [
+    [
+     "brick",
+     "noun",
+     "a rectangular block of baked clay used to build walls",
+     "ladrillo",
+     "The old school is made of red *brick*."
+    ],
+    [
+     "concrete",
+     "noun",
+     "a hard building material made of cement, sand and water",
+     "hormigón",
+     "*Concrete* produces a lot of CO2."
+    ],
+    [
+     "hut",
+     "noun",
+     "a small simple building",
+     "cabaña, choza",
+     "The shepherds slept in a stone *hut*."
+    ],
+    [
+     "iron",
+     "noun",
+     "a strong, hard metal",
+     "hierro",
+     "The Eiffel Tower is made of *iron*."
+    ],
+    [
+     "mud",
+     "noun",
+     "wet earth",
+     "barro",
+     "Some houses in Africa are built with *mud*."
+    ],
+    [
+     "skyscraper",
+     "noun",
+     "a very tall building",
+     "rascacielos",
+     "Dubai has the tallest *skyscraper* in the world."
+    ],
+    [
+     "steel",
+     "noun",
+     "a very strong metal made from iron",
+     "acero",
+     "Modern bridges are made of *steel*."
+    ],
+    [
+     "stone",
+     "noun",
+     "hard natural material from the ground",
+     "piedra",
+     "The castle walls are made of *stone*."
+    ],
+    [
+     "storey",
+     "noun",
+     "a level of a building",
+     "planta, piso",
+     "Our block of flats has ten *storeys*."
+    ],
+    [
+     "tent",
+     "noun",
+     "a shelter made of cloth that you can carry",
+     "tienda de campaña",
+     "We slept in a *tent* at the festival."
+    ],
+    [
+     "tower",
+     "noun",
+     "a tall narrow building or part of a building",
+     "torre",
+     "You can see the whole city from the *tower*."
+    ]
+   ]
+  },
+  {
+   "name": "Extra: Computing and AI",
+   "extra": true,
+   "words": [
+    [
+     "automated",
+     "adj",
+     "done by machines, not people",
+     "automatizado/a",
+     "The car park is fully *automated*."
+    ],
+    [
+     "block",
+     "verb",
+     "to stop something from happening or getting through",
+     "bloquear",
+     "This app *blocks* spam messages."
+    ],
+    [
+     "bot",
+     "noun",
+     "a computer program that does tasks automatically",
+     "bot",
+     "A *bot* answered my question on the website."
+    ],
+    [
+     "detect",
+     "verb",
+     "to notice or discover something",
+     "detectar",
+     "Sensors *detect* when you enter the room."
+    ],
+    [
+     "simulate",
+     "verb",
+     "to copy how something works, often on a computer",
+     "simular",
+     "Pilots use computers to *simulate* flights."
+    ],
+    [
+     "software",
+     "noun",
+     "programs used by a computer",
+     "software",
+     "Update the *software* on your laptop."
+    ]
+   ]
+  }
+ ],
+ "grammar": [
+  {
+   "id": "passive",
+   "title": "The passive",
+   "short": "Present, past and future passive",
+   "slides": [
+    {
+     "k": "title",
+     "h": "The passive",
+     "sub": "Future living: how smart cities are built",
+     "hook": "What materials are skyscrapers made of? Who designs smart buildings – and does it matter?"
+    },
+    {
+     "k": "text",
+     "h": "Active or passive?",
+     "p": [
+      "In the passive, the focus is on the action or the object, not on who does it.",
+      "Use 'by' if you want to say who does the action."
+     ],
+     "ex": [
+      "Active: Engineers **design** energy-saving buildings.",
+      "Passive: Energy-saving buildings **are designed** (by engineers)."
+     ]
+    },
+    {
+     "k": "table",
+     "h": "Form: be + past participle",
+     "cols": [
+      "Tense",
+      "Passive form",
+      "Example"
+     ],
+     "rows": [
+      [
+       "Present simple",
+       "am / is / are + participle",
+       "Solar panels are installed on the roof."
+      ],
+      [
+       "Past simple",
+       "was / were + participle",
+       "The Eiffel Tower was built of iron in 1889."
+      ],
+      [
+       "Future (will)",
+       "will be + participle",
+       "Homes will be powered by the sun."
+      ],
+      [
+       "Present continuous",
+       "am / is / are being + participle",
+       "A new skyscraper is being built."
+      ],
+      [
+       "Present perfect",
+       "has / have been + participle",
+       "The software has been updated."
+      ]
+     ]
+    },
+    {
+     "k": "text",
+     "h": "When do we use it?",
+     "p": [
+      "When we don't know who did it, when it isn't important, or when it's obvious.",
+      "It's very common in news, science and descriptions of technology."
+     ],
+     "ex": [
+      "Concrete **is made** from cement, sand and water.",
+      "The first smart house **was designed** in the 1980s.",
+      "In the future, buildings **will be printed** by 3D printers."
+     ]
+    },
+    {
+     "k": "table",
+     "h": "Negatives and questions",
+     "cols": [
+      "",
+      "Example"
+     ],
+     "rows": [
+      [
+       "−",
+       "The tower wasn't finished on time."
+      ],
+      [
+       "?",
+       "Was the hut made of mud or stone?"
+      ],
+      [
+       "?",
+       "When will the new solar-powered station be opened?"
+      ]
+     ]
+    },
+    {
+     "k": "context",
+     "h": "Grammar in context",
+     "kind": "News · Smart cities",
+     "title": "The city that thinks",
+     "text": [
+      "In the new district, every building **is connected** to the internet. Lights **are switched** off automatically when nobody is in the room, and rubbish **is collected** by robots.",
+      "The first towers **were built** with steel and recycled concrete in 2024. More homes **are being built** right now.",
+      "By 2030, all the buses **will be powered** by solar energy, and traffic **will be controlled** by smart software."
+     ]
+    },
+    {
+     "k": "mistakes",
+     "h": "Watch out!",
+     "items": [
+      [
+       "The skyscraper built in 1931.",
+       "The skyscraper was built in 1931.",
+       "Don't forget the verb 'be'."
+      ],
+      [
+       "The tower was design by a woman.",
+       "The tower was designed by a woman.",
+       "Use the past participle."
+      ],
+      [
+       "The bus will be drive by a robot.",
+       "The bus will be driven by a robot.",
+       "Irregular participle: drive → driven."
+      ]
+     ]
+    },
+    {
+     "k": "check",
+     "q": "Millions of energy-saving bulbs ___ every year.",
+     "o": [
+      "sell",
+      "are sold",
+      "were sell"
+     ],
+     "a": 1,
+     "e": "Present simple passive: are + participle."
+    },
+    {
+     "k": "check",
+     "q": "In the future, most houses ___ with 3D printers.",
+     "o": [
+      "will build",
+      "will be built",
+      "are building"
+     ],
+     "a": 1,
+     "e": "Future passive: will be + participle."
+    },
+    {
+     "k": "sum",
+     "h": "Remember",
+     "p": [
+      "Passive = be (in the right tense) + past participle.",
+      "Use 'by' to say who did it (only if important).",
+      "Common in news, science and descriptions of processes."
+     ]
+    }
+   ],
+   "ex": {
+    "basic": [
+     {
+      "q": "English ___ all over the world.",
+      "o": [
+       "is spoken",
+       "speaks",
+       "is speak"
+      ],
+      "a": 0
+     },
+     {
+      "q": "This bridge ___ (build) in 1990.",
+      "a": [
+       "was built"
+      ]
+     },
+     {
+      "q": "The emails ___ (send) every morning. (present)",
+      "a": [
+       "are sent"
+      ]
+     },
+     {
+      "q": "The new school ___ next year.",
+      "o": [
+       "will be opened",
+       "will open by",
+       "is opened yesterday"
+      ],
+      "a": 0
+     },
+     {
+      "q": "The pyramids ___ by the Egyptians.",
+      "o": [
+       "were built",
+       "built",
+       "are build"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Smart phones ___ (make) in many countries.",
+      "a": [
+       "are made"
+      ]
+     },
+     {
+      "r": "the house was made of wood"
+     },
+     {
+      "q": "The tower ___ (not / finish) yet. It will be ready in May.",
+      "a": [
+       "isn't finished",
+       "is not finished",
+       "hasn't been finished"
+      ]
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "The first skyscraper ___ (design) in Chicago in 1885.",
+      "a": [
+       "was designed"
+      ]
+     },
+     {
+      "q": "Electricity ___ (produce) by the solar panels on the roof.",
+      "a": [
+       "is produced"
+      ]
+     },
+     {
+      "q": "In 2040, deliveries ___ (make) by drones.",
+      "a": [
+       "will be made"
+      ]
+     },
+     {
+      "q": "___ the hut made of mud or stone?",
+      "o": [
+       "Was",
+       "Did",
+       "Has"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Passive: 'A robot cleans the streets.' → The streets ___ by a robot.",
+      "a": [
+       "are cleaned"
+      ]
+     },
+     {
+      "q": "Passive: 'They didn't use steel.' → Steel ___ .",
+      "a": [
+       "wasn't used",
+       "was not used"
+      ]
+     },
+     {
+      "q": "A new metro line ___ at the moment.",
+      "o": [
+       "is being built",
+       "is built",
+       "was building"
+      ],
+      "a": 0
+     },
+     {
+      "r": "the software will be updated tonight"
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Passive: 'Engineers will test the experimental car next week.'",
+      "a": [
+       "The experimental car will be tested by engineers next week.",
+       "The experimental car will be tested next week.",
+       "The experimental car will be tested by engineers next week"
+      ]
+     },
+     {
+      "q": "Passive: 'Someone has hacked the system.'",
+      "a": [
+       "The system has been hacked.",
+       "The system has been hacked"
+      ]
+     },
+     {
+      "q": "Passive: 'They are installing sensors in every room.'",
+      "a": [
+       "Sensors are being installed in every room.",
+       "Sensors are being installed in every room"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'The Sagrada Família was began in 1882.'",
+      "a": [
+       "The Sagrada Família was begun in 1882.",
+       "The Sagrada Familia was begun in 1882.",
+       "The Sagrada Família was started in 1882.",
+       "The Sagrada Familia was started in 1882."
+      ]
+     },
+     {
+      "q": "Make a question: 'When / the Eiffel Tower / build?'",
+      "a": [
+       "When was the Eiffel Tower built?",
+       "When was the Eiffel Tower built"
+      ]
+     },
+     {
+      "q": "Which sentence does NOT need 'by + agent'?",
+      "o": [
+       "Guernica was painted by Picasso.",
+       "My bike was stolen by someone.",
+       "The app was created by two teenagers."
+      ],
+      "a": 1
+     },
+     {
+      "q": "By 2030, the old factory ___ (transform) into flats. (future)",
+      "a": [
+       "will be transformed",
+       "will have been transformed"
+      ]
+     },
+     {
+      "r": "most of the work will be done by automated machines"
+     }
+    ]
+   },
+   "ws": {
+    "basic": [
+     {
+      "q": "Paper ___ (make) from wood.",
+      "a": [
+       "is made"
+      ]
+     },
+     {
+      "q": "The film ___ (watch) by millions of people last year.",
+      "a": [
+       "was watched"
+      ]
+     },
+     {
+      "q": "Coffee ___ in Colombia.",
+      "o": [
+       "is grown",
+       "grows by",
+       "is grow"
+      ],
+      "a": 0
+     },
+     {
+      "q": "The letters ___ yesterday.",
+      "o": [
+       "were sent",
+       "are sent",
+       "sent was"
+      ],
+      "a": 0
+     },
+     {
+      "q": "The match ___ tomorrow.",
+      "o": [
+       "will be played",
+       "will play by",
+       "is played yesterday"
+      ],
+      "a": 0
+     },
+     {
+      "r": "the castle was built in the twelfth century"
+     },
+     {
+      "w": "Write five passive sentences about things in your classroom (e.g. The whiteboard is used every day)."
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "Passive: 'People use bots to answer questions.' → Bots ___ to answer questions.",
+      "a": [
+       "are used"
+      ]
+     },
+     {
+      "q": "Passive: 'They built this hut with mud.' → This hut ___ with mud.",
+      "a": [
+       "was built"
+      ]
+     },
+     {
+      "q": "Passive: 'Robots will do the housework.' → The housework ___ by robots.",
+      "a": [
+       "will be done"
+      ]
+     },
+     {
+      "q": "Where ___ the first smartphone invented?",
+      "o": [
+       "was",
+       "did",
+       "is"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Our street ___ at the moment, so it's very noisy.",
+      "o": [
+       "is being repaired",
+       "is repaired",
+       "repairs"
+      ],
+      "a": 0
+     },
+     {
+      "r": "energy-saving lights will be installed in every school"
+     },
+     {
+      "w": "Describe how something is made (e.g. bread, a smartphone, a T-shirt) in six steps using the present passive."
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Passive: 'They have opened a new smart library.'",
+      "a": [
+       "A new smart library has been opened."
+      ]
+     },
+     {
+      "q": "Passive: 'Nobody told us about the change.'",
+      "a": [
+       "We weren't told about the change."
+      ]
+     },
+     {
+      "q": "Passive: 'Someone is watching us.'",
+      "a": [
+       "We are being watched."
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'The tower was build by Gustave Eiffel's company.'",
+      "a": [
+       "The tower was built by Gustave Eiffel's company."
+      ]
+     },
+     {
+      "q": "Question: 'How many skyscrapers / build / in Madrid / since 2000?'",
+      "a": [
+       "How many skyscrapers have been built in Madrid since 2000?"
+      ]
+     },
+     {
+      "r": "the city of the future will be powered entirely by renewable energy"
+     },
+     {
+      "w": "Write a news article (100 words) about a new high-tech building in your town. Use at least five passive forms in different tenses."
+     }
+    ]
+   }
+  },
+  {
+   "id": "quantifiers",
+   "title": "Quantifiers",
+   "short": "(not) enough, (a) few, (a) little, a lot of, plenty of, too much / many",
+   "slides": [
+    {
+     "k": "title",
+     "h": "Quantifiers",
+     "sub": "Future living: is there enough space in your city?",
+     "hook": "Does your town have enough green spaces? Are there too many cars? What about affordable homes?"
+    },
+    {
+     "k": "table",
+     "h": "Countable or uncountable?",
+     "cols": [
+      "Quantifier",
+      "Countable (towers, bikes)",
+      "Uncountable (energy, space)"
+     ],
+     "rows": [
+      [
+       "a lot of / lots of",
+       "✓ a lot of skyscrapers",
+       "✓ a lot of concrete"
+      ],
+      [
+       "plenty of (more than enough)",
+       "✓ plenty of solar panels",
+       "✓ plenty of space"
+      ],
+      [
+       "many / few / a few",
+       "✓ a few towers",
+       "✗"
+      ],
+      [
+       "much / little / a little",
+       "✗",
+       "✓ a little energy"
+      ],
+      [
+       "too many / too much",
+       "✓ too many cars",
+       "✓ too much noise"
+      ],
+      [
+       "(not) enough",
+       "✓ enough charging points",
+       "✓ enough steel"
+      ]
+     ]
+    },
+    {
+     "k": "text",
+     "h": "a few / a little vs few / little",
+     "p": [
+      "'a few' and 'a little' are positive: some, a small amount.",
+      "'few' and 'little' (without 'a') are negative: almost none, not enough."
+     ],
+     "ex": [
+      "There are **a few** smart buildings in my town. (some – good)",
+      "There are **few** affordable flats in the centre. (almost none – bad)",
+      "We need **a little** more energy to charge the car.",
+      "There's **little** space for new parks."
+     ]
+    },
+    {
+     "k": "text",
+     "h": "too and enough",
+     "p": [
+      "too much / too many + noun = more than we want.",
+      "enough + noun = the right amount. not enough = less than we need.",
+      "With adjectives: too + adjective, adjective + enough."
+     ],
+     "ex": [
+      "There's **too much** concrete and **too many** cars.",
+      "We don't have **enough** green, energy-saving homes.",
+      "The flat isn't **big enough**. And it's **too expensive** – not affordable at all."
+     ]
+    },
+    {
+     "k": "context",
+     "h": "Grammar in context",
+     "kind": "Proposal · My neighbourhood",
+     "title": "How to improve our streets",
+     "text": [
+      "In our neighbourhood there are **too many** cars and **too much** noise. There are **very few** trees and **not enough** places for teenagers to hang out.",
+      "We propose an innovative plan: **plenty of** cycle lanes, **a few** solar-powered bus stops and **a lot of** green roofs.",
+      "It isn't **too expensive**. With **a little** help from the council, it could be ready in two years."
+     ]
+    },
+    {
+     "k": "mistakes",
+     "h": "Watch out!",
+     "items": [
+      [
+       "There are too much skyscrapers here.",
+       "There are too many skyscrapers here.",
+       "skyscrapers is countable → many."
+      ],
+      [
+       "We haven't got space enough.",
+       "We haven't got enough space.",
+       "enough goes BEFORE a noun."
+      ],
+      [
+       "The phone isn't enough smart.",
+       "The phone isn't smart enough.",
+       "enough goes AFTER an adjective."
+      ]
+     ]
+    },
+    {
+     "k": "check",
+     "q": "There isn't ___ space for a new park.",
+     "o": [
+      "many",
+      "enough",
+      "few"
+     ],
+     "a": 1,
+     "e": "space is uncountable; 'not enough' = less than we need."
+    },
+    {
+     "k": "check",
+     "q": "Don't worry, the solar panels produce ___ energy for the whole building.",
+     "o": [
+      "plenty of",
+      "too few",
+      "many"
+     ],
+     "a": 0,
+     "e": "plenty of = more than enough."
+    },
+    {
+     "k": "sum",
+     "h": "Remember",
+     "p": [
+      "many / few + countable; much / little + uncountable.",
+      "a lot of, plenty of, enough + both.",
+      "a few / a little = some; few / little = not enough.",
+      "noun: enough steel; adjective: strong enough."
+     ]
+    }
+   ],
+   "ex": {
+    "basic": [
+     {
+      "q": "There are ___ cars in the city centre.",
+      "o": [
+       "too many",
+       "too much",
+       "a little"
+      ],
+      "a": 0
+     },
+     {
+      "q": "I have ___ money – I can buy a coffee.",
+      "o": [
+       "a little",
+       "a few",
+       "many"
+      ],
+      "a": 0
+     },
+     {
+      "q": "There's too ___ noise in this street.",
+      "a": [
+       "much"
+      ]
+     },
+     {
+      "q": "We have ___ friends in this town – about four.",
+      "o": [
+       "a few",
+       "a little",
+       "much"
+      ],
+      "a": 0
+     },
+     {
+      "q": "There isn't ___ bread for everyone.",
+      "o": [
+       "enough",
+       "many",
+       "few"
+      ],
+      "a": 0
+     },
+     {
+      "q": "We've got ___ of time – the film starts in two hours.",
+      "o": [
+       "plenty",
+       "few",
+       "many"
+      ],
+      "a": 0
+     },
+     {
+      "r": "there are a lot of skyscrapers in new york"
+     },
+     {
+      "q": "There's ___ light in this room. I can't see!",
+      "o": [
+       "too little",
+       "too many",
+       "a few"
+      ],
+      "a": 0
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "There are ___ (very few / very little) parks in my neighbourhood.",
+      "a": [
+       "very few"
+      ]
+     },
+     {
+      "q": "This phone isn't ___ (fast / enough).",
+      "a": [
+       "fast enough"
+      ]
+     },
+     {
+      "q": "We've got ___ (enough / chairs / not) for everyone.",
+      "a": [
+       "not enough chairs"
+      ]
+     },
+     {
+      "q": "There's ___ hope that they will finish the bridge on time. (almost none)",
+      "o": [
+       "little",
+       "a little",
+       "few"
+      ],
+      "a": 0
+     },
+     {
+      "q": "I've got ___ ideas for the project. Can I share them?",
+      "o": [
+       "a few",
+       "few",
+       "a little"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Some people spend ___ time online.",
+      "o": [
+       "too much",
+       "too many",
+       "enough of"
+      ],
+      "a": 0
+     },
+     {
+      "q": "There are ___ of charging points, so you'll find one easily.",
+      "a": [
+       "plenty",
+       "lots"
+      ]
+     },
+     {
+      "r": "the flat isn't big enough for five people"
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Correct the mistake: 'There are too much buildings and not enough trees.'",
+      "a": [
+       "There are too many buildings and not enough trees.",
+       "There are too many buildings and not enough trees"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'We don't have money enough.'",
+      "a": [
+       "We don't have enough money.",
+       "We don't have enough money"
+      ]
+     },
+     {
+      "q": "Which sentence is negative in meaning?",
+      "o": [
+       "I have a few friends here.",
+       "I have few friends here.",
+       "I have plenty of friends here."
+      ],
+      "a": 1
+     },
+     {
+      "q": "Rewrite with 'too': 'The tower isn't safe enough.' → The tower is ___ .",
+      "a": [
+       "too dangerous",
+       "too unsafe"
+      ]
+     },
+     {
+      "q": "Rewrite with 'enough': 'The bike is too slow to win the race.' → The bike isn't ___ to win the race.",
+      "a": [
+       "fast enough",
+       "quick enough"
+      ]
+     },
+     {
+      "q": "Choose: 'Hardly anyone came. There were ___ people at the event.'",
+      "o": [
+       "few",
+       "a few",
+       "plenty of"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Complete: 'There's ___ concrete in modern cities and ___ green space.' (more than we want / less than we need)",
+      "a": [
+       "too much / not enough"
+      ],
+      "h": "Write both separated by /"
+     },
+     {
+      "r": "there are plenty of affordable flats in the new district"
+     }
+    ]
+   },
+   "ws": {
+    "basic": [
+     {
+      "q": "There are ___ shops in my street.",
+      "o": [
+       "a few",
+       "a little",
+       "much"
+      ],
+      "a": 0
+     },
+     {
+      "q": "We need ___ water for the plants.",
+      "o": [
+       "a little",
+       "a few",
+       "many"
+      ],
+      "a": 0
+     },
+     {
+      "q": "There are too ___ people on the bus.",
+      "a": [
+       "many"
+      ]
+     },
+     {
+      "q": "I don't have ___ time to finish.",
+      "a": [
+       "enough"
+      ]
+     },
+     {
+      "q": "We've got ___ food. Don't buy more.",
+      "o": [
+       "plenty of",
+       "few",
+       "many"
+      ],
+      "a": 0
+     },
+     {
+      "r": "there is too much traffic in my town"
+     },
+     {
+      "w": "Write five sentences about your town using too many, too much, enough, not enough and plenty of."
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "This box isn't ___ (strong / enough) for the bricks.",
+      "a": [
+       "strong enough"
+      ]
+     },
+     {
+      "q": "There are very ___ cycle lanes. We need more.",
+      "a": [
+       "few"
+      ]
+     },
+     {
+      "q": "She has ___ experience, but she learns fast. (almost none)",
+      "a": [
+       "little"
+      ]
+     },
+     {
+      "q": "I've got ___ questions about the project.",
+      "o": [
+       "a few",
+       "a little",
+       "much"
+      ],
+      "a": 0
+     },
+     {
+      "q": "There's ___ sugar in this drink. It's horrible!",
+      "o": [
+       "too much",
+       "too many",
+       "enough of"
+      ],
+      "a": 0
+     },
+     {
+      "r": "we haven't got enough solar panels on the roof"
+     },
+     {
+      "w": "Write a short complaint (60–80 words) to your town council about problems in your neighbourhood. Use at least five quantifiers."
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Correct the mistake: 'There isn't enough of space for a park.'",
+      "a": [
+       "There isn't enough space for a park."
+      ]
+     },
+     {
+      "q": "Rewrite: 'The room is too small for twenty people.' (enough) → The room ___ .",
+      "a": [
+       "isn't big enough for twenty people"
+      ]
+     },
+     {
+      "q": "Explain the difference: 'I have a little money' vs 'I have little money'.",
+      "a": [
+       "some money (positive) vs almost no money (negative)"
+      ]
+     },
+     {
+      "q": "Choose: 'There were ___ mistakes in her essay – only two.'",
+      "o": [
+       "very few",
+       "very little",
+       "too much"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Choose: 'Is there ___ information about the new metro?'",
+      "o": [
+       "much",
+       "many",
+       "a few"
+      ],
+      "a": 0
+     },
+     {
+      "r": "too many cities have too little green space"
+     },
+     {
+      "w": "Write a proposal (100 words) to improve your neighbourhood. Describe the problems and solutions using quantifiers and the passive."
+     }
+    ]
+   }
+  }
+ ]
+}

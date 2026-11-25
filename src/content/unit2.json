@@ -1,0 +1,1201 @@
+{
+ "id": 2,
+ "title": "In business",
+ "topic": "Money, business and the skills you need to succeed",
+ "color": "#00a86b",
+ "vocab": [
+  {
+   "name": "Money and business",
+   "words": [
+    [
+     "account",
+     "noun",
+     "an arrangement with a bank to keep your money there",
+     "cuenta (bancaria)",
+     "I opened a bank *account* when I turned sixteen."
+    ],
+    [
+     "cash machine",
+     "noun",
+     "a machine in the street where you get money with a card",
+     "cajero automático",
+     "Is there a *cash machine* near here?"
+    ],
+    [
+     "charge",
+     "verb",
+     "to ask someone to pay an amount of money",
+     "cobrar",
+     "The café *charges* two euros for a coffee."
+    ],
+    [
+     "entrepreneur",
+     "noun",
+     "a person who starts their own business",
+     "emprendedor/a",
+     "She became an *entrepreneur* at the age of nineteen."
+    ],
+    [
+     "expenses",
+     "noun (pl)",
+     "money that you spend to do something",
+     "gastos",
+     "Our *expenses* include rent and electricity."
+    ],
+    [
+     "income",
+     "noun",
+     "money you receive, for example from work",
+     "ingresos",
+     "His *income* comes from selling T-shirts online."
+    ],
+    [
+     "in exchange for",
+     "phrase",
+     "giving one thing and receiving another",
+     "a cambio de",
+     "I walk my neighbour's dog *in exchange for* some money."
+    ],
+    [
+     "profit",
+     "noun",
+     "money you make after you pay all your costs",
+     "beneficio, ganancia",
+     "The school market made a *profit* of 300 euros."
+    ],
+    [
+     "run",
+     "verb",
+     "to control or manage a business",
+     "dirigir, llevar (un negocio)",
+     "My aunt *runs* a small bakery."
+    ],
+    [
+     "savings",
+     "noun (pl)",
+     "money that you keep and don't spend",
+     "ahorros",
+     "I bought my bike with my *savings*."
+    ],
+    [
+     "set up",
+     "phrasal verb",
+     "to start a company or organization",
+     "montar, crear (una empresa)",
+     "They *set up* their business in a garage."
+    ],
+    [
+     "wages",
+     "noun (pl)",
+     "money you get regularly for your work",
+     "salario, sueldo",
+     "The workers asked for higher *wages*."
+    ]
+   ]
+  },
+  {
+   "name": "Personal skills",
+   "words": [
+    [
+     "attention to detail",
+     "noun",
+     "the ability to notice small things carefully",
+     "atención al detalle",
+     "Designers need great *attention to detail*."
+    ],
+    [
+     "communication skills",
+     "noun (pl)",
+     "the ability to express ideas clearly to others",
+     "habilidades comunicativas",
+     "Good *communication skills* help you work in a team."
+    ],
+    [
+     "computer programming",
+     "noun",
+     "writing code to make computer software",
+     "programación informática",
+     "He learned *computer programming* online."
+    ],
+    [
+     "creativity",
+     "noun",
+     "the ability to produce new and original ideas",
+     "creatividad",
+     "Her *creativity* makes her videos special."
+    ],
+    [
+     "critical thinking",
+     "noun",
+     "analysing information carefully before you decide",
+     "pensamiento crítico",
+     "*Critical thinking* helps you spot fake news."
+    ],
+    [
+     "design skills",
+     "noun (pl)",
+     "the ability to plan how something looks or works",
+     "habilidades de diseño",
+     "You need *design skills* to make a good logo."
+    ],
+    [
+     "leadership skills",
+     "noun (pl)",
+     "the ability to guide and motivate a group",
+     "dotes de liderazgo",
+     "The captain has excellent *leadership skills*."
+    ],
+    [
+     "negotiation skills",
+     "noun (pl)",
+     "the ability to discuss and reach an agreement",
+     "habilidades de negociación",
+     "Use your *negotiation skills* to get a better price."
+    ],
+    [
+     "organizational skills",
+     "noun (pl)",
+     "the ability to plan and organize things well",
+     "capacidad organizativa",
+     "With good *organizational skills*, you never miss a deadline."
+    ],
+    [
+     "time management",
+     "noun",
+     "using your time well to do all your tasks",
+     "gestión del tiempo",
+     "*Time management* is key during exam week."
+    ]
+   ]
+  },
+  {
+   "name": "Extra: Personality adjectives",
+   "extra": true,
+   "words": [
+    [
+     "ambitious",
+     "adj",
+     "wanting very much to be successful",
+     "ambicioso/a",
+     "She's *ambitious* and wants her own company."
+    ],
+    [
+     "calm",
+     "adj",
+     "relaxed and not worried",
+     "tranquilo/a",
+     "Stay *calm* during the interview."
+    ],
+    [
+     "competitive",
+     "adj",
+     "wanting to win or be better than others",
+     "competitivo/a",
+     "My brother is very *competitive* at sports."
+    ],
+    [
+     "curious",
+     "adj",
+     "wanting to learn or know about things",
+     "curioso/a",
+     "*Curious* people ask lots of questions."
+    ],
+    [
+     "determined",
+     "adj",
+     "not letting anything stop you",
+     "decidido/a",
+     "He was *determined* to finish the marathon."
+    ],
+    [
+     "generous",
+     "adj",
+     "happy to give money, time or help",
+     "generoso/a",
+     "It was *generous* of you to donate your savings."
+    ],
+    [
+     "keen",
+     "adj",
+     "very interested or enthusiastic",
+     "entusiasta, con ganas",
+     "I'm *keen* to learn more about marketing."
+    ],
+    [
+     "practical",
+     "adj",
+     "good at dealing with real problems",
+     "práctico/a",
+     "We need a *practical* solution."
+    ]
+   ]
+  }
+ ],
+ "grammar": [
+  {
+   "id": "presperf",
+   "title": "Present perfect simple and continuous",
+   "short": "Experiences, results and actions that continue",
+   "slides": [
+    {
+     "k": "title",
+     "h": "Present perfect simple & continuous",
+     "sub": "In business: young entrepreneurs",
+     "hook": "Have you ever earned your own money? How long have you been saving for something special?"
+    },
+    {
+     "k": "table",
+     "h": "The two forms",
+     "cols": [
+      "",
+      "Simple",
+      "Continuous"
+     ],
+     "rows": [
+      [
+       "Form",
+       "have / has + past participle",
+       "have / has + been + verb-ing"
+      ],
+      [
+       "+",
+       "She has set up a company.",
+       "She has been running it for a year."
+      ],
+      [
+       "−",
+       "We haven't made a profit yet.",
+       "We haven't been charging enough."
+      ],
+      [
+       "?",
+       "Have you opened a bank account?",
+       "How long have you been saving?"
+      ]
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Present perfect simple",
+     "p": [
+      "Use it for experiences (ever / never), results we can see now, and actions with 'already', 'just' and 'yet'.",
+      "It answers: How many? How much?"
+     ],
+     "ex": [
+      "Have you **ever set up** a business?",
+      "Lola **has made** a profit of 200 euros this month.",
+      "I**'ve** just **opened** my first bank account."
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Present perfect continuous",
+     "p": [
+      "Use it for actions that started in the past and are still happening, or have just stopped and we can see the effects.",
+      "It answers: How long? It focuses on the activity."
+     ],
+     "ex": [
+      "Marco **has been running** his online shop since 2023.",
+      "I'm exhausted because I**'ve been working** on my business plan.",
+      "How long **have** you **been saving** for a laptop?"
+     ]
+    },
+    {
+     "k": "table",
+     "h": "for or since?",
+     "cols": [
+      "for + period of time",
+      "since + point in time"
+     ],
+     "rows": [
+      [
+       "I've had my bank account for two years.",
+       "I've had my bank account since 2024."
+      ],
+      [
+       "She's been earning wages for six months.",
+       "She's been earning wages since June."
+      ],
+      [
+       "They've been entrepreneurs for ages.",
+       "They've been entrepreneurs since they were fifteen."
+      ]
+     ]
+    },
+    {
+     "k": "table",
+     "h": "Simple or continuous?",
+     "cols": [
+      "Simple (result / how many)",
+      "Continuous (activity / how long)"
+     ],
+     "rows": [
+      [
+       "I've counted my savings: 300 euros!",
+       "I've been saving since January."
+      ],
+      [
+       "She has earned 500 euros in wages.",
+       "She has been working at the café all summer."
+      ],
+      [
+       "They've set up the website.",
+       "They've been designing the logo."
+      ]
+     ],
+     "note": "State verbs (know, like, have = own, believe) only use the simple: I've known my business partner for years."
+    },
+    {
+     "k": "context",
+     "h": "Grammar in context",
+     "kind": "Magazine profile · Business",
+     "title": "Meet Ana, 16, entrepreneur",
+     "text": [
+      "Ana **has been making** jewellery since she was twelve. Two years ago she **set up** an online shop, and since then she **has sold** more than 1,000 bracelets.",
+      "'I**'ve been working** really hard,' she says. 'My expenses are low, so I**'ve made** a good profit. I**'ve** already **saved** enough for a new laptop!'",
+      "Her secret? Creativity, time management and great communication skills."
+     ]
+    },
+    {
+     "k": "mistakes",
+     "h": "Watch out!",
+     "items": [
+      [
+       "I've been knowing my business partner since 2020.",
+       "I've known my business partner since 2020.",
+       "'know' is a state verb."
+      ],
+      [
+       "I run this shop for five years.",
+       "I've run / I've been running this shop for five years.",
+       "The situation continues up to now → present perfect."
+      ],
+      [
+       "I've been selling 50 T-shirts this week.",
+       "I've sold 50 T-shirts this week.",
+       "A number of completed things → simple."
+      ]
+     ]
+    },
+    {
+     "k": "check",
+     "q": "She ___ cupcakes since 9 a.m. for her new business – the kitchen smells amazing!",
+     "o": [
+      "has baked",
+      "has been baking",
+      "bakes"
+     ],
+     "a": 1,
+     "e": "Focus on the activity and how long; we can see (and smell!) the effects."
+    },
+    {
+     "k": "check",
+     "q": "Our company ___ a profit of 1,000 euros so far.",
+     "o": [
+      "has been making",
+      "has made",
+      "is making"
+     ],
+     "a": 1,
+     "e": "'1,000 euros' is a result/number → simple."
+    },
+    {
+     "k": "sum",
+     "h": "Remember",
+     "p": [
+      "Simple → result, experience, how many / how much.",
+      "Continuous → activity in progress, how long.",
+      "for + a period; since + a starting point.",
+      "No continuous with state verbs."
+     ]
+    }
+   ],
+   "ex": {
+    "basic": [
+     {
+      "q": "I ___ (open) a bank account.",
+      "a": [
+       "have opened",
+       "'ve opened"
+      ]
+     },
+     {
+      "q": "She ___ (work) here since June. (continuous)",
+      "a": [
+       "has been working",
+       "'s been working"
+      ]
+     },
+     {
+      "q": "We have known each other ___ three years.",
+      "o": [
+       "for",
+       "since",
+       "ago"
+      ],
+      "a": 0
+     },
+     {
+      "q": "He has been saving money ___ January.",
+      "o": [
+       "for",
+       "since",
+       "from"
+      ],
+      "a": 1
+     },
+     {
+      "q": "___ you ever sold anything online?",
+      "o": [
+       "Have",
+       "Has",
+       "Did"
+      ],
+      "a": 0
+     },
+     {
+      "q": "They ___ (not / make) a profit yet.",
+      "a": [
+       "haven't made",
+       "have not made"
+      ]
+     },
+     {
+      "r": "how long have you been learning english"
+     },
+     {
+      "q": "My cousin ___ three companies!",
+      "o": [
+       "has set up",
+       "has been setting up",
+       "set up since"
+      ],
+      "a": 0
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "I'm exhausted. I ___ (study) all afternoon.",
+      "a": [
+       "have been studying",
+       "'ve been studying"
+      ]
+     },
+     {
+      "q": "Leo ___ (already / spend) all his wages.",
+      "a": [
+       "has already spent",
+       "'s already spent"
+      ]
+     },
+     {
+      "q": "How many T-shirts ___ you ___ (sell) this week?",
+      "a": [
+       "have / sold"
+      ],
+      "h": "Write both words separated by /"
+     },
+     {
+      "q": "I ___ my best friend since primary school.",
+      "o": [
+       "have known",
+       "have been knowing",
+       "know"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Your hands are dirty! What ___ you ___ ?",
+      "o": [
+       "have / done",
+       "have / been doing",
+       "did / do"
+      ],
+      "a": 1
+     },
+     {
+      "q": "We ___ (not / hear) from the bank yet.",
+      "a": [
+       "haven't heard",
+       "have not heard"
+      ]
+     },
+     {
+      "q": "Sara ___ (run) her online shop for two years.",
+      "a": [
+       "has been running",
+       "has run",
+       "'s been running",
+       "'s run"
+      ]
+     },
+     {
+      "r": "she has just set up her own business"
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Rewrite: 'I started working here in 2022.' → I ___ here since 2022.",
+      "a": [
+       "have been working",
+       "have worked",
+       "'ve been working",
+       "'ve worked"
+      ]
+     },
+     {
+      "q": "Rewrite: 'This is my first time in a job interview.' → I ___ in a job interview before.",
+      "a": [
+       "have never been",
+       "'ve never been"
+      ]
+     },
+     {
+      "q": "Which sentence is correct?",
+      "o": [
+       "I've been owning this phone for a year.",
+       "I've owned this phone for a year.",
+       "I own this phone since a year."
+      ],
+      "a": 1
+     },
+     {
+      "q": "It's the third time he ___ (lose) his card this month.",
+      "a": [
+       "has lost",
+       "'s lost"
+      ]
+     },
+     {
+      "q": "We ___ (try) to contact the bank all morning, but nobody ___ (answer).",
+      "a": [
+       "have been trying / has answered",
+       "'ve been trying / has answered"
+      ],
+      "h": "Write both verbs separated by /"
+     },
+     {
+      "q": "Rewrite: 'When did you start saving?' → How long ___ ?",
+      "a": [
+       "have you been saving"
+      ]
+     },
+     {
+      "q": "Choose the best option: 'Prices ___ steadily over the last year.'",
+      "o": [
+       "have been rising",
+       "have risen three",
+       "rose since"
+      ],
+      "a": 0
+     },
+     {
+      "r": "how much money have you saved so far"
+     }
+    ]
+   },
+   "ws": {
+    "basic": [
+     {
+      "q": "We ___ (finish) our business plan.",
+      "a": [
+       "have finished"
+      ]
+     },
+     {
+      "q": "He ___ (wait) for an hour. (continuous)",
+      "a": [
+       "has been waiting"
+      ]
+     },
+     {
+      "q": "I've lived here ___ 2019.",
+      "o": [
+       "since",
+       "for",
+       "ago"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Have you ___ been to a bank?",
+      "o": [
+       "ever",
+       "yet",
+       "since"
+      ],
+      "a": 0
+     },
+     {
+      "q": "She hasn't paid ___ .",
+      "o": [
+       "yet",
+       "already",
+       "ever"
+      ],
+      "a": 0
+     },
+     {
+      "r": "i have never had a part-time job"
+     },
+     {
+      "w": "Write three sentences about things you have done this year."
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "My parents ___ (run) this shop for twenty years.",
+      "a": [
+       "have been running / have run"
+      ]
+     },
+     {
+      "q": "Oh no! Somebody ___ (take) my wallet.",
+      "a": [
+       "has taken"
+      ]
+     },
+     {
+      "q": "I ___ (paint) the shop. That's why I'm covered in paint!",
+      "a": [
+       "have been painting"
+      ]
+     },
+     {
+      "q": "How many customers ___ today?",
+      "o": [
+       "have you had",
+       "have you been having",
+       "did you have since"
+      ],
+      "a": 0
+     },
+     {
+      "q": "I ___ him for ages.",
+      "o": [
+       "haven't seen",
+       "haven't been seeing",
+       "didn't see"
+      ],
+      "a": 0
+     },
+     {
+      "r": "they have been looking for a new office since march"
+     },
+     {
+      "w": "Imagine you have your own small business. Write 5 sentences about what you have done and what you have been doing this month."
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Rewrite: 'It's two years since I last saw him.' → I ___ for two years.",
+      "a": [
+       "haven't seen him"
+      ]
+     },
+     {
+      "q": "Rewrite: 'She began designing logos three hours ago.' → She ___ for three hours.",
+      "a": [
+       "has been designing logos"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'I have been believing in this idea for years.'",
+      "a": [
+       "I have believed in this idea for years."
+      ]
+     },
+     {
+      "q": "'I've read your report' vs 'I've been reading your report'. Which one means you haven't finished?",
+      "o": [
+       "the first",
+       "the second",
+       "both"
+      ],
+      "a": 1
+     },
+     {
+      "q": "The company ___ (grow) very fast since it ___ (open).",
+      "a": [
+       "has grown / opened"
+      ]
+     },
+     {
+      "r": "how long has your brother been working as a programmer"
+     },
+     {
+      "w": "Write a short profile (100 words) of a young entrepreneur you admire. Say what they have achieved and what they have been doing recently."
+     }
+    ]
+   }
+  },
+  {
+   "id": "questions",
+   "title": "Question forms",
+   "short": "Subject and object questions, indirect questions",
+   "slides": [
+    {
+     "k": "title",
+     "h": "Question forms",
+     "sub": "In business: the job interview",
+     "hook": "What questions do people ask in a job interview? Which personal skills would you talk about?"
+    },
+    {
+     "k": "table",
+     "h": "Object questions",
+     "cols": [
+      "Question word",
+      "Auxiliary",
+      "Subject",
+      "Verb..."
+     ],
+     "rows": [
+      [
+       "What skills",
+       "do",
+       "you",
+       "have?"
+      ],
+      [
+       "Where",
+       "did",
+       "she",
+       "set up her business?"
+      ],
+      [
+       "How much",
+       "does",
+       "the bank",
+       "charge?"
+      ]
+     ],
+     "note": "Remember QUASI: Question word – Auxiliary – Subject – Infinitive."
+    },
+    {
+     "k": "text",
+     "h": "Subject questions",
+     "p": [
+      "When the question word (who, what, which) is the SUBJECT, we don't use do / does / did. The word order is the same as a statement."
+     ],
+     "ex": [
+      "**Who runs** the company? (Somebody runs the company.)",
+      "**What happened** to your savings?",
+      "**Which bank charges** the lowest fees?"
+     ]
+    },
+    {
+     "k": "table",
+     "h": "Subject or object?",
+     "cols": [
+      "Subject question",
+      "Object question"
+     ],
+     "rows": [
+      [
+       "Who paid the entrepreneur?  (The bank paid her.)",
+       "Who did the entrepreneur pay?  (She paid her workers.)"
+      ],
+      [
+       "What made a profit?  (The café made a profit.)",
+       "What did you buy with your wages?"
+      ]
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Indirect questions",
+     "p": [
+      "Indirect questions are more polite – perfect for interviews! Start with 'Could you tell me...', 'Do you know...', 'I'd like to know...'. Then use statement word order (no do/does/did).",
+      "For yes/no questions, use 'if' or 'whether'."
+     ],
+     "ex": [
+      "Could you tell me **where the nearest cash machine is**?",
+      "Do you know **how much the bank charges**?",
+      "I'd like to know **if you have leadership skills**."
+     ]
+    },
+    {
+     "k": "context",
+     "h": "Grammar in context",
+     "kind": "Dialogue · Job interview",
+     "title": "A summer job at the café",
+     "text": [
+      "Manager: So, **what do you do** in your free time?",
+      "Leo: I design websites. I'm good at computer programming and I have good organizational skills.",
+      "Manager: Great. **Have you ever worked** with money?",
+      "Leo: Yes, I help at my aunt's shop. Could you tell me **what the wages are**? And I'd like to know **whether I can work** at weekends.",
+      "Manager: Of course. **Who told** you about this job?"
+     ]
+    },
+    {
+     "k": "mistakes",
+     "h": "Watch out!",
+     "items": [
+      [
+       "Who did set up Apple?",
+       "Who set up Apple?",
+       "Subject question: no 'did'."
+      ],
+      [
+       "Could you tell me where is the cash machine?",
+       "Could you tell me where the cash machine is?",
+       "Indirect question: statement order."
+      ],
+      [
+       "How much you earn?",
+       "How much do you earn?",
+       "Object questions need an auxiliary."
+      ]
+     ]
+    },
+    {
+     "k": "check",
+     "q": "Who ___ the business with you?",
+     "o": [
+      "did set up",
+      "set up",
+      "did sets up"
+     ],
+     "a": 1,
+     "e": "'Who' is the subject, so no auxiliary."
+    },
+    {
+     "k": "check",
+     "q": "Do you know what time ___ ?",
+     "o": [
+      "does the bank open",
+      "the bank opens",
+      "opens the bank"
+     ],
+     "a": 1,
+     "e": "Indirect question → statement word order."
+    },
+    {
+     "k": "sum",
+     "h": "Remember",
+     "p": [
+      "Object questions: QW + auxiliary + subject + verb.",
+      "Subject questions: who / what + verb (no do / did).",
+      "Indirect questions: polite phrase + statement order.",
+      "Yes/no indirect questions use if / whether."
+     ]
+    }
+   ],
+   "ex": {
+    "basic": [
+     {
+      "q": "___ do you live?",
+      "o": [
+       "Where",
+       "Who",
+       "Which"
+      ],
+      "a": 0
+     },
+     {
+      "q": "What ___ you do yesterday?",
+      "o": [
+       "did",
+       "do",
+       "were"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Who ___ (open) the window?",
+      "a": [
+       "opened"
+      ]
+     },
+     {
+      "q": "How old ___ your sister?",
+      "o": [
+       "is",
+       "does",
+       "has"
+      ],
+      "a": 0
+     },
+     {
+      "q": "___ you got any work experience?",
+      "o": [
+       "Have",
+       "Do",
+       "Are"
+      ],
+      "a": 0
+     },
+     {
+      "r": "what time does the shop open"
+     },
+     {
+      "q": "How much ___ this cost?",
+      "o": [
+       "does",
+       "do",
+       "is"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Where ___ you go on holiday last summer?",
+      "a": [
+       "did"
+      ]
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "Who ___ you this job? (offer – past)",
+      "a": [
+       "offered"
+      ]
+     },
+     {
+      "q": "Who ___ you ___ to at the meeting? (talk – past)",
+      "a": [
+       "did / talk"
+      ],
+      "h": "Write both words separated by /"
+     },
+     {
+      "q": "Could you tell me where ___ ?",
+      "o": [
+       "the bank is",
+       "is the bank",
+       "does the bank"
+      ],
+      "a": 0
+     },
+     {
+      "q": "What ___ to your phone?",
+      "o": [
+       "did happen",
+       "happened",
+       "was happen"
+      ],
+      "a": 1
+     },
+     {
+      "q": "Do you know ___ the manager is here?",
+      "o": [
+       "if",
+       "that",
+       "what"
+      ],
+      "a": 0
+     },
+     {
+      "q": "How long ___ you been running your business?",
+      "a": [
+       "have"
+      ]
+     },
+     {
+      "q": "Which company ___ (pay) the best wages?",
+      "a": [
+       "pays",
+       "paid"
+      ]
+     },
+     {
+      "r": "could you tell me how much the course costs"
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Make an indirect question: 'When does the interview start?' → Do you know ___ ?",
+      "a": [
+       "when the interview starts"
+      ]
+     },
+     {
+      "q": "Make an indirect question: 'Have you got a CV?' → I'd like to know ___ .",
+      "a": [
+       "if you have got a CV",
+       "whether you have got a CV",
+       "if you've got a CV",
+       "whether you've got a CV",
+       "if you have a CV",
+       "whether you have a CV"
+      ]
+     },
+     {
+      "q": "Write the question for the underlined part: 'Sofía set up the company.' (ask about Sofía)",
+      "a": [
+       "Who set up the company?",
+       "Who set up the company"
+      ]
+     },
+     {
+      "q": "Write the question: 'She called the bank.' (ask about the bank)",
+      "a": [
+       "Who did she call?",
+       "Who did she call",
+       "What did she call?"
+      ]
+     },
+     {
+      "q": "Which question is correct?",
+      "o": [
+       "What did make you choose this job?",
+       "What made you choose this job?",
+       "What you made choose this job?"
+      ],
+      "a": 1
+     },
+     {
+      "q": "Make an indirect question: 'Why did you leave your last job?' → Can you explain ___ ?",
+      "a": [
+       "why you left your last job"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'Can you tell me what time is it?'",
+      "a": [
+       "Can you tell me what time it is?",
+       "Can you tell me what time it is"
+      ]
+     },
+     {
+      "r": "i wonder whether they will offer me the job"
+     }
+    ]
+   },
+   "ws": {
+    "basic": [
+     {
+      "q": "___ is your favourite subject?",
+      "o": [
+       "What",
+       "Where",
+       "Who"
+      ],
+      "a": 0
+     },
+     {
+      "q": "___ do you get to school? – By bus.",
+      "o": [
+       "How",
+       "When",
+       "Why"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Where ___ your parents work?",
+      "a": [
+       "do"
+      ]
+     },
+     {
+      "q": "Who ___ (win) the match yesterday?",
+      "a": [
+       "won"
+      ]
+     },
+     {
+      "q": "___ she like her job?",
+      "o": [
+       "Does",
+       "Do",
+       "Is"
+      ],
+      "a": 0
+     },
+     {
+      "r": "why did you choose this job"
+     },
+     {
+      "w": "Write five questions to ask a classmate about their dream job."
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "Who ___ (break) the printer?",
+      "a": [
+       "broke"
+      ]
+     },
+     {
+      "q": "What ___ she ___ (buy) with her savings?",
+      "a": [
+       "did / buy"
+      ]
+     },
+     {
+      "q": "Could you tell me what ___ ?",
+      "o": [
+       "your name is",
+       "is your name",
+       "your name"
+      ],
+      "a": 0
+     },
+     {
+      "q": "I'd like to know ___ you speak French.",
+      "o": [
+       "whether",
+       "that",
+       "do"
+      ],
+      "a": 0
+     },
+     {
+      "q": "What ___ at the end of the film?",
+      "o": [
+       "happened",
+       "did happen",
+       "happen"
+      ],
+      "a": 0
+     },
+     {
+      "r": "do you know where the cash machine is"
+     },
+     {
+      "w": "Write a job interview of six questions and answers for a summer job at a café. Include two indirect questions."
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Make it indirect: 'What skills do you have?' → Could you tell me ___ ?",
+      "a": [
+       "what skills you have"
+      ]
+     },
+     {
+      "q": "Make it indirect: 'Is the job full-time?' → I was wondering ___ .",
+      "a": [
+       "if the job is full-time / whether the job is full-time"
+      ]
+     },
+     {
+      "q": "Write the question: 'Marta's idea won the competition.' (ask about the idea)",
+      "a": [
+       "Whose idea won the competition?"
+      ]
+     },
+     {
+      "q": "Write the question: 'They hired Daniel.' (ask about Daniel)",
+      "a": [
+       "Who did they hire?"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'Who did tell you about the job?'",
+      "a": [
+       "Who told you about the job?"
+      ]
+     },
+     {
+      "r": "would you mind telling me how much the job pays"
+     },
+     {
+      "w": "You want to start a business. Write a polite email (100 words) to a bank asking for information. Use at least four indirect questions."
+     }
+    ]
+   }
+  }
+ ]
+}

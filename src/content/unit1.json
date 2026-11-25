@@ -1,0 +1,1166 @@
+{
+ "id": 1,
+ "title": "Teen spirit",
+ "topic": "Teen life and the differences between generations",
+ "color": "#ff3d7f",
+ "vocab": [
+  {
+   "name": "Society",
+   "words": [
+    [
+     "addicted to",
+     "adj phrase",
+     "unable to stop doing or using something",
+     "adicto/a a",
+     "Some people say teenagers are *addicted to* their phones."
+    ],
+    [
+     "attitude",
+     "noun",
+     "the way you think and feel about something",
+     "actitud",
+     "My grandad has a very positive *attitude* to life."
+    ],
+    [
+     "authority",
+     "noun",
+     "the power to give orders and make decisions",
+     "autoridad",
+     "Teachers have the *authority* to change the rules in class."
+    ],
+    [
+     "dependent on",
+     "adj phrase",
+     "needing someone or something in order to exist or work",
+     "dependiente de",
+     "Adults are just as *dependent on* technology as teens."
+    ],
+    [
+     "generation",
+     "noun",
+     "all the people born around the same time",
+     "generación",
+     "Each *generation* has its own music and fashion."
+    ],
+    [
+     "judge",
+     "verb",
+     "to form an opinion about someone, often too quickly",
+     "juzgar",
+     "Don't *judge* people by the clothes they wear."
+    ],
+    [
+     "represent",
+     "verb",
+     "to speak or act for a person or group",
+     "representar",
+     "Two students *represent* our class at school meetings."
+    ],
+    [
+     "respect",
+     "noun / verb",
+     "a feeling that someone is important and deserves good treatment",
+     "respeto / respetar",
+     "We should show *respect* to older people."
+    ],
+    [
+     "selfish",
+     "adj",
+     "thinking only about yourself and not about others",
+     "egoísta",
+     "It's *selfish* to eat all the pizza without sharing."
+    ],
+    [
+     "spoiled",
+     "adj",
+     "used to getting everything you want",
+     "consentido/a, mimado/a",
+     "He's *spoiled* because his parents buy him everything."
+    ],
+    [
+     "stand up for",
+     "phrasal verb",
+     "to defend a person or an idea",
+     "defender",
+     "She always *stands up for* her friends."
+    ],
+    [
+     "values",
+     "noun (pl)",
+     "the principles and beliefs that are important to you",
+     "valores",
+     "My family has strong *values* about honesty."
+    ],
+    [
+     "unfair",
+     "adj",
+     "not treating people equally or in the right way",
+     "injusto/a",
+     "It's *unfair* that the older students get more time."
+    ]
+   ]
+  },
+  {
+   "name": "Phrasal verbs",
+   "words": [
+    [
+     "ask somebody over",
+     "phrasal verb",
+     "to invite someone to your home",
+     "invitar a alguien a casa",
+     "I *asked* Leo *over* to watch the match."
+    ],
+    [
+     "bring over",
+     "phrasal verb",
+     "to take something to someone's home",
+     "traer (a casa de alguien)",
+     "Can you *bring over* your speakers tonight?"
+    ],
+    [
+     "come along",
+     "phrasal verb",
+     "to go somewhere with someone",
+     "venir, apuntarse",
+     "We're going to the park. Do you want to *come along*?"
+    ],
+    [
+     "end up",
+     "phrasal verb",
+     "to be in a situation at the end, often without planning it",
+     "acabar (haciendo / en)",
+     "We got lost and *ended up* in a tiny village."
+    ],
+    [
+     "get together",
+     "phrasal verb",
+     "to meet someone socially",
+     "reunirse, quedar",
+     "My cousins and I *get together* every summer."
+    ],
+    [
+     "hang out",
+     "phrasal verb",
+     "to spend free time somewhere or with someone",
+     "pasar el rato",
+     "We usually *hang out* at the skate park."
+    ],
+    [
+     "meet up with",
+     "phrasal verb",
+     "to meet someone by arrangement",
+     "quedar con",
+     "I'm *meeting up with* Sara after school."
+    ],
+    [
+     "remind somebody of",
+     "phrasal verb",
+     "to make someone think of a person or thing",
+     "recordar a alguien a",
+     "This song *reminds* me *of* my first concert."
+    ],
+    [
+     "show up",
+     "phrasal verb",
+     "to arrive, especially when people expect you",
+     "aparecer, presentarse",
+     "He *showed up* an hour late!"
+    ],
+    [
+     "tell somebody off",
+     "phrasal verb",
+     "to speak angrily to someone because they did something wrong",
+     "regañar, reñir",
+     "The teacher *told* us *off* for talking."
+    ]
+   ]
+  },
+  {
+   "name": "Extra: Relationships",
+   "extra": true,
+   "words": [
+    [
+     "advise",
+     "verb",
+     "to tell someone what you think they should do",
+     "aconsejar",
+     "My sister *advised* me to study more."
+    ],
+    [
+     "appreciate",
+     "verb",
+     "to be grateful for something",
+     "agradecer, valorar",
+     "I really *appreciate* your help."
+    ],
+    [
+     "assist",
+     "verb",
+     "to help someone",
+     "ayudar, asistir",
+     "Volunteers *assist* elderly people with shopping."
+    ],
+    [
+     "commit (to)",
+     "verb",
+     "to promise to give your time or energy to something",
+     "comprometerse (a)",
+     "She *committed to* training three times a week."
+    ],
+    [
+     "encourage",
+     "verb",
+     "to give someone confidence to do something",
+     "animar",
+     "My parents *encourage* me to follow my dreams."
+    ],
+    [
+     "responsibility",
+     "noun",
+     "a duty to take care of something or someone",
+     "responsabilidad",
+     "Looking after a pet is a big *responsibility*."
+    ],
+    [
+     "volunteer",
+     "verb / noun",
+     "to offer to do something without being paid",
+     "hacer voluntariado / voluntario",
+     "I *volunteer* at an animal shelter on Saturdays."
+    ]
+   ]
+  }
+ ],
+ "grammar": [
+  {
+   "id": "narrative",
+   "title": "Narrative tenses",
+   "short": "Past simple, past continuous and past perfect",
+   "slides": [
+    {
+     "k": "title",
+     "h": "Narrative tenses",
+     "sub": "Teen spirit: stories from different generations",
+     "hook": "Think of the first time you hung out with your friends without your parents. What happened? What was going on? What had you planned before?"
+    },
+    {
+     "k": "table",
+     "h": "Three tenses, three jobs",
+     "cols": [
+      "Tense",
+      "Form",
+      "Use"
+     ],
+     "rows": [
+      [
+       "Past simple",
+       "verb + -ed / irregular (went, showed up)",
+       "Main events of the story, one after another"
+      ],
+      [
+       "Past continuous",
+       "was / were + verb-ing",
+       "The background: what was happening"
+      ],
+      [
+       "Past perfect",
+       "had + past participle",
+       "An action BEFORE another past action"
+      ]
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Past simple: the main events",
+     "p": [
+      "Use the past simple for the main actions of your story, in the order they happened."
+     ],
+     "ex": [
+      "My friends **showed up** at eight, we **hung out** in the park and we **ended up** at Leo's house.",
+      "My grandad **stood up for** a classmate when the teacher was unfair.",
+      "Last Saturday I **asked** my cousins **over** to watch a film."
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Past continuous: the background",
+     "p": [
+      "Use the past continuous to set the scene, or for a longer action interrupted by a shorter one in the past simple.",
+      "We often use 'when' and 'while'."
+     ],
+     "ex": [
+      "Everybody **was hanging out** in the square and music **was playing**.",
+      "We **were getting together** for a party when my dad **told** us **off** for the noise.",
+      "While my sister **was meeting up with** her friends, I **stayed** at home."
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Past perfect: one step further back",
+     "p": [
+      "Use the past perfect when you are already in the past and you want to go back to an earlier moment."
+     ],
+     "ex": [
+      "When I arrived, my friends **had** already **brought over** the snacks.",
+      "Grandma was surprised because she **had never seen** a teenager so addicted to a phone.",
+      "I **'d asked** Sara over, but she didn't come along."
+     ]
+    },
+    {
+     "k": "table",
+     "h": "Compare",
+     "cols": [
+      "Sentence",
+      "What happened first?"
+     ],
+     "rows": [
+      [
+       "When I got home, my parents told me off.",
+       "I got home → then they told me off"
+      ],
+      [
+       "When I got home, my parents were telling my brother off.",
+       "They started before; it was in progress"
+      ],
+      [
+       "When I got home, my parents had told my brother off.",
+       "It was finished before I arrived"
+      ]
+     ]
+    },
+    {
+     "k": "context",
+     "h": "Grammar in context",
+     "kind": "Blog post · Teen life",
+     "title": "The party that went wrong",
+     "text": [
+      "Last summer I **asked** my friends **over** for a party. My parents **had gone** out for the evening, so we **had** the house to ourselves.",
+      "We **were dancing** and everyone **was singing** when the doorbell **rang**. It was my neighbour! She **told** us **off** because we **had woken up** her baby.",
+      "In the end, we **said** sorry and we **ended up** helping her with the shopping the next day. I think we showed some respect!"
+     ]
+    },
+    {
+     "k": "mistakes",
+     "h": "Watch out!",
+     "items": [
+      [
+       "When I showed up, the party already finished.",
+       "When I showed up, the party had already finished.",
+       "The party finished before you arrived."
+      ],
+      [
+       "I was knowing it was unfair.",
+       "I knew it was unfair.",
+       "State verbs (know, like, want) don't use continuous forms."
+      ],
+      [
+       "While we hung out at the park, it started to rain.",
+       "While we were hanging out at the park, it started to rain.",
+       "The longer background action needs the past continuous."
+      ]
+     ]
+    },
+    {
+     "k": "check",
+     "q": "By the time we got to the concert, the band ___ on stage.",
+     "o": [
+      "showed up",
+      "was showing up",
+      "had shown up"
+     ],
+     "a": 2,
+     "e": "The band appeared before we arrived → past perfect."
+    },
+    {
+     "k": "check",
+     "q": "I ___ with my friends in town when my mum phoned me.",
+     "o": [
+      "was hanging out",
+      "had hung out",
+      "hang out"
+     ],
+     "a": 0,
+     "e": "Hanging out is the background action interrupted by the phone call."
+    },
+    {
+     "k": "sum",
+     "h": "Remember",
+     "p": [
+      "Past simple = what happened next.",
+      "Past continuous = what was happening (the scene).",
+      "Past perfect = what had happened before.",
+      "Key words: when, while, as, already, by the time, before, after."
+     ]
+    }
+   ],
+   "ex": {
+    "basic": [
+     {
+      "q": "I ___ (meet) my best friend in primary school.",
+      "a": [
+       "met"
+      ]
+     },
+     {
+      "q": "We ___ (watch) a film when the lights went out.",
+      "a": [
+       "were watching"
+      ]
+     },
+     {
+      "q": "When I arrived, everyone ___ .",
+      "o": [
+       "had left",
+       "was leave",
+       "leaves"
+      ],
+      "a": 0
+     },
+     {
+      "q": "She ___ the guitar when I came in.",
+      "o": [
+       "played",
+       "was playing",
+       "had play"
+      ],
+      "a": 1
+     },
+     {
+      "q": "My dad ___ a mobile phone until he was 25.",
+      "o": [
+       "didn't have",
+       "wasn't having",
+       "hasn't had"
+      ],
+      "a": 0
+     },
+     {
+      "q": "It ___ (rain) so we stayed at home.",
+      "a": [
+       "was raining",
+       "rained"
+      ]
+     },
+     {
+      "r": "they were hanging out at the park when it started to rain"
+     },
+     {
+      "q": "I was tired because I ___ (not / sleep) well.",
+      "a": [
+       "hadn't slept",
+       "had not slept"
+      ]
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "By the time the teacher ___ , we had finished the test.",
+      "o": [
+       "came back",
+       "had come back",
+       "was coming back"
+      ],
+      "a": 0
+     },
+     {
+      "q": "While my cousins ___ (play) video games, I was doing my homework.",
+      "a": [
+       "were playing"
+      ]
+     },
+     {
+      "q": "I recognised the song because I ___ (hear) it before.",
+      "a": [
+       "had heard",
+       "'d heard"
+      ]
+     },
+     {
+      "q": "When we got to the cinema, the film ___ (already / start).",
+      "a": [
+       "had already started",
+       "'d already started"
+      ]
+     },
+     {
+      "q": "Mia ___ her phone, so she couldn't call us.",
+      "o": [
+       "had lost",
+       "was losing",
+       "loses"
+      ],
+      "a": 0
+     },
+     {
+      "q": "As I ___ (walk) home, I saw an old friend.",
+      "a": [
+       "was walking"
+      ]
+     },
+     {
+      "q": "They ___ (not / see) each other for years, so they talked all night.",
+      "a": [
+       "hadn't seen",
+       "had not seen"
+      ]
+     },
+     {
+      "r": "she had never been to a concert before that night"
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Hardly had I sat down when the phone ___ (ring).",
+      "a": [
+       "rang"
+      ]
+     },
+     {
+      "q": "We ___ (drive) for hours when we realised we ___ (forget) the tickets.",
+      "a": [
+       "had been driving / had forgotten",
+       "were driving / had forgotten"
+      ],
+      "h": "Write both verbs separated by /"
+     },
+     {
+      "q": "Which sentence means the party was over before Tom arrived?",
+      "o": [
+       "When Tom arrived, everyone was leaving.",
+       "When Tom arrived, everyone had left.",
+       "When Tom arrived, everyone left."
+      ],
+      "a": 1
+     },
+     {
+      "q": "My grandparents ___ (live) in the village for 40 years before they ___ (move) to the city.",
+      "a": [
+       "had lived / moved",
+       "had been living / moved"
+      ],
+      "h": "Write both verbs separated by /"
+     },
+     {
+      "q": "I ___ (not / realise) how late it was until my mum called.",
+      "a": [
+       "hadn't realised",
+       "didn't realise",
+       "had not realised",
+       "did not realise"
+      ]
+     },
+     {
+      "q": "She told me off because I ___ (not / tidy) my room.",
+      "a": [
+       "hadn't tidied",
+       "had not tidied"
+      ]
+     },
+     {
+      "q": "Choose the correct option: 'The crowd ___ when the band walked on stage.'",
+      "o": [
+       "was cheering",
+       "had cheered",
+       "cheering"
+      ],
+      "a": 0
+     },
+     {
+      "r": "by the time we got there the shop had already closed"
+     }
+    ]
+   },
+   "ws": {
+    "basic": [
+     {
+      "q": "Yesterday I ___ (go) to the park with my friends.",
+      "a": [
+       "went"
+      ]
+     },
+     {
+      "q": "At 8 o'clock I ___ (have) dinner.",
+      "a": [
+       "was having"
+      ]
+     },
+     {
+      "q": "The bus ___ (leave) when I got to the stop.",
+      "a": [
+       "had left"
+      ]
+     },
+     {
+      "q": "We ___ in the garden when it started to snow.",
+      "o": [
+       "were playing",
+       "played",
+       "had play"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Did you ___ the party last night?",
+      "o": [
+       "enjoyed",
+       "enjoy",
+       "enjoying"
+      ],
+      "a": 1
+     },
+     {
+      "r": "my sister was listening to music when I got home"
+     },
+     {
+      "w": "Write three sentences about what you did last weekend. Use the past simple and the past continuous."
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "I ___ (never / see) the sea before I went to Cádiz.",
+      "a": [
+       "had never seen"
+      ]
+     },
+     {
+      "q": "While we ___ (wait) for the train, we chatted about school.",
+      "a": [
+       "were waiting"
+      ]
+     },
+     {
+      "q": "When I opened the door, I saw that someone ___ (eat) my cake!",
+      "a": [
+       "had eaten"
+      ]
+     },
+     {
+      "q": "Leo ___ off his bike while he was riding to school.",
+      "o": [
+       "fell",
+       "was falling",
+       "had fallen"
+      ],
+      "a": 0
+     },
+     {
+      "q": "We ___ tired because we had danced all night.",
+      "o": [
+       "were",
+       "had been being",
+       "are"
+      ],
+      "a": 0
+     },
+     {
+      "r": "the film had finished when we arrived at the cinema"
+     },
+     {
+      "w": "Write a short story (60-80 words) that starts: 'It was a cold winter evening...'. Use all three narrative tenses."
+     }
+    ],
+    "advanced": [
+     {
+      "q": "By the time the firefighters ___ (arrive), the fire ___ (spread) to the roof.",
+      "a": [
+       "arrived / had spread"
+      ]
+     },
+     {
+      "q": "Rewrite: 'First I finished my homework. Then I went out.' → After I ___ , I went out.",
+      "a": [
+       "had finished my homework"
+      ]
+     },
+     {
+      "q": "She ___ (work) at the shop for two years when she was promoted.",
+      "a": [
+       "had been working"
+      ]
+     },
+     {
+      "q": "Which tense is wrong? 'When I was arriving, the show had started.'",
+      "o": [
+       "was arriving",
+       "had started",
+       "both are correct"
+      ],
+      "a": 0
+     },
+     {
+      "q": "I ___ (not / recognise) him because he ___ (grow) a beard.",
+      "a": [
+       "didn't recognise / had grown"
+      ]
+     },
+     {
+      "r": "they had been arguing for hours before they finally agreed"
+     },
+     {
+      "w": "Interview an older relative about a special day in their teenage years. Write their story (100 words) using narrative tenses."
+     }
+    ]
+   }
+  },
+  {
+   "id": "usedto",
+   "title": "used to / would",
+   "short": "Past habits and past states",
+   "slides": [
+    {
+     "k": "title",
+     "h": "used to / would",
+     "sub": "Teen spirit: how life was different for other generations",
+     "hook": "What did your parents use to do at weekends when they were teenagers? Were they dependent on technology?"
+    },
+    {
+     "k": "text",
+     "h": "used to + infinitive",
+     "p": [
+      "Use 'used to' for past habits and past states that are not true now."
+     ],
+     "ex": [
+      "My parents' generation **used to** write letters to their friends.",
+      "Teenagers **didn't use to** be so dependent on technology.",
+      "**Did** your grandparents **use to** hang out in the town square?"
+     ]
+    },
+    {
+     "k": "table",
+     "h": "Form of used to",
+     "cols": [
+      "",
+      "Form",
+      "Example"
+     ],
+     "rows": [
+      [
+       "+",
+       "subject + used to + verb",
+       "My mum used to have very strong values about manners."
+      ],
+      [
+       "−",
+       "subject + didn't use to + verb",
+       "We didn't use to get together online."
+      ],
+      [
+       "?",
+       "Did + subject + use to + verb?",
+       "Did young people use to respect authority more?"
+      ]
+     ],
+     "note": "In negatives and questions it's 'use to' (no -d)."
+    },
+    {
+     "k": "text",
+     "h": "would + infinitive",
+     "p": [
+      "Use 'would' for repeated actions (habits) in the past. It is common when people tell their memories.",
+      "Don't use 'would' for past states (be, have, live, like, know)."
+     ],
+     "ex": [
+      "Every Saturday my grandad **would meet up with** his friends at the café.",
+      "My aunt **would** always **bring over** a cake when she visited us."
+     ]
+    },
+    {
+     "k": "table",
+     "h": "used to or would?",
+     "cols": [
+      "Meaning",
+      "used to",
+      "would"
+     ],
+     "rows": [
+      [
+       "Past habit (repeated action)",
+       "✓ We used to hang out at the youth club.",
+       "✓ We would hang out at the youth club."
+      ],
+      [
+       "Past state (be, have, live, like...)",
+       "✓ Teachers used to have more authority.",
+       "✗ Teachers would have more authority."
+      ],
+      [
+       "One single action",
+       "✗",
+       "✗ → use the past simple"
+      ]
+     ]
+    },
+    {
+     "k": "context",
+     "h": "Grammar in context",
+     "kind": "Interview · Generations",
+     "title": "Grandma remembers",
+     "text": [
+      "'When I was sixteen, we **didn't use to** have phones. If you wanted to see your friends, you **would** just go to the square and wait until they **showed up**.",
+      "My parents **used to** be very strict. They **would tell** me **off** if I came home late, but I think it was unfair!",
+      "We **used to** respect our teachers a lot. Today's generation is different, but I don't judge them. They have strong values too.'"
+     ]
+    },
+    {
+     "k": "mistakes",
+     "h": "Watch out!",
+     "items": [
+      [
+       "My grandparents didn't used to judge people.",
+       "My grandparents didn't use to judge people.",
+       "No -d after 'didn't'."
+      ],
+      [
+       "Teachers would have more authority.",
+       "Teachers used to have more authority.",
+       "'have' is a state here, so 'would' is not possible."
+      ],
+      [
+       "I'm used to hang out at the park as a child.",
+       "I used to hang out at the park as a child.",
+       "'be used to' means 'be accustomed to' – a different structure."
+      ]
+     ]
+    },
+    {
+     "k": "check",
+     "q": "Teenagers in the 1960s ___ be less dependent on technology.",
+     "o": [
+      "would",
+      "used to",
+      "were used to"
+     ],
+     "a": 1,
+     "e": "'be' is a state, so only 'used to' is correct."
+    },
+    {
+     "k": "check",
+     "q": "___ your parents use to get told off at school?",
+     "o": [
+      "Did",
+      "Were",
+      "Would"
+     ],
+     "a": 0,
+     "e": "Questions with used to: Did + subject + use to...?"
+    },
+    {
+     "k": "sum",
+     "h": "Remember",
+     "p": [
+      "used to = past habits AND past states.",
+      "would = only past habits (repeated actions).",
+      "didn't use to / Did ... use to? (no -d).",
+      "For one action at one time, use the past simple."
+     ]
+    }
+   ],
+   "ex": {
+    "basic": [
+     {
+      "q": "My mum ___ have a cassette player.",
+      "o": [
+       "used to",
+       "use to",
+       "would to"
+      ],
+      "a": 0
+     },
+     {
+      "q": "We didn't ___ have the internet at home.",
+      "o": [
+       "used to",
+       "use to",
+       "would"
+      ],
+      "a": 1
+     },
+     {
+      "q": "___ you use to play with dolls?",
+      "o": [
+       "Did",
+       "Do",
+       "Were"
+      ],
+      "a": 0
+     },
+     {
+      "q": "When I was little, I ___ (use to / love) cartoons.",
+      "a": [
+       "used to love"
+      ]
+     },
+     {
+      "q": "My grandad ___ (not / use to) watch TV.",
+      "a": [
+       "didn't use to",
+       "did not use to"
+      ]
+     },
+     {
+      "q": "Every Sunday we ___ visit my aunt. (would)",
+      "a": [
+       "would"
+      ]
+     },
+     {
+      "r": "people used to write letters to their friends"
+     },
+     {
+      "q": "I ___ have short hair, but now it's long.",
+      "o": [
+       "used to",
+       "would",
+       "am used to"
+      ],
+      "a": 0
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "Which is NOT correct? 'My dad ___ a skateboard.'",
+      "o": [
+       "used to have",
+       "would have",
+       "had"
+      ],
+      "a": 1
+     },
+     {
+      "q": "Every night my grandma ___ (would / sing) to me.",
+      "a": [
+       "would sing"
+      ]
+     },
+     {
+      "q": "___ your parents use to hang out in the town square?",
+      "a": [
+       "Did"
+      ]
+     },
+     {
+      "q": "There ___ (use to / be) a cinema in our village.",
+      "a": [
+       "used to be"
+      ]
+     },
+     {
+      "q": "Teenagers in the 80s ___ (not / use to) have mobile phones.",
+      "a": [
+       "didn't use to",
+       "did not use to"
+      ]
+     },
+     {
+      "q": "On Saturdays, my mum and her friends ___ meet up at the café.",
+      "o": [
+       "would",
+       "were used to",
+       "use"
+      ],
+      "a": 0
+     },
+     {
+      "q": "I ___ (not / like) vegetables, but now I love them. (use to)",
+      "a": [
+       "didn't use to like",
+       "did not use to like"
+      ]
+     },
+     {
+      "r": "my brother would always show up late to dinner"
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Correct the mistake: 'My grandparents would live in Galicia.'",
+      "a": [
+       "My grandparents used to live in Galicia.",
+       "My grandparents used to live in Galicia"
+      ]
+     },
+     {
+      "q": "Which sentence is correct?",
+      "o": [
+       "Did you used to have a pet?",
+       "Did you use to have a pet?",
+       "Would you have a pet?"
+      ],
+      "a": 1
+     },
+     {
+      "q": "When we were kids, we ___ (spend) hours outside. (use 'would')",
+      "a": [
+       "would spend"
+      ]
+     },
+     {
+      "q": "I ___ (not / use to / be) so dependent on technology.",
+      "a": [
+       "didn't use to be",
+       "did not use to be"
+      ]
+     },
+     {
+      "q": "Choose the best option: 'Last year I ___ to London once.'",
+      "o": [
+       "used to go",
+       "would go",
+       "went"
+      ],
+      "a": 2
+     },
+     {
+      "q": "Rewrite with 'used to': 'In the past, my uncle smoked, but he doesn't now.' → My uncle ___ .",
+      "a": [
+       "used to smoke"
+      ]
+     },
+     {
+      "q": "Rewrite with 'would': 'Every summer, we always went camping.' → Every summer, we ___ camping.",
+      "a": [
+       "would go"
+      ]
+     },
+     {
+      "r": "where did your parents use to go on holiday"
+     }
+    ]
+   },
+   "ws": {
+    "basic": [
+     {
+      "q": "I ___ (use to / ride) my bike to school.",
+      "a": [
+       "used to ride"
+      ]
+     },
+     {
+      "q": "My parents ___ (not / use to) have a computer.",
+      "a": [
+       "didn't use to"
+      ]
+     },
+     {
+      "q": "___ your grandma use to cook paella?",
+      "o": [
+       "Did",
+       "Does",
+       "Was"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Every weekend we ___ go to the river.",
+      "o": [
+       "would",
+       "use",
+       "were"
+      ],
+      "a": 0
+     },
+     {
+      "q": "I ___ be scared of dogs.",
+      "o": [
+       "used to",
+       "would",
+       "use to"
+      ],
+      "a": 0
+     },
+     {
+      "r": "we used to play hide and seek"
+     },
+     {
+      "w": "Write three things you used to do when you were six years old."
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "My mum ___ (would / wear) her school uniform every day.",
+      "a": [
+       "would wear"
+      ]
+     },
+     {
+      "q": "There ___ (not / use to / be) many cars in my town.",
+      "a": [
+       "didn't use to be"
+      ]
+     },
+     {
+      "q": "My dad ___ (use to / have) really long hair!",
+      "a": [
+       "used to have"
+      ]
+     },
+     {
+      "q": "Which sentence is wrong?",
+      "o": [
+       "We would play cards.",
+       "We would have a dog.",
+       "We used to have a dog."
+      ],
+      "a": 1
+     },
+     {
+      "q": "Where ___ you use to live?",
+      "o": [
+       "did",
+       "were",
+       "would"
+      ],
+      "a": 0
+     },
+     {
+      "r": "my grandfather would tell us funny stories"
+     },
+     {
+      "w": "Ask an adult in your family five questions about their teenage years using 'Did you use to...?'. Write their answers."
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Rewrite: 'Phones were bigger in the past.' → Phones ___ bigger.",
+      "a": [
+       "used to be"
+      ]
+     },
+     {
+      "q": "Rewrite: 'My grandma always baked bread on Fridays.' (would) → My grandma ___ bread on Fridays.",
+      "a": [
+       "would bake"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'I didn't used to like reading.'",
+      "a": [
+       "I didn't use to like reading."
+      ]
+     },
+     {
+      "q": "Choose: 'When I was a child I ___ (know) all the Disney songs.'",
+      "o": [
+       "used to know",
+       "would know",
+       "was knowing"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Explain the difference: 'I used to live in Madrid' vs 'I'm used to living in Madrid'.",
+      "a": [
+       "past state vs. accustomed to"
+      ]
+     },
+     {
+      "r": "teenagers didn't use to be so dependent on technology"
+     },
+     {
+      "w": "Write a paragraph (100 words) comparing teen life in the 1980s and today. Use used to, would and didn't use to."
+     }
+    ]
+   }
+  }
+ ]
+}

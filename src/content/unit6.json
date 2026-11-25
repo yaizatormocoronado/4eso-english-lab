@@ -1,0 +1,1110 @@
+{
+ "id": 6,
+ "title": "News travels fast",
+ "topic": "News, media and how to spot fake stories",
+ "color": "#e5243b",
+ "vocab": [
+  {
+   "name": "News and media",
+   "words": [
+    [
+     "breaking news",
+     "noun",
+     "news about something that is happening right now",
+     "noticia de última hora",
+     "*Breaking news*: a storm has hit the coast."
+    ],
+    [
+     "eyewitness",
+     "noun",
+     "a person who saw an event happen",
+     "testigo presencial",
+     "An *eyewitness* filmed the accident on her phone."
+    ],
+    [
+     "headline",
+     "noun",
+     "the title of a news story",
+     "titular",
+     "The *headline* said 'Teen saves dog from river'."
+    ],
+    [
+     "journalist",
+     "noun",
+     "a person who writes or reports the news",
+     "periodista",
+     "The *journalist* interviewed the mayor."
+    ],
+    [
+     "live",
+     "adj / adv",
+     "broadcast at the same time as it happens",
+     "en directo",
+     "They showed the match *live* on TV."
+    ],
+    [
+     "news presenter",
+     "noun",
+     "a person who reads the news on TV or radio",
+     "presentador/a de noticias",
+     "The *news presenter* smiled and said good evening."
+    ],
+    [
+     "report",
+     "noun / verb",
+     "an account of an event; to tell people about it",
+     "reportaje / informar",
+     "She wrote a *report* about the protest."
+    ],
+    [
+     "reporter",
+     "noun",
+     "a journalist who goes to places to collect news",
+     "reportero/a",
+     "The *reporter* is standing outside the stadium."
+    ],
+    [
+     "source",
+     "noun",
+     "a person or document that gives information",
+     "fuente",
+     "Always check the *source* of a story."
+    ],
+    [
+     "update",
+     "noun / verb",
+     "the newest information about something",
+     "actualización / actualizar",
+     "We'll give you an *update* in an hour."
+    ]
+   ]
+  },
+  {
+   "name": "Compound nouns: media",
+   "words": [
+    [
+     "celebrity influencer",
+     "noun",
+     "a famous person who affects what followers buy or think",
+     "influencer famoso/a",
+     "A *celebrity influencer* posted about the new trainers."
+    ],
+    [
+     "clickbait",
+     "noun",
+     "online content designed to make you click",
+     "ciberanzuelo, clickbait",
+     "'You won't believe what happened next!' is typical *clickbait*."
+    ],
+    [
+     "conspiracy theory",
+     "noun",
+     "a belief that a secret group is behind an event",
+     "teoría de la conspiración",
+     "There's a *conspiracy theory* that the moon landing was fake."
+    ],
+    [
+     "current affairs",
+     "noun (pl)",
+     "important political and social events happening now",
+     "actualidad",
+     "We discuss *current affairs* in class every Monday."
+    ],
+    [
+     "fake news",
+     "noun",
+     "false stories that look like real news",
+     "noticias falsas, bulos",
+     "*Fake news* spreads quickly on social media."
+    ],
+    [
+     "media outlet",
+     "noun",
+     "a company that publishes news (newspaper, channel, website)",
+     "medio de comunicación",
+     "Which *media outlet* published the story first?"
+    ],
+    [
+     "newsfeed",
+     "noun",
+     "a list of updates on a social media app",
+     "muro, feed de noticias",
+     "My *newsfeed* is full of football videos."
+    ],
+    [
+     "paywall",
+     "noun",
+     "a system that makes you pay to read content online",
+     "muro de pago",
+     "I couldn't read the article because of the *paywall*."
+    ],
+    [
+     "social media platform",
+     "noun",
+     "a website or app for sharing content",
+     "red social, plataforma",
+     "TikTok is a popular *social media platform*."
+    ],
+    [
+     "visual medium",
+     "noun",
+     "a way of communicating with images",
+     "medio visual",
+     "Instagram is mainly a *visual medium*."
+    ]
+   ]
+  },
+  {
+   "name": "Extra: Adverb + adjective collocations",
+   "extra": true,
+   "words": [
+    [
+     "absolutely delighted",
+     "collocation",
+     "extremely happy",
+     "absolutamente encantado/a",
+     "She was *absolutely delighted* with the prize."
+    ],
+    [
+     "completely different",
+     "collocation",
+     "not similar at all",
+     "completamente diferente",
+     "The real story was *completely different*."
+    ],
+    [
+     "highly unlikely",
+     "collocation",
+     "very improbable",
+     "muy improbable",
+     "It's *highly unlikely* that aliens built the pyramids."
+    ],
+    [
+     "incredibly weird",
+     "collocation",
+     "very strange",
+     "increíblemente raro/a",
+     "That video was *incredibly weird*."
+    ],
+    [
+     "ridiculously easy",
+     "collocation",
+     "extremely easy",
+     "ridículamente fácil",
+     "The quiz was *ridiculously easy*."
+    ],
+    [
+     "extremely friendly",
+     "collocation",
+     "very kind and nice",
+     "extremadamente amable",
+     "The reporter was *extremely friendly*."
+    ]
+   ]
+  }
+ ],
+ "grammar": [
+  {
+   "id": "reported",
+   "title": "Reported speech",
+   "short": "Reporting what people said",
+   "slides": [
+    {
+     "k": "title",
+     "h": "Reported speech",
+     "sub": "News travels fast: what did the eyewitness say?",
+     "hook": "Think of a piece of breaking news you heard recently. Who said it? Can you report what they said?"
+    },
+    {
+     "k": "text",
+     "h": "Direct and reported speech",
+     "p": [
+      "Direct speech repeats the exact words. Reported speech tells someone what another person said, usually with 'said' or 'told'. Journalists use it all the time!"
+     ],
+     "ex": [
+      "Direct: 'I **saw** the fire,' the eyewitness said.",
+      "Reported: The eyewitness said that she **had seen** the fire."
+     ]
+    },
+    {
+     "k": "table",
+     "h": "Tenses move back",
+     "cols": [
+      "Direct speech",
+      "Reported speech"
+     ],
+     "rows": [
+      [
+       "present simple: 'I work for a big media outlet.'",
+       "past simple: He said he worked for a big media outlet."
+      ],
+      [
+       "present continuous: 'I'm reporting live.'",
+       "past continuous: She said she was reporting live."
+      ],
+      [
+       "past simple: 'I saw the accident.'",
+       "past perfect: He said he had seen the accident."
+      ],
+      [
+       "present perfect: 'We've published an update.'",
+       "past perfect: They said they had published an update."
+      ],
+      [
+       "will: 'The story will be the main headline.'",
+       "would: She said the story would be the main headline."
+      ],
+      [
+       "can: 'I can check the source.'",
+       "could: He said he could check the source."
+      ]
+     ]
+    },
+    {
+     "k": "table",
+     "h": "Other changes",
+     "cols": [
+      "Direct",
+      "Reported"
+     ],
+     "rows": [
+      [
+       "now",
+       "then"
+      ],
+      [
+       "today",
+       "that day"
+      ],
+      [
+       "tomorrow",
+       "the next day / the following day"
+      ],
+      [
+       "yesterday",
+       "the day before / the previous day"
+      ],
+      [
+       "here",
+       "there"
+      ],
+      [
+       "this",
+       "that"
+      ]
+     ],
+     "note": "Pronouns change too: 'I'm a journalist,' Ana said → Ana said she was a journalist."
+    },
+    {
+     "k": "text",
+     "h": "say or tell?",
+     "p": [
+      "say + (that) + clause: He said (that) it was fake news.",
+      "tell + person + (that) + clause: He told me (that) it was fake news."
+     ],
+     "ex": [
+      "The news presenter **said** the story was clickbait.",
+      "The news presenter **told us** the story was clickbait."
+     ]
+    },
+    {
+     "k": "context",
+     "h": "Grammar in context",
+     "kind": "News report · Breaking news",
+     "title": "Fire at the shopping centre",
+     "text": [
+      "An eyewitness **told** our reporter that she **had seen** smoke at about 6 p.m. She **said** that people **were running** out of the building.",
+      "A firefighter **said** that nobody **had been** hurt. He **told** journalists that they **would give** an update the next day.",
+      "The mayor **said** that the centre **could** open again that week. Some social media posts claimed it was an attack, but that was fake news."
+     ]
+    },
+    {
+     "k": "mistakes",
+     "h": "Watch out!",
+     "items": [
+      [
+       "The reporter said me that the road was closed.",
+       "The reporter told me that the road was closed.",
+       "tell + person; say without person."
+      ],
+      [
+       "He told that the headline was wrong.",
+       "He said that the headline was wrong.",
+       "tell needs an object (me / us / them)."
+      ],
+      [
+       "They said they will publish the story tomorrow.",
+       "They said they would publish the story the next day.",
+       "will → would; tomorrow → the next day."
+      ]
+     ]
+    },
+    {
+     "k": "check",
+     "q": "'I am watching the breaking news.' → He said he ___ the breaking news.",
+     "o": [
+      "is watching",
+      "was watching",
+      "watched"
+     ],
+     "a": 1,
+     "e": "Present continuous → past continuous."
+    },
+    {
+     "k": "check",
+     "q": "'We have published the headline.' → They said they ___ the headline.",
+     "o": [
+      "had published",
+      "have published",
+      "published"
+     ],
+     "a": 0,
+     "e": "Present perfect → past perfect."
+    },
+    {
+     "k": "sum",
+     "h": "Remember",
+     "p": [
+      "Tenses move one step back into the past.",
+      "Change pronouns and time/place words.",
+      "say something / tell someone something.",
+      "'that' is optional after say and tell."
+     ]
+    }
+   ],
+   "ex": {
+    "basic": [
+     {
+      "q": "'I am a journalist.' → She said she ___ a journalist.",
+      "o": [
+       "was",
+       "is",
+       "has been"
+      ],
+      "a": 0
+     },
+     {
+      "q": "'I like the news.' → He said he ___ (like) the news.",
+      "a": [
+       "liked"
+      ]
+     },
+     {
+      "q": "She ___ me that the headline was wrong.",
+      "o": [
+       "told",
+       "said",
+       "says"
+      ],
+      "a": 0
+     },
+     {
+      "q": "He ___ that the video was fake.",
+      "o": [
+       "said",
+       "told",
+       "told to"
+      ],
+      "a": 0
+     },
+     {
+      "q": "'I can't hear you.' → She said she ___ hear me.",
+      "a": [
+       "couldn't",
+       "could not"
+      ]
+     },
+     {
+      "q": "'We will call you.' → They said they ___ call me.",
+      "a": [
+       "would"
+      ]
+     },
+     {
+      "r": "the reporter said that the road was closed"
+     },
+     {
+      "q": "'I'm tired.' → Leo said ___ was tired.",
+      "o": [
+       "he",
+       "I",
+       "you"
+      ],
+      "a": 0
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "'I saw the accident.' → The eyewitness said she ___ the accident.",
+      "a": [
+       "had seen",
+       "'d seen"
+      ]
+     },
+     {
+      "q": "'We're filming now.' → They said they were filming ___ .",
+      "o": [
+       "then",
+       "now",
+       "today"
+      ],
+      "a": 0
+     },
+     {
+      "q": "'I'll post it tomorrow.' → She said she would post it ___ .",
+      "o": [
+       "the next day",
+       "tomorrow",
+       "yesterday"
+      ],
+      "a": 0
+     },
+     {
+      "q": "'I've read the article.' → He said he ___ the article.",
+      "a": [
+       "had read",
+       "'d read"
+      ]
+     },
+     {
+      "q": "'The story is true.' → The journalist told ___ the story was true.",
+      "o": [
+       "us",
+       "to us",
+       "for us"
+      ],
+      "a": 0
+     },
+     {
+      "q": "'I'm writing a report.' → Marta said she ___ a report.",
+      "a": [
+       "was writing"
+      ]
+     },
+     {
+      "q": "'I met him yesterday.' → She said she had met him ___ .",
+      "a": [
+       "the day before",
+       "the previous day"
+      ]
+     },
+     {
+      "r": "he told me that he had never been on tv"
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Report: 'I can't find a reliable source,' said the student.",
+      "a": [
+       "The student said he couldn't find a reliable source.",
+       "The student said she couldn't find a reliable source.",
+       "The student said that he couldn't find a reliable source.",
+       "The student said that she couldn't find a reliable source.",
+       "The student said they couldn't find a reliable source."
+      ]
+     },
+     {
+      "q": "Report: 'We will update the story this evening,' the editor told us. → The editor told us they ___ the story that evening.",
+      "a": [
+       "would update"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'She said me the news was fake.'",
+      "a": [
+       "She told me the news was fake.",
+       "She told me that the news was fake.",
+       "She said the news was fake.",
+       "She said that the news was fake."
+      ]
+     },
+     {
+      "q": "Report: 'This photo was taken here,' he said. → He said that ___ photo had been taken ___ .",
+      "a": [
+       "that / there"
+      ],
+      "h": "Write both words separated by /"
+     },
+     {
+      "q": "Report: 'I have been working on this story for months,' she said. → She said she ___ on that story for months.",
+      "a": [
+       "had been working"
+      ]
+     },
+     {
+      "q": "Which reported sentence is correct for: 'I must leave now.'?",
+      "o": [
+       "He said he had to leave then.",
+       "He said he must to leave now.",
+       "He told he had to leave."
+      ],
+      "a": 0
+     },
+     {
+      "q": "Report: 'I didn't write that headline,' the journalist said. → The journalist said he ___ that headline.",
+      "a": [
+       "hadn't written",
+       "had not written"
+      ]
+     },
+     {
+      "r": "the presenter told the viewers that the match would be shown live"
+     }
+    ]
+   },
+   "ws": {
+    "basic": [
+     {
+      "q": "'I am hungry.' → She said she ___ hungry.",
+      "a": [
+       "was"
+      ]
+     },
+     {
+      "q": "'I play football.' → He said he ___ football.",
+      "a": [
+       "played"
+      ]
+     },
+     {
+      "q": "He ___ us that he was a reporter.",
+      "o": [
+       "told",
+       "said",
+       "say"
+      ],
+      "a": 0
+     },
+     {
+      "q": "'I can swim.' → She said she ___ swim.",
+      "o": [
+       "could",
+       "can",
+       "can to"
+      ],
+      "a": 0
+     },
+     {
+      "q": "'We are late.' → They said ___ were late.",
+      "o": [
+       "they",
+       "we",
+       "you"
+      ],
+      "a": 0
+     },
+     {
+      "r": "she said that she loved the programme"
+     },
+     {
+      "w": "Write three things your best friend said to you yesterday in reported speech."
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "'I'm reading a great article.' → He said he ___ a great article.",
+      "a": [
+       "was reading"
+      ]
+     },
+     {
+      "q": "'I lost my phone.' → Sara told me she ___ her phone.",
+      "a": [
+       "had lost"
+      ]
+     },
+     {
+      "q": "'I'll be there tomorrow.' → She said she would be ___ the next day.",
+      "a": [
+       "there"
+      ]
+     },
+     {
+      "q": "'We've seen this video.' → They said they ___ that video.",
+      "o": [
+       "had seen",
+       "have seen",
+       "saw"
+      ],
+      "a": 0
+     },
+     {
+      "q": "'It's raining here.' → The reporter said it was raining ___ .",
+      "o": [
+       "there",
+       "here",
+       "now"
+      ],
+      "a": 0
+     },
+     {
+      "r": "the journalist said that the story had gone viral"
+     },
+     {
+      "w": "Write a short news report (60–80 words) about a school event. Include what three people said, in reported speech."
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Report: 'We are investigating the case,' the police said.",
+      "a": [
+       "The police said they were investigating the case."
+      ]
+     },
+     {
+      "q": "Report: 'I will never trust that website again,' my dad said.",
+      "a": [
+       "My dad said he would never trust that website again."
+      ]
+     },
+     {
+      "q": "Report: 'I saw the singer here yesterday,' the fan said.",
+      "a": [
+       "The fan said she/he had seen the singer there the day before."
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'He told that the paywall was annoying.'",
+      "a": [
+       "He said that the paywall was annoying. / He told me that..."
+      ]
+     },
+     {
+      "q": "'I may be late.' → She said she ___ be late.",
+      "o": [
+       "might",
+       "may to",
+       "will"
+      ],
+      "a": 0
+     },
+     {
+      "r": "the influencer admitted that she had been paid for the post"
+     },
+     {
+      "w": "Find a real interview with a celebrity or athlete. Report the five most interesting things they said (100 words)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "repquest",
+   "title": "Reported questions, requests and commands",
+   "short": "asked if..., told me to..., asked me not to...",
+   "slides": [
+    {
+     "k": "title",
+     "h": "Reported questions & commands",
+     "sub": "News travels fast: the interview",
+     "hook": "If you could interview a famous news presenter or influencer, what would you ask them?"
+    },
+    {
+     "k": "text",
+     "h": "Reported yes/no questions",
+     "p": [
+      "Use asked + if / whether + statement word order. No question mark, no do / does / did."
+     ],
+     "ex": [
+      "'Are you a reporter?' → She asked me **if I was** a reporter.",
+      "'Did you see the accident?' → The police asked the eyewitness **whether she had seen** the accident."
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Reported wh- questions",
+     "p": [
+      "Use asked + question word + statement word order."
+     ],
+     "ex": [
+      "'Where do you get your news?' → He asked me **where I got** my news.",
+      "'What happened?' → The journalist asked **what had happened**.",
+      "'Why did you share that post?' → My teacher asked **why I had shared** that post."
+     ]
+    },
+    {
+     "k": "table",
+     "h": "Requests and commands",
+     "cols": [
+      "Direct",
+      "Reported"
+     ],
+     "rows": [
+      [
+       "'Please check your sources.'",
+       "The teacher asked us to check our sources."
+      ],
+      [
+       "'Don't share fake news!'",
+       "She told us not to share fake news."
+      ],
+      [
+       "'Turn off your newsfeed for an hour.'",
+       "He told me to turn off my newsfeed for an hour."
+      ]
+     ],
+     "note": "asked / told + person + (not) to + infinitive."
+    },
+    {
+     "k": "context",
+     "h": "Grammar in context",
+     "kind": "School newspaper · Interview",
+     "title": "We met a news presenter!",
+     "text": [
+      "Last week we interviewed Clara Ruiz, a news presenter on local TV. First, we **asked her how** she **had become** a journalist. She said she had started on the school newspaper!",
+      "Then Leo **asked whether** she **was** nervous when she was live on TV. She laughed and said 'Always!'",
+      "At the end, she **told us to read** news from different sources and **asked us not to believe** every headline on social media."
+     ]
+    },
+    {
+     "k": "mistakes",
+     "h": "Watch out!",
+     "items": [
+      [
+       "She asked me where did I get my news.",
+       "She asked me where I got my news.",
+       "Statement word order, no 'did'."
+      ],
+      [
+       "He asked me was the story true.",
+       "He asked me if the story was true.",
+       "Yes/no questions need if / whether."
+      ],
+      [
+       "She told me don't click on the clickbait.",
+       "She told me not to click on the clickbait.",
+       "Negative command: not to + infinitive."
+      ]
+     ]
+    },
+    {
+     "k": "check",
+     "q": "'Can you send me the update?' → The editor asked ___ send her the update.",
+     "o": [
+      "if I could",
+      "could I",
+      "me can"
+     ],
+     "a": 0,
+     "e": "Yes/no question → if + statement order."
+    },
+    {
+     "k": "check",
+     "q": "'Don't believe everything on your newsfeed!' → Mum told me ___ everything on my newsfeed.",
+     "o": [
+      "don't believe",
+      "not to believe",
+      "to not believing"
+     ],
+     "a": 1,
+     "e": "Negative command → not to + infinitive."
+    },
+    {
+     "k": "sum",
+     "h": "Remember",
+     "p": [
+      "Yes/no → asked if / whether + statement.",
+      "Wh- → asked + wh- word + statement.",
+      "Requests → asked someone to do.",
+      "Commands → told someone (not) to do."
+     ]
+    }
+   ],
+   "ex": {
+    "basic": [
+     {
+      "q": "'Are you OK?' → She asked me ___ I was OK.",
+      "o": [
+       "if",
+       "that",
+       "what"
+      ],
+      "a": 0
+     },
+     {
+      "q": "'Where do you live?' → He asked me where I ___ .",
+      "o": [
+       "lived",
+       "did live",
+       "live do"
+      ],
+      "a": 0
+     },
+     {
+      "q": "'Sit down.' → The teacher told us ___ down.",
+      "o": [
+       "to sit",
+       "sit",
+       "sitting"
+      ],
+      "a": 0
+     },
+     {
+      "q": "'Don't run!' → She told us ___ run.",
+      "a": [
+       "not to"
+      ]
+     },
+     {
+      "q": "'Please help me.' → He asked me ___ him.",
+      "a": [
+       "to help"
+      ]
+     },
+     {
+      "q": "'What's your name?' → She asked me what my name ___ .",
+      "a": [
+       "was"
+      ]
+     },
+     {
+      "r": "the reporter asked me where i was from"
+     },
+     {
+      "q": "'Do you like the news?' → He asked ___ I liked the news.",
+      "o": [
+       "whether",
+       "that",
+       "do"
+      ],
+      "a": 0
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "'Did you see the match?' → She asked me if I ___ the match.",
+      "a": [
+       "had seen",
+       "'d seen"
+      ]
+     },
+     {
+      "q": "'Why are you late?' → The teacher asked me why I ___ late.",
+      "a": [
+       "was"
+      ]
+     },
+     {
+      "q": "'Please don't post that photo.' → My friend asked me ___ that photo.",
+      "a": [
+       "not to post"
+      ]
+     },
+     {
+      "q": "'Can you call me later?' → She asked me ___ call her later.",
+      "o": [
+       "if I could",
+       "could I",
+       "can I"
+      ],
+      "a": 0
+     },
+     {
+      "q": "'Check your sources!' → The journalist told us ___ our sources.",
+      "a": [
+       "to check"
+      ]
+     },
+     {
+      "q": "'How long have you been a presenter?' → I asked her how long she ___ a presenter.",
+      "a": [
+       "had been"
+      ]
+     },
+     {
+      "q": "'Will you be on TV?' → They asked if I ___ be on TV.",
+      "a": [
+       "would"
+      ]
+     },
+     {
+      "r": "he asked us not to share the video"
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Report: 'Where did you find this story?' the editor asked me.",
+      "a": [
+       "The editor asked me where I had found that story.",
+       "The editor asked me where I had found this story."
+      ]
+     },
+     {
+      "q": "Report: 'Are you going to publish it?' she asked them.",
+      "a": [
+       "She asked them if they were going to publish it.",
+       "She asked them whether they were going to publish it."
+      ]
+     },
+     {
+      "q": "Report: 'Don't believe everything you read,' my grandad told me.",
+      "a": [
+       "My grandad told me not to believe everything I read."
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'She asked me what was I doing.'",
+      "a": [
+       "She asked me what I was doing.",
+       "She asked me what I was doing"
+      ]
+     },
+     {
+      "q": "Report: 'Could you speak more slowly, please?' I asked the presenter. → I asked the presenter ___ more slowly.",
+      "a": [
+       "to speak"
+      ]
+     },
+     {
+      "q": "Which is correct for: 'Who wrote the article?'",
+      "o": [
+       "She asked who had written the article.",
+       "She asked who did write the article.",
+       "She asked who the article had written."
+      ],
+      "a": 0
+     },
+     {
+      "q": "Report: 'What will happen next?' the viewers asked. → The viewers asked what ___ next.",
+      "a": [
+       "would happen"
+      ]
+     },
+     {
+      "r": "the police asked the eyewitness if she had taken any photos"
+     }
+    ]
+   },
+   "ws": {
+    "basic": [
+     {
+      "q": "'Are you hungry?' → Mum asked me if I ___ hungry.",
+      "a": [
+       "was"
+      ]
+     },
+     {
+      "q": "'Close the door.' → He told me ___ the door.",
+      "a": [
+       "to close"
+      ]
+     },
+     {
+      "q": "'Don't shout!' → She told us ___ shout.",
+      "o": [
+       "not to",
+       "don't",
+       "to don't"
+      ],
+      "a": 0
+     },
+     {
+      "q": "'What time is it?' → He asked what time it ___ .",
+      "o": [
+       "was",
+       "is it",
+       "did"
+      ],
+      "a": 0
+     },
+     {
+      "q": "'Please wait.' → She asked us ___ .",
+      "o": [
+       "to wait",
+       "wait",
+       "waiting"
+      ],
+      "a": 0
+     },
+     {
+      "r": "my friend asked me if i wanted to come"
+     },
+     {
+      "w": "Write three things your teacher told you to do this week and two things they told you not to do."
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "'Where did you go last night?' → She asked me where I ___ the night before.",
+      "a": [
+       "had gone"
+      ]
+     },
+     {
+      "q": "'Can I use your phone?' → He asked if he ___ my phone.",
+      "a": [
+       "could use"
+      ]
+     },
+     {
+      "q": "'Please send me the link.' → She asked me ___ her the link.",
+      "a": [
+       "to send"
+      ]
+     },
+     {
+      "q": "'Is the story true?' → I asked ___ the story was true.",
+      "o": [
+       "whether",
+       "that",
+       "is"
+      ],
+      "a": 0
+     },
+     {
+      "q": "'Don't click on that link!' → He told me ___ on that link.",
+      "o": [
+       "not to click",
+       "to not clicking",
+       "don't click"
+      ],
+      "a": 0
+     },
+     {
+      "r": "the presenter asked the guest what she thought about the news"
+     },
+     {
+      "w": "Interview a classmate (five questions). Then write a report of the interview using reported questions and answers."
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Report: 'Have you ever been interviewed?' the journalist asked me.",
+      "a": [
+       "The journalist asked me if/whether I had ever been interviewed."
+      ]
+     },
+     {
+      "q": "Report: 'Why didn't you check the source?' my teacher asked.",
+      "a": [
+       "My teacher asked (me) why I hadn't checked the source."
+      ]
+     },
+     {
+      "q": "Report: 'Don't forget to bring your microphone,' she told him.",
+      "a": [
+       "She told him not to forget to bring his microphone."
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'He asked me did I know the answer.'",
+      "a": [
+       "He asked me if I knew the answer."
+      ]
+     },
+     {
+      "q": "Report: 'How many people will watch the programme?' they asked.",
+      "a": [
+       "They asked how many people would watch the programme."
+      ]
+     },
+     {
+      "r": "the editor told the reporters to update the story every hour"
+     },
+     {
+      "w": "Write a short news story (100 words) about a press conference. Include at least three reported questions and two reported commands."
+     }
+    ]
+   }
+  }
+ ]
+}

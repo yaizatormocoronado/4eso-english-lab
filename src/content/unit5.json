@@ -1,0 +1,1151 @@
+{
+ "id": 5,
+ "title": "Survival",
+ "topic": "Survival skills, equipment and natural disasters",
+ "color": "#f26b00",
+ "vocab": [
+  {
+   "name": "Survival equipment",
+   "words": [
+    [
+     "compass",
+     "noun",
+     "a tool with a needle that points north",
+     "brújula",
+     "Use a *compass* to find your way."
+    ],
+    [
+     "first-aid kit",
+     "noun",
+     "a box with things to treat small injuries",
+     "botiquín",
+     "Always take a *first-aid kit* when you go hiking."
+    ],
+    [
+     "magnifying glass",
+     "noun",
+     "a glass that makes things look bigger",
+     "lupa",
+     "You can start a fire with a *magnifying glass* and sunlight."
+    ],
+    [
+     "matches",
+     "noun (pl)",
+     "small sticks that make fire when you rub them",
+     "cerillas",
+     "Keep the *matches* dry."
+    ],
+    [
+     "metal pot",
+     "noun",
+     "a metal container for cooking or boiling water",
+     "olla de metal",
+     "We boiled water in a *metal pot*."
+    ],
+    [
+     "multitool",
+     "noun",
+     "a small tool with a knife, scissors and other tools",
+     "multiherramienta",
+     "My *multitool* has a tiny saw."
+    ],
+    [
+     "rope",
+     "noun",
+     "a long, thick string",
+     "cuerda",
+     "We used a *rope* to climb down."
+    ],
+    [
+     "tarpaulin",
+     "noun",
+     "a large waterproof sheet",
+     "lona",
+     "A *tarpaulin* can make a quick shelter."
+    ],
+    [
+     "torch",
+     "noun",
+     "a small electric light you can carry",
+     "linterna",
+     "Turn on the *torch* – it's dark in the cave."
+    ],
+    [
+     "water purification tablets",
+     "noun (pl)",
+     "tablets that make dirty water safe to drink",
+     "pastillas potabilizadoras",
+     "Put *water purification tablets* in the river water."
+    ],
+    [
+     "waterproof bag",
+     "noun",
+     "a bag that doesn't let water in",
+     "bolsa estanca",
+     "Keep your phone in a *waterproof bag*."
+    ],
+    [
+     "whistle",
+     "noun",
+     "a small object you blow to make a loud sound",
+     "silbato",
+     "Blow the *whistle* if you get lost."
+    ]
+   ]
+  },
+  {
+   "name": "Disasters",
+   "words": [
+    [
+     "avalanche",
+     "noun",
+     "a large amount of snow falling down a mountain",
+     "avalancha, alud",
+     "The *avalanche* blocked the road."
+    ],
+    [
+     "cyberattack",
+     "noun",
+     "an attack on computer systems",
+     "ciberataque",
+     "A *cyberattack* shut down the hospital's computers."
+    ],
+    [
+     "drought",
+     "noun",
+     "a long period without rain",
+     "sequía",
+     "The *drought* destroyed the crops."
+    ],
+    [
+     "earthquake",
+     "noun",
+     "a sudden shaking of the ground",
+     "terremoto",
+     "The *earthquake* damaged hundreds of buildings."
+    ],
+    [
+     "flooding",
+     "noun",
+     "when water covers land that is usually dry",
+     "inundación",
+     "Heavy rain caused *flooding* in the town."
+    ],
+    [
+     "forest fire",
+     "noun",
+     "a fire that spreads through a forest",
+     "incendio forestal",
+     "The *forest fire* burned for a week."
+    ],
+    [
+     "global warming",
+     "noun",
+     "the increase in the Earth's temperature",
+     "calentamiento global",
+     "*Global warming* is melting glaciers."
+    ],
+    [
+     "hurricane",
+     "noun",
+     "a violent storm with very strong winds",
+     "huracán",
+     "The *hurricane* hit the coast at night."
+    ],
+    [
+     "nuclear explosion",
+     "noun",
+     "a huge explosion caused by nuclear energy",
+     "explosión nuclear",
+     "A *nuclear explosion* happened at Chernobyl in 1986."
+    ],
+    [
+     "volcanic eruption",
+     "noun",
+     "when a volcano throws out lava and ash",
+     "erupción volcánica",
+     "The *volcanic eruption* in La Palma lasted 85 days."
+    ]
+   ]
+  },
+  {
+   "name": "Extra: Survival skills",
+   "extra": true,
+   "words": [
+    [
+     "attitude",
+     "noun",
+     "your way of thinking about a situation",
+     "actitud",
+     "A positive *attitude* helps you survive."
+    ],
+    [
+     "heat",
+     "noun",
+     "high temperature",
+     "calor",
+     "The *heat* in the desert is dangerous."
+    ],
+    [
+     "protect",
+     "verb",
+     "to keep safe from harm",
+     "proteger",
+     "A hat *protects* you from the sun."
+    ],
+    [
+     "source",
+     "noun",
+     "where something comes from",
+     "fuente",
+     "Find a *source* of clean water."
+    ],
+    [
+     "task",
+     "noun",
+     "a piece of work you must do",
+     "tarea",
+     "Building a shelter is your first *task*."
+    ]
+   ]
+  }
+ ],
+ "grammar": [
+  {
+   "id": "cond012",
+   "title": "Zero, first and second conditional",
+   "short": "if and unless",
+   "slides": [
+    {
+     "k": "title",
+     "h": "Conditionals 0, 1 and 2",
+     "sub": "Survival: what would you do?",
+     "hook": "If you got lost in a forest with only a rope, a torch and a whistle, what would you do first?"
+    },
+    {
+     "k": "table",
+     "h": "Three conditionals",
+     "cols": [
+      "Type",
+      "If clause",
+      "Result clause",
+      "Use"
+     ],
+     "rows": [
+      [
+       "Zero",
+       "if + present simple",
+       "present simple",
+       "General truths, facts"
+      ],
+      [
+       "First",
+       "if + present simple",
+       "will / can / might + verb",
+       "Real, possible future situations"
+      ],
+      [
+       "Second",
+       "if + past simple",
+       "would / could / might + verb",
+       "Imaginary or unlikely situations"
+      ]
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Zero conditional",
+     "p": [
+      "Things that are always true – facts of survival!"
+     ],
+     "ex": [
+      "If you **heat** water in a metal pot, it **boils**.",
+      "If you **don't drink** water in the heat, you **get** dehydrated.",
+      "If you **point** a magnifying glass at the sun, it **can start** a fire."
+     ]
+    },
+    {
+     "k": "text",
+     "h": "First conditional",
+     "p": [
+      "A real possibility in the future."
+     ],
+     "ex": [
+      "If it **rains**, we**'ll put up** the tarpaulin.",
+      "If you **get** lost, **blow** your whistle!",
+      "We **won't find** the camp if we **don't take** a compass."
+     ]
+    },
+    {
+     "k": "text",
+     "h": "Second conditional",
+     "p": [
+      "An imaginary or unlikely situation in the present or future.",
+      "With 'be', we often use 'were' for all persons: If I were you..."
+     ],
+     "ex": [
+      "If I **were** on a desert island, I**'d build** a shelter with rope and a tarpaulin.",
+      "If we **had** matches, we **could make** a fire.",
+      "**If I were you**, I'd put the phone in a waterproof bag."
+     ]
+    },
+    {
+     "k": "text",
+     "h": "unless = if ... not",
+     "p": [
+      "'Unless' means 'except if'. Don't use a negative verb after it."
+     ],
+     "ex": [
+      "You'll get cold **unless** you **protect** yourself from the wind. (= if you don't protect)",
+      "**Unless** we **find** a source of clean water, we won't survive."
+     ]
+    },
+    {
+     "k": "context",
+     "h": "Grammar in context",
+     "kind": "Survival guide · Disasters",
+     "title": "What to do in an earthquake",
+     "text": [
+      "If the ground **starts** to shake, **get** under a strong table. If you **are** outside, **move** away from buildings.",
+      "Keep a first-aid kit and a torch at home. If there **is** an earthquake at night, you**'ll need** them.",
+      "Don't use the lift **unless** it **is** safe. And remember: if everyone **stayed** calm, fewer people **would get** hurt."
+     ]
+    },
+    {
+     "k": "mistakes",
+     "h": "Watch out!",
+     "items": [
+      [
+       "If there will be an earthquake, get under a table.",
+       "If there is an earthquake, get under a table.",
+       "No 'will' in the if clause."
+      ],
+      [
+       "If I would have a compass, I'd know the way.",
+       "If I had a compass, I'd know the way.",
+       "No 'would' in the if clause."
+      ],
+      [
+       "Unless you don't take water, you'll get thirsty.",
+       "Unless you take water, you'll get thirsty.",
+       "'unless' already contains 'not'."
+      ]
+     ]
+    },
+    {
+     "k": "check",
+     "q": "If I ___ a bear in the forest, I would stay very still.",
+     "o": [
+      "see",
+      "saw",
+      "will see"
+     ],
+     "a": 1,
+     "e": "Imaginary situation → second conditional: if + past simple."
+    },
+    {
+     "k": "check",
+     "q": "We'll get wet ___ we put up the tarpaulin.",
+     "o": [
+      "if",
+      "unless",
+      "when"
+     ],
+     "a": 1,
+     "e": "= if we don't put up the tarpaulin."
+    },
+    {
+     "k": "sum",
+     "h": "Remember",
+     "p": [
+      "0: if + present, present (facts).",
+      "1: if + present, will (real future).",
+      "2: if + past, would (imaginary).",
+      "unless = if not. No will / would after if."
+     ]
+    }
+   ],
+   "ex": {
+    "basic": [
+     {
+      "q": "If you heat ice, it ___ .",
+      "o": [
+       "melts",
+       "would melt",
+       "melted"
+      ],
+      "a": 0
+     },
+     {
+      "q": "If it rains, we ___ (stay) in the tent.",
+      "a": [
+       "will stay",
+       "'ll stay"
+      ]
+     },
+     {
+      "q": "If I ___ (have) a million euros, I'd travel the world.",
+      "a": [
+       "had"
+      ]
+     },
+     {
+      "q": "If you get lost, ___ your whistle.",
+      "o": [
+       "blow",
+       "blew",
+       "would blow"
+      ],
+      "a": 0
+     },
+     {
+      "q": "If I were you, I ___ take a torch.",
+      "o": [
+       "would",
+       "will",
+       "am"
+      ],
+      "a": 0
+     },
+     {
+      "q": "We won't go ___ the weather is good.",
+      "o": [
+       "unless",
+       "if",
+       "when"
+      ],
+      "a": 0
+     },
+     {
+      "r": "if we find water we will survive"
+     },
+     {
+      "q": "Plants die if they ___ (not / get) water.",
+      "a": [
+       "don't get",
+       "do not get"
+      ]
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "If I ___ (be) on a desert island, I ___ (build) a raft.",
+      "a": [
+       "were / would build",
+       "was / would build",
+       "were / 'd build",
+       "was / 'd build"
+      ],
+      "h": "Write both verbs separated by /"
+     },
+     {
+      "q": "Unless we ___ (leave) now, it'll get dark.",
+      "a": [
+       "leave"
+      ]
+     },
+     {
+      "q": "If you ___ (not / boil) the water, you'll get ill.",
+      "a": [
+       "don't boil",
+       "do not boil"
+      ]
+     },
+     {
+      "q": "What ___ you do if you saw a shark?",
+      "o": [
+       "would",
+       "will",
+       "did"
+      ],
+      "a": 0
+     },
+     {
+      "q": "If there's an earthquake, ___ under a table.",
+      "o": [
+       "get",
+       "you'd get",
+       "got"
+      ],
+      "a": 0
+     },
+     {
+      "q": "We could make a fire if we ___ some matches.",
+      "o": [
+       "had",
+       "have",
+       "would have"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Rewrite with unless: 'If you don't take a map, you'll get lost.' → You'll get lost ___ a map.",
+      "a": [
+       "unless you take"
+      ]
+     },
+     {
+      "r": "what would you take if you could only carry three things"
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Correct the mistake: 'If I would know the way, I would tell you.'",
+      "a": [
+       "If I knew the way, I would tell you.",
+       "If I knew the way, I'd tell you."
+      ]
+     },
+     {
+      "q": "Which sentence is about an unlikely situation?",
+      "o": [
+       "If it snows, we'll go skiing.",
+       "If it snowed in Seville, people would be shocked.",
+       "If it snows, roads close."
+      ],
+      "a": 1
+     },
+     {
+      "q": "Rewrite: 'I don't have a compass, so I can't find north.' → If I ___ a compass, I ___ north.",
+      "a": [
+       "had / could find",
+       "had / would find"
+      ],
+      "h": "Write both parts separated by /"
+     },
+     {
+      "q": "Rewrite: 'Unless you hurry, you'll miss the rescue boat.' → If you ___ , you'll miss the rescue boat.",
+      "a": [
+       "don't hurry",
+       "do not hurry"
+      ]
+     },
+     {
+      "q": "If the volcano ___ (erupt) again, the authorities ___ (evacuate) the town. (real possibility)",
+      "a": [
+       "erupts / will evacuate",
+       "erupts / 'll evacuate"
+      ],
+      "h": "Write both verbs separated by /"
+     },
+     {
+      "q": "Choose the best advice: 'If I were you, I ___ alone.'",
+      "o": [
+       "wouldn't go",
+       "won't go",
+       "don't go"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Complete: 'If people ___ (use) less energy, global warming ___ (slow) down.' (imaginary)",
+      "a": [
+       "used / would slow",
+       "used / 'd slow"
+      ],
+      "h": "Write both verbs separated by /"
+     },
+     {
+      "r": "if i were stuck in a lift i wouldn't panic"
+     }
+    ]
+   },
+   "ws": {
+    "basic": [
+     {
+      "q": "If you mix red and yellow, you ___ (get) orange.",
+      "a": [
+       "get"
+      ]
+     },
+     {
+      "q": "If we miss the bus, we ___ (walk).",
+      "a": [
+       "will walk"
+      ]
+     },
+     {
+      "q": "If I ___ (can) fly, I would go to Australia.",
+      "a": [
+       "could"
+      ]
+     },
+     {
+      "q": "If you're cold, ___ a jumper.",
+      "o": [
+       "put on",
+       "would put on",
+       "put on will"
+      ],
+      "a": 0
+     },
+     {
+      "q": "I'd help you if I ___ time.",
+      "o": [
+       "had",
+       "have",
+       "will have"
+      ],
+      "a": 0
+     },
+     {
+      "r": "if it is sunny we will go hiking"
+     },
+     {
+      "w": "Complete: If I had a superpower, ... / If it rains tomorrow, ... / If you heat chocolate, ..."
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "If I ___ (meet) a famous explorer, I'd ask him lots of questions.",
+      "a": [
+       "met"
+      ]
+     },
+     {
+      "q": "We'll be fine unless the storm ___ (get) worse.",
+      "a": [
+       "gets"
+      ]
+     },
+     {
+      "q": "If you ___ (not / wear) sun cream, you'll get burnt.",
+      "a": [
+       "don't wear"
+      ]
+     },
+     {
+      "q": "If I were you, I ___ that water.",
+      "o": [
+       "wouldn't drink",
+       "won't drink",
+       "don't drink"
+      ],
+      "a": 0
+     },
+     {
+      "q": "___ you don't have a torch, use your phone.",
+      "o": [
+       "If",
+       "Unless",
+       "Would"
+      ],
+      "a": 0
+     },
+     {
+      "r": "unless you bring a tarpaulin you will get wet"
+     },
+     {
+      "w": "You are stranded on a mountain. Write six sentences about what you would do using the second conditional."
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Rewrite: 'We don't have a boat, so we can't leave the island.' → If we ___ .",
+      "a": [
+       "had a boat, we could leave the island"
+      ]
+     },
+     {
+      "q": "Rewrite: 'If you don't train, you won't finish the race.' → Unless ___ .",
+      "a": [
+       "you train, you won't finish the race"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'If I will see a snake, I'll run.'",
+      "a": [
+       "If I see a snake, I'll run."
+      ]
+     },
+     {
+      "q": "Which conditional? 'If temperatures rise, ice melts.'",
+      "o": [
+       "zero",
+       "first",
+       "second"
+      ],
+      "a": 0
+     },
+     {
+      "q": "If the hurricane ___ (reach) the city, many people ___ (lose) their homes. (unlikely)",
+      "a": [
+       "reached / would lose"
+      ]
+     },
+     {
+      "r": "what would happen if there was no electricity for a week"
+     },
+     {
+      "w": "Write an article (100 words) titled 'How to survive a natural disaster'. Use zero, first and second conditionals and unless."
+     }
+    ]
+   }
+  },
+  {
+   "id": "cond3",
+   "title": "Third conditional, I wish / If only",
+   "short": "Imagining the past and expressing regrets",
+   "slides": [
+    {
+     "k": "title",
+     "h": "Third conditional & wishes",
+     "sub": "Survival: lessons from real disasters",
+     "hook": "Think of a disaster you know about (a hurricane, a forest fire, a volcanic eruption). What could people have done differently?"
+    },
+    {
+     "k": "table",
+     "h": "Third conditional",
+     "cols": [
+      "If clause",
+      "Result clause"
+     ],
+     "rows": [
+      [
+       "If + past perfect (had + participle)",
+       "would / could / might have + participle"
+      ],
+      [
+       "If they had checked the forecast,",
+       "they wouldn't have been caught in the avalanche."
+      ],
+      [
+       "If we had taken a compass,",
+       "we could have found the path."
+      ]
+     ],
+     "note": "It's about an imaginary past: the opposite of what really happened."
+    },
+    {
+     "k": "text",
+     "h": "Real past vs imaginary past",
+     "p": [
+      "Reality: They didn't bring a torch, so they got lost in the dark.",
+      "Imaginary past: If they **had brought** a torch, they **wouldn't have got** lost."
+     ],
+     "ex": [
+      "If the alarm **had worked**, people **would have left** before the flooding.",
+      "She **might have survived** the hurricane if she **had stayed** inside."
+     ]
+    },
+    {
+     "k": "text",
+     "h": "What if...?",
+     "p": [
+      "We use 'What if...?' to imagine possible situations, past or future."
+     ],
+     "ex": [
+      "**What if** the volcanic eruption starts tonight?",
+      "**What if** we **hadn't packed** the first-aid kit?"
+     ]
+    },
+    {
+     "k": "table",
+     "h": "I wish / If only",
+     "cols": [
+      "Wish about...",
+      "Form",
+      "Example"
+     ],
+     "rows": [
+      [
+       "the present",
+       "wish / if only + past simple",
+       "I wish I had a torch. (I don't)"
+      ],
+      [
+       "the past (regret)",
+       "wish / if only + past perfect",
+       "If only we had brought the water purification tablets!"
+      ],
+      [
+       "annoying behaviour",
+       "wish + would",
+       "I wish you would stop complaining about the heat!"
+      ]
+     ]
+    },
+    {
+     "k": "context",
+     "h": "Grammar in context",
+     "kind": "True story · Survival",
+     "title": "Lost in the mountains",
+     "text": [
+      "Two hikers got lost in the Pyrenees last winter. 'If only we **had checked** the weather!' says Pablo. 'If we **had seen** the forecast, we **wouldn't have gone** up.'",
+      "Luckily, they had a whistle and a compass. 'If we **hadn't had** the whistle, the rescue team **wouldn't have found** us.'",
+      "'Now I wish I **knew** more about first aid. What if one of us **had been** injured?'"
+     ]
+    },
+    {
+     "k": "mistakes",
+     "h": "Watch out!",
+     "items": [
+      [
+       "If I would have known about the flooding, I would have left.",
+       "If I had known about the flooding, I would have left.",
+       "Past perfect in the if clause."
+      ],
+      [
+       "I wish I have more water.",
+       "I wish I had more water.",
+       "Present wish → past simple."
+      ],
+      [
+       "If only I didn't forget the matches yesterday.",
+       "If only I hadn't forgotten the matches yesterday.",
+       "Past regret → past perfect."
+      ]
+     ]
+    },
+    {
+     "k": "check",
+     "q": "If we ___ the forecast, we wouldn't have been caught in the avalanche.",
+     "o": [
+      "had checked",
+      "checked",
+      "would check"
+     ],
+     "a": 0,
+     "e": "Third conditional: if + past perfect."
+    },
+    {
+     "k": "check",
+     "q": "It's so dark. I wish I ___ a torch.",
+     "o": [
+      "have",
+      "had",
+      "would have"
+     ],
+     "a": 1,
+     "e": "Wish about the present → past simple."
+    },
+    {
+     "k": "sum",
+     "h": "Remember",
+     "p": [
+      "Third conditional: if + had done, would have done.",
+      "wish / if only + past simple → present.",
+      "wish / if only + past perfect → past regrets.",
+      "What if...? → imagining possibilities."
+     ]
+    }
+   ],
+   "ex": {
+    "basic": [
+     {
+      "q": "If I had studied, I ___ passed.",
+      "o": [
+       "would have",
+       "will have",
+       "would"
+      ],
+      "a": 0
+     },
+     {
+      "q": "If she ___ (leave) earlier, she wouldn't have missed the train.",
+      "a": [
+       "had left",
+       "'d left"
+      ]
+     },
+     {
+      "q": "I wish I ___ (have) a map right now.",
+      "a": [
+       "had"
+      ]
+     },
+     {
+      "q": "If only I ___ my phone at home yesterday!",
+      "o": [
+       "hadn't left",
+       "didn't leave",
+       "don't leave"
+      ],
+      "a": 0
+     },
+     {
+      "q": "We ___ (not / get) lost if we had taken a compass.",
+      "a": [
+       "wouldn't have got",
+       "would not have got",
+       "wouldn't have gotten"
+      ]
+     },
+     {
+      "q": "I wish it ___ so hot today.",
+      "o": [
+       "wasn't",
+       "isn't",
+       "hadn't been"
+      ],
+      "a": 0
+     },
+     {
+      "r": "if we had brought a torch we would have seen the path"
+     },
+     {
+      "q": "___ if the boat doesn't come?",
+      "o": [
+       "What",
+       "Who",
+       "Why"
+      ],
+      "a": 0
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "If they ___ (listen) to the warning, they ___ (be) safe.",
+      "a": [
+       "had listened / would have been",
+       "'d listened / would have been"
+      ],
+      "h": "Write both verbs separated by /"
+     },
+     {
+      "q": "I wish I ___ (not / eat) all the chocolate yesterday.",
+      "a": [
+       "hadn't eaten",
+       "had not eaten"
+      ]
+     },
+     {
+      "q": "If only I ___ (can) swim better!",
+      "a": [
+       "could"
+      ]
+     },
+     {
+      "q": "She might have survived if she ___ calm.",
+      "o": [
+       "had stayed",
+       "stayed",
+       "would stay"
+      ],
+      "a": 0
+     },
+     {
+      "q": "I wish my brother ___ stop playing loud music!",
+      "o": [
+       "would",
+       "will",
+       "had"
+      ],
+      "a": 0
+     },
+     {
+      "q": "Reality: 'I didn't bring a coat, so I was cold.' → If I ___ a coat, I wouldn't have been cold.",
+      "a": [
+       "had brought",
+       "'d brought"
+      ]
+     },
+     {
+      "q": "If the rescue team ___ (not / find) us, we ___ (die).",
+      "a": [
+       "hadn't found / would have died",
+       "had not found / would have died"
+      ],
+      "h": "Write both verbs separated by /"
+     },
+     {
+      "r": "i wish i had packed more food"
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Rewrite: 'We didn't see the sign, so we went the wrong way.' → If we ___ the sign, we ___ the wrong way.",
+      "a": [
+       "had seen / wouldn't have gone",
+       "'d seen / wouldn't have gone",
+       "had seen / would not have gone"
+      ],
+      "h": "Write both parts separated by /"
+     },
+     {
+      "q": "Rewrite: 'I regret not learning first aid.' → I wish ___ first aid.",
+      "a": [
+       "I had learnt",
+       "I had learned",
+       "I'd learnt",
+       "I'd learned"
+      ]
+     },
+     {
+      "q": "Rewrite: 'It's a pity I'm not braver.' → If only ___ braver.",
+      "a": [
+       "I were",
+       "I was"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'If the alarm would have rung, we would have escaped.'",
+      "a": [
+       "If the alarm had rung, we would have escaped.",
+       "If the alarm had rung, we'd have escaped."
+      ]
+     },
+     {
+      "q": "Which sentence expresses annoyance?",
+      "o": [
+       "I wish you had told me.",
+       "I wish you would stop shouting.",
+       "I wish I were taller."
+      ],
+      "a": 1
+     },
+     {
+      "q": "Complete the mixed idea: 'If I had slept more last night, I ___ (not / be) so tired now.'",
+      "a": [
+       "wouldn't be",
+       "would not be"
+      ]
+     },
+     {
+      "q": "Choose: 'What if we ___ the tablets? We'd have been ill!'",
+      "o": [
+       "hadn't had",
+       "don't have",
+       "won't have"
+      ],
+      "a": 0
+     },
+     {
+      "r": "if only we had checked the weather before we left"
+     }
+    ]
+   },
+   "ws": {
+    "basic": [
+     {
+      "q": "If I had seen you, I ___ (say) hello.",
+      "a": [
+       "would have said"
+      ]
+     },
+     {
+      "q": "If it ___ (not / rain), we would have played outside.",
+      "a": [
+       "hadn't rained"
+      ]
+     },
+     {
+      "q": "I wish I ___ (be) on holiday now.",
+      "a": [
+       "were / was"
+      ]
+     },
+     {
+      "q": "If only I ___ more time!",
+      "o": [
+       "had",
+       "have",
+       "will have"
+      ],
+      "a": 0
+     },
+     {
+      "q": "We would have won if we ___ harder.",
+      "o": [
+       "had trained",
+       "trained",
+       "train"
+      ],
+      "a": 0
+     },
+     {
+      "r": "i wish i had a dog"
+     },
+     {
+      "w": "Write three wishes about your life now (I wish...) and two regrets about the past (If only I had...)."
+     }
+    ],
+    "intermediate": [
+     {
+      "q": "If you ___ (tell) me, I ___ (help) you.",
+      "a": [
+       "had told / would have helped"
+      ]
+     },
+     {
+      "q": "I wish I ___ (not / say) that to her.",
+      "a": [
+       "hadn't said"
+      ]
+     },
+     {
+      "q": "I wish you ___ (stop) interrupting me!",
+      "a": [
+       "would stop"
+      ]
+     },
+     {
+      "q": "If he hadn't fallen, he ___ the race.",
+      "o": [
+       "would have won",
+       "would win",
+       "will win"
+      ],
+      "a": 0
+     },
+     {
+      "q": "What ___ the volcano erupts while we're there?",
+      "o": [
+       "if",
+       "would",
+       "unless"
+      ],
+      "a": 0
+     },
+     {
+      "r": "they would have escaped if the door had been open"
+     },
+     {
+      "w": "Think about a bad day you had. Write five third conditional sentences about how it could have been different."
+     }
+    ],
+    "advanced": [
+     {
+      "q": "Rewrite: 'He didn't wear a helmet, so he was injured.' → If he ___ .",
+      "a": [
+       "had worn a helmet, he wouldn't have been injured"
+      ]
+     },
+     {
+      "q": "Rewrite: 'I'm sorry I didn't go to the concert.' → I wish ___ .",
+      "a": [
+       "I had gone to the concert"
+      ]
+     },
+     {
+      "q": "Rewrite: 'It's a shame we don't live near the beach.' → If only ___ .",
+      "a": [
+       "we lived near the beach"
+      ]
+     },
+     {
+      "q": "Correct the mistake: 'I wish I would be taller.'",
+      "a": [
+       "I wish I were / was taller."
+      ]
+     },
+     {
+      "q": "Which sentence talks about the past?",
+      "o": [
+       "I wish I knew.",
+       "I wish I had known.",
+       "I wish you would know."
+      ],
+      "a": 1
+     },
+     {
+      "r": "if the authorities had acted faster fewer people would have suffered"
+     },
+     {
+      "w": "Research a real disaster (e.g. Chernobyl, La Palma 2021). Write 100 words about what happened and what could have been different. Use the third conditional and If only."
+     }
+    ]
+   }
+  }
+ ]
+}
