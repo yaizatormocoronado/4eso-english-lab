@@ -184,8 +184,12 @@
 
   /* ---------- student identity + activity log (Google Sheets) ---------- */
   const CFG = window.LAB_CONFIG || {};
-  const CLASSES = CFG.classes || ["4ºA", "4ºB", "4ºC", "4ºD"];
-  function student() { return store.student && store.student.name ? store.student : null; }
+  const CLASSES = CFG.classes || ["4ºA", "4ºB", "4ºC"];
+  function student() {
+    const s = store.student;
+    return s && s.first && s.last && CLASSES.includes(s.group) ? s : null;
+  }
+  const tidyName = v => v.trim().replace(/\s+/g, " ").toLowerCase().replace(/(^|[\s'-])(\p{L})/gu, (m, a, b) => a + b.toUpperCase());
   function paintStudent() {
     const el = document.getElementById("who");
     if (!el) return;
@@ -221,26 +225,39 @@
       <img class="logo-big" src="img/logo.png" alt="In Order Words" width="560" height="313">
       <div><span class="label">Before you start</span><h1>Who are you?</h1>
       <p class="sub">Your teacher will see the activities you complete and your scores.</p></div>
-      <label for="st-name">Your name${CFG.askCode ? " or student code" : ""}</label>
-      <input class="type-in" id="st-name" autocomplete="off" maxlength="40" placeholder="${CFG.askCode ? "e.g. C-07" : "First name and first surname"}" value="${esc(s.name || "")}">
-      <label for="st-group">Your class</label>
-      <select class="type-in" id="st-group">${CLASSES.map(c => `<option${c === s.group ? " selected" : ""}>${esc(c)}</option>`).join("")}</select>
-      <p class="err" id="st-err" hidden>Please write your name.</p>
+      <label for="st-first">First name</label>
+      <input class="type-in" id="st-first" autocomplete="given-name" maxlength="30" placeholder="e.g. Lucía" value="${esc(s.first || "")}">
+      <label for="st-last">Surnames</label>
+      <input class="type-in" id="st-last" autocomplete="family-name" maxlength="50" placeholder="e.g. García Pérez" value="${esc(s.last || "")}">
+      <span class="field-label" id="st-group-label">Your class</span>
+      <div class="class-pick" role="radiogroup" aria-labelledby="st-group-label">${CLASSES.map(c => `<button type="button" role="radio" class="class-opt" data-group="${esc(c)}" aria-checked="${c === s.group}">${esc(c)}</button>`).join("")}</div>
+      <p class="err" id="st-err" hidden></p>
       <button class="btn" type="submit">Start learning →</button>
       <p class="privacy">We only save your name, your class and your results in the activities, so your teacher can follow your progress. Nothing else is collected.</p>
     </form></section>`;
+    let group = CLASSES.includes(s.group) ? s.group : "";
+    const pick = app.querySelector(".class-pick");
+    pick.addEventListener("click", e => {
+      const b = e.target.closest(".class-opt"); if (!b) return;
+      group = b.dataset.group;
+      pick.querySelectorAll(".class-opt").forEach(x => x.setAttribute("aria-checked", String(x === b)));
+    });
     document.getElementById("signin").addEventListener("submit", e => {
       e.preventDefault();
-      const name = document.getElementById("st-name").value.trim().replace(/\s+/g, " ");
-      if (name.length < 2) { document.getElementById("st-err").hidden = false; return; }
-      const changed = !s.name || s.name !== name;
-      store.student = { name, group: document.getElementById("st-group").value };
+      const first = tidyName(document.getElementById("st-first").value);
+      const last = tidyName(document.getElementById("st-last").value);
+      const err = document.getElementById("st-err");
+      const problem = first.length < 2 ? "Please write your first name." : last.length < 2 ? "Please write your surnames." : !group ? "Please choose your class: " + CLASSES.join(", ") + "." : "";
+      if (problem) { err.textContent = problem; err.hidden = false; return; }
+      const name = first + " " + last;
+      const changed = s.name !== name || s.group !== group;
+      store.student = { first, last, name, group };
       save(); paintStudent();
       if (changed) logEvent({ activity: "Sign in", unit: "", detail: "", level: "", score: "" });
       location.hash = "#/";
       route();
     });
-    setTimeout(() => document.getElementById("st-name").focus(), 50);
+    setTimeout(() => document.getElementById("st-first").focus(), 50);
   }
 
   /* ---------- router ---------- */

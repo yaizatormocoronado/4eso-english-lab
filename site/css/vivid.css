@@ -158,3 +158,8 @@ body {
 .privacy { font-size: 13px; color: var(--muted); margin: 0; }
 .who { font-weight: 700; max-width: 170px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 @media (max-width: 520px) { .who { max-width: 96px; } #sound { display: none; } }
+.field-label { font-weight: 700; font-size: 15px; margin-bottom: -4px; }
+.class-pick { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.class-opt { border: 2px solid var(--line); border-bottom-width: 4px; background: var(--card); border-radius: 14px; padding: 14px 8px; font: 800 22px/1 var(--display); cursor: pointer; color: var(--ink); }
+.class-opt:hover { border-color: var(--pop5); }
+.class-opt[aria-checked="true"] { background: linear-gradient(135deg, var(--pop1), var(--pop5)); color: #fff; border-color: transparent; box-shadow: 0 4px 0 #5a2ab0; }

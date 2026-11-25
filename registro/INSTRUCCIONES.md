@@ -33,9 +33,8 @@ Para comprobarla, pégala en el navegador: debe aparecer *"El registro de 4ESO E
    sheetUrl: "https://script.google.com/macros/s/XXXXXXXX/exec",
    ```
 
-3. Revisa la lista de clases (`classes`) y cámbiala si tus grupos son otros.
-4. Si prefieres que el alumnado escriba un **código** en vez de su nombre (por ejemplo `C-07` = 4ºC, número 7 de lista), pon `askCode: true`. Así en la hoja no aparecen nombres reales y solo tú tienes la lista que relaciona código y alumno.
-5. Vuelve a subir la carpeta `site` a tu alojamiento (Netlify, GitHub Pages…).
+3. Las clases que puede elegir el alumnado son 4ºA, 4ºB y 4ºC (`classes`). Cámbialas ahí si algún año son otras.
+4. Vuelve a subir la carpeta `site` a tu alojamiento (Netlify, GitHub Pages…).
 
 ## Qué verás en la hoja
 
@@ -46,7 +45,7 @@ Cada fila es una actividad terminada:
 
 Actividades que se registran:
 
-- **Sign in**: el alumno entra por primera vez o cambia de nombre.
+- **Sign in**: el alumno entra por primera vez (nombre y apellidos + clase) o cambia sus datos.
 - **Grammar exercise**: tema gramatical, nivel, nota y aciertos.
 - **Vocabulary practice**: grupo de palabras, nota y cuántas palabras de la unidad domina ya.
 - **Presentation**: ha visto una presentación hasta la última diapositiva.
@@ -59,4 +58,4 @@ Al recargar la hoja verás un menú nuevo, **4ESO English Lab → Crear / actual
 - Si un alumno no tiene internet en ese momento, sus resultados se guardan en su navegador y se envían en cuanto vuelve a conectarse.
 - No hay contraseñas: un alumno podría escribir el nombre de otro. Para seguimiento de clase suele bastar.
 - Si cambias el código del script, tienes que hacer **Implementar → Gestionar implementaciones → Editar → Nueva versión** para que se aplique (la URL no cambia).
-- Protección de datos: solo se guardan nombre (o código), clase y resultados. Es recomendable informar al alumnado y a las familias, y usar la cuenta del centro.
+- Protección de datos: solo se guardan nombre y apellidos, clase y resultados. Es recomendable informar al alumnado y a las familias, y usar la cuenta del centro.
