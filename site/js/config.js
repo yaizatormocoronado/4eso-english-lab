@@ -3,6 +3,6 @@
       While it is empty, nothing is sent anywhere.
    2. classes: the groups students can choose from. */
 window.LAB_CONFIG = {
-  sheetUrl: "",
+  sheetUrl: "https://script.google.com/macros/s/XXXXXXXX/exec",",
   classes: ["4ºA", "4ºB", "4ºC"]
 };

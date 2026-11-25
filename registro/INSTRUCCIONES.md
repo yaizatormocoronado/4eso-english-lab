@@ -11,6 +11,7 @@ Lo montas una sola vez (unos 10 minutos). Usa preferiblemente la **cuenta de Goo
 1. En la hoja: **Extensiones → Apps Script**.
 2. Borra lo que aparece y pega todo el contenido del archivo `Codigo.gs` (está en esta misma carpeta).
 3. Pulsa el icono de **Guardar** (disquete).
+4. **Importante:** comprueba que arriba, en el desplegable de funciones, aparecen `doPost`, `doGet`, `crearResumen`… Si solo aparece `myFunction`, el código no se ha pegado o no se ha guardado.
 
 ## 3. Publícalo como aplicación web
 
@@ -23,6 +24,8 @@ Lo montas una sola vez (unos 10 minutos). Usa preferiblemente la **cuenta de Goo
 5. Copia la **URL de la aplicación web** (termina en `/exec`).
 
 Para comprobarla, pégala en el navegador: debe aparecer *"El registro de 4ESO English Lab está funcionando."*
+
+> **Si aparece "Función de script no encontrada: doGet"**: la implementación se hizo antes de guardar el código. Guarda el script (disquete) y ve a **Implementar → Gestionar implementaciones → ✏️ Editar → Versión: Nueva versión → Implementar**. La URL no cambia.
 
 ## 4. Conecta la web
 
